@@ -1,0 +1,583 @@
+original_index,text_column,text,negative,neutral,positive,sentiment,date,year,month
+0,Title,video is the age of american exceptionalism nearing an end,0.11381266266107559,0.1352623850107193,0.7509249448776245,positive,2025-05-15,2025,5
+1,Title,australia s soft landing spurs debate over policy in next crisis,0.24038273096084595,0.46662503480911255,0.2929922342300415,neutral,2025-05-20,2025,5
+2,Title,bank indonesia poised to resume rate cuts as growth falters,0.07350656390190125,0.8569060564041138,0.06958742439746857,neutral,2025-05-20,2025,5
+3,Title,eu likely to propose quota to ban russia gas imports by end 2027,0.04301091283559799,0.19341416656970978,0.7635748982429504,positive,2025-05-20,2025,5
+4,Title,japan s april export growth slows as trump ramps up tariffs,0.009796296246349812,0.9633572101593018,0.02684651128947735,neutral,2025-05-20,2025,5
+5,Title,japan s farm minister eto resigns following comments on rice,0.01012376882135868,0.9240099787712097,0.06586629152297974,neutral,2025-05-20,2025,5
+6,Title,kraft heinz mulls deals after berkshire hathaway exits board,0.020181220024824142,0.5765394568443298,0.40327927470207214,neutral,2025-05-20,2025,5
+7,Title,malaysia ex pm najib played role in 2002 submarine bribes french prosecutors,0.067903533577919,0.19116362929344177,0.7409328818321228,positive,2025-05-20,2025,5
+8,Title,new fortress energy disqualified from puerto rico power auction,0.032383646816015244,0.027824535965919495,0.9397917985916138,positive,2025-05-20,2025,5
+9,Title,reeves to meet bessent as questions linger over uk us deal,0.12472190707921982,0.15354125201702118,0.7217368483543396,positive,2025-05-20,2025,5
+10,Title,south africa budget gets third reboot with credibility on line,0.7439675331115723,0.02452833764255047,0.2315041720867157,negative,2025-05-20,2025,5
+11,Title,stock market today dow s p live updates,0.03214000537991524,0.03012198396027088,0.9377379417419434,positive,2025-05-20,2025,5
+12,Title,traders brace for 10 year yield at 5 as selloff sours risk mood,0.05174325406551361,0.84017014503479,0.10808668285608292,neutral,2025-05-20,2025,5
+13,Title,trump won t participate in g 20 in south africa rubio says,0.03575925529003143,0.04307614266872406,0.9211646318435669,positive,2025-05-20,2025,5
+14,Title,us set to hit deposit insurance fund target ratio by end of 2025,0.8090210556983948,0.011927895247936249,0.17905114591121674,negative,2025-05-20,2025,5
+15,Title,us sets the stage for duties on battery materials from china,0.05638786405324936,0.04409979656338692,0.8995122909545898,positive,2025-05-20,2025,5
+16,Title,buyers strike in japanese bonds sends warning note to boj on tapering,0.11854672431945801,0.8228389620780945,0.05861429497599602,neutral,2025-05-21,2025,5
+17,Title,10 best affordable sushi restaurants in new york city 2025,0.20204177498817444,0.0209074504673481,0.7770507335662842,positive,2025-05-21,2025,5
+18,Title,amazon ceo says customer demand prices steady despite tariffs,0.8945173025131226,0.060760073363780975,0.04472263157367706,negative,2025-05-21,2025,5
+19,Title,argentina s economy grew less than expected in march,0.0478895902633667,0.9394062161445618,0.01270423922687769,neutral,2025-05-21,2025,5
+20,Title,baidu reports surprise revenue jump during china s ai battle,0.943999171257019,0.023925015702843666,0.032075781375169754,negative,2025-05-21,2025,5
+21,Title,bank of spain chief economist gavilan will step down in june,0.016563963145017624,0.3694285452365875,0.6140075325965881,positive,2025-05-21,2025,5
+22,Title,bessent kato did not discuss fx levels at g 7 meeting us says,0.029975520446896553,0.07308503240346909,0.8969393968582153,positive,2025-05-21,2025,5
+23,Title,bofa tells clients to bet against mexico peso as recession looms,0.09340465068817139,0.195992574095726,0.7106027603149414,positive,2025-05-21,2025,5
+24,Title,boj hearings underscore divergent opinions on bond tapering pace,0.030548490583896637,0.8029875159263611,0.16646407544612885,neutral,2025-05-21,2025,5
+25,Title,brazil s invepar said to hire adviser for debt restructuring,0.1134769394993782,0.014665203168988228,0.8718578219413757,positive,2025-05-21,2025,5
+26,Title,carney says canada us are in high level talks on golden dome defense system,0.6156801581382751,0.01021113432943821,0.37410876154899597,negative,2025-05-21,2025,5
+27,Title,china threatens enforcers of us s huawei curbs with legal action,0.01792258583009243,0.9001954197883606,0.08188198506832123,neutral,2025-05-21,2025,5
+28,Title,china us trade soars as exporters race to hit trade truce window,0.6855137348175049,0.23562413454055786,0.07886222004890442,negative,2025-05-21,2025,5
+29,Title,chinese authorities question metals bosses in smuggling probe,0.03649680316448212,0.7914859056472778,0.17201727628707886,neutral,2025-05-21,2025,5
+30,Title,chinese firms go on fundraising spree amid rush of easy money,0.3179889917373657,0.08311299979686737,0.5988979339599609,positive,2025-05-21,2025,5
+31,Title,citi sees gulf economies remaining resilient despite oil s drop,0.9415925741195679,0.026884477585554123,0.03152284771203995,negative,2025-05-21,2025,5
+32,Title,denmark s 4 billion wind sweetener shows industry s new reality,0.30065011978149414,0.011435423977673054,0.6879144906997681,positive,2025-05-21,2025,5
+33,Title,dollar extends slide with g 7 meeting budget deficit in focus,0.05054428428411484,0.9149435758590698,0.03451215848326683,neutral,2025-05-21,2025,5
+34,Title,dollar store billionaire poised to emerge from malaysia ipo,0.7358229160308838,0.018248818814754486,0.24592825770378113,negative,2025-05-21,2025,5
+35,Title,ecb s escriva says unexpectedly strong euro weighs on inflation,0.4521045386791229,0.4933864176273346,0.05450912564992905,neutral,2025-05-21,2025,5
+36,Title,ecb s guindos sees inflation target hit sooner rather than later,0.21915456652641296,0.08200766891241074,0.6988377571105957,positive,2025-05-21,2025,5
+37,Title,ecb warns of ripple effects from investors questioning us assets,0.016071582213044167,0.9385949373245239,0.04533346742391586,neutral,2025-05-21,2025,5
+38,Title,ecb will soon reach terminal rate if baseline holds kazaks says,0.27183520793914795,0.10721219331026077,0.6209526062011719,positive,2025-05-21,2025,5
+39,Title,eric trump attends groundbreaking event for 1 5b vietnam resort,0.06593602895736694,0.0126596475020051,0.9214043617248535,positive,2025-05-21,2025,5
+40,Title,estee lauder l oreal suffer as china s duty free spending falls,0.3428727984428406,0.10656203329563141,0.5505651831626892,positive,2025-05-21,2025,5
+41,Title,eu prepares trade proposal for us to steer momentum into talks,0.6342706680297852,0.016721736639738083,0.34900760650634766,negative,2025-05-21,2025,5
+42,Title,eu unveils plan to reinvigorate world s second biggest market,0.7856931090354919,0.01038196962326765,0.20392489433288574,negative,2025-05-21,2025,5
+43,Title,fed s daly hammack stress wait and see policy approach,0.03602907061576843,0.04446375370025635,0.9195072054862976,positive,2025-05-21,2025,5
+44,Title,france eyes progress with us at g 7 even without a communique,0.8646582365036011,0.01478568185120821,0.12055618315935135,negative,2025-05-21,2025,5
+45,Title,g 7 countries discussing de minimis tariffs on chinese goods,0.06720920652151108,0.025865759700536728,0.9069249629974365,positive,2025-05-21,2025,5
+46,Title,giant us companies are rushing to europe to borrow money,0.2891513407230377,0.05492432042956352,0.6559243202209473,positive,2025-05-21,2025,5
+47,Title,half of turkish firms in red as central bank holds line on rates,0.09580068290233612,0.5830804109573364,0.32111889123916626,neutral,2025-05-21,2025,5
+48,Title,hedge fund edl s 31 gain belies painful short bets on us stocks,0.2081514447927475,0.7476092576980591,0.04423922672867775,neutral,2025-05-21,2025,5
+49,Title,highlights of south african finance minister s reworked budget,0.038159437477588654,0.04407547786831856,0.9177650809288025,positive,2025-05-21,2025,5
+50,Title,historic fall in uk migration can t come fast enough for starmer,0.010638528503477573,0.9609634280204773,0.028398048132658005,neutral,2025-05-21,2025,5
+51,Title,hong kong dollar falls toward weak end of band on carry allure,0.027694566175341606,0.9487286806106567,0.023576730862259865,neutral,2025-05-21,2025,5
+52,Title,hong kong ramps up tax checks on private equity venture funds,0.648999035358429,0.13141541182994843,0.21958555281162262,negative,2025-05-21,2025,5
+53,Title,iceland cuts rate and signals more moves hinge on inflation,0.02948669157922268,0.936053991317749,0.034459277987480164,neutral,2025-05-21,2025,5
+54,Title,india market buzz fundraising resumes amid tariff uncertainty,0.6675079464912415,0.14937087893486023,0.18312114477157593,negative,2025-05-21,2025,5
+55,Title,india s short term bonds rally on hopes of record rbi dividend,0.9018541574478149,0.043769314885139465,0.054376523941755295,negative,2025-05-21,2025,5
+56,Title,india s wheat output seen hitting record allaying import fears,0.8812291622161865,0.08022986352443695,0.038541030138731,negative,2025-05-21,2025,5
+57,Title,india set for record russia fuel flows on gush of dirty products,0.45689690113067627,0.17398881912231445,0.3691142499446869,neutral,2025-05-21,2025,5
+58,Title,indonesia resumes rate cuts as growth outlook dims rupiah gains,0.1520540416240692,0.6132248640060425,0.2347211092710495,neutral,2025-05-21,2025,5
+59,Title,johnson says agreement reached on 40 000 salt cap increase,0.8512361645698547,0.01421116292476654,0.13455261290073395,negative,2025-05-21,2025,5
+60,Title,korean won jumps on report fx direction was discussed with us,0.3807821571826935,0.30088499188423157,0.31833288073539734,neutral,2025-05-21,2025,5
+61,Title,lagos startups lure 42 more funding defying slowdown in africa,0.9235947132110596,0.01434917002916336,0.06205616891384125,negative,2025-05-21,2025,5
+62,Title,latest oil market news and analysis for may 22,0.026275455951690674,0.05196147784590721,0.9217630624771118,positive,2025-05-21,2025,5
+63,Title,london rents show sign of flatlining after years of rapid growth,0.8369807600975037,0.14007847011089325,0.02294074185192585,negative,2025-05-21,2025,5
+64,Title,malaysia s anwar says us trade talks unaffected by china ties,0.2255648821592331,0.10406770557165146,0.6703673601150513,positive,2025-05-21,2025,5
+65,Title,meloni looks to moody s to finally end italy s near junk status,0.6883300542831421,0.018069211393594742,0.29360073804855347,negative,2025-05-21,2025,5
+66,Title,merz advisers see germany in stagnation but recovery in sight,0.7863075137138367,0.14900007843971252,0.06469232589006424,negative,2025-05-21,2025,5
+67,Title,milei s cuts have argentines driving cars with paper license plates,0.03298947960138321,0.03610626235604286,0.9309042096138,positive,2025-05-21,2025,5
+68,Title,milei stumbles in bid to unchain farmers as soy tax break ends,0.022665059193968773,0.9240300059318542,0.05330486595630646,neutral,2025-05-21,2025,5
+69,Title,mnuchin flags us budget deficit as bigger worry than trade gap,0.07942482084035873,0.8463461399078369,0.07422903180122375,neutral,2025-05-21,2025,5
+70,Title,nigerian opposition leaders agree to unite before 2027 election,0.49399521946907043,0.03901073709130287,0.4669939875602722,neutral,2025-05-21,2025,5
+71,Title,nordea questions norway s data on faltering home construction,0.046254828572273254,0.8945919275283813,0.059153251349925995,neutral,2025-05-21,2025,5
+72,Title,nvidia ceo urges us to lower barriers to 50 billion china arena,0.5035965442657471,0.025136999785900116,0.4712664484977722,negative,2025-05-21,2025,5
+73,Title,portugal opposes further increase in spanish banks presence,0.17858169972896576,0.05999177694320679,0.7614264488220215,positive,2025-05-21,2025,5
+74,Title,republican hardliners threaten to block deal on trump tax bill,0.016971809789538383,0.8805997371673584,0.10242845118045807,neutral,2025-05-21,2025,5
+75,Title,rice costs imperil ishiba after bragging minister quits in japan,0.01482772920280695,0.937347412109375,0.04782487824559212,neutral,2025-05-21,2025,5
+76,Title,rich argentines face higher energy bills after milei subsidy cut,0.15798696875572205,0.7978145480155945,0.04419856145977974,neutral,2025-05-21,2025,5
+77,Title,romanian leader says minority coalition may need to push reforms,0.2710140645503998,0.39396730065345764,0.3350186049938202,neutral,2025-05-21,2025,5
+78,Title,russian advance in ukraine is slowing despite putin s confidence,0.019060267135500908,0.9503772854804993,0.03056236542761326,neutral,2025-05-21,2025,5
+79,Title,south africa arbiter proposes more pay to avoid logistics strike,0.6624425649642944,0.18986772000789642,0.14768970012664795,negative,2025-05-21,2025,5
+80,Title,south africa central bank deputy governor says cpi goal too wide,0.015200900845229626,0.936920702457428,0.0478784553706646,neutral,2025-05-21,2025,5
+81,Title,south africa cuts growth outlook planned spending in budget 3 0,0.02492881566286087,0.8389111161231995,0.13616007566452026,neutral,2025-05-21,2025,5
+82,Title,south korean early may exports fall as shipments to us slump,0.010777660645544529,0.9702175855636597,0.019004717469215393,neutral,2025-05-21,2025,5
+83,Title,spain portugal urge eu effort on power link after blackout,0.46556487679481506,0.016698241233825684,0.5177367925643921,positive,2025-05-21,2025,5
+84,Title,sputtering iran us talks revive specter of israeli solo strike,0.28015270829200745,0.34471654891967773,0.375130832195282,neutral,2025-05-21,2025,5
+85,Title,starmer signals reversal on divisive cut to winter fuel payments,0.044595856219530106,0.9085792899131775,0.046824824064970016,neutral,2025-05-21,2025,5
+86,Title,stock market today dow s p live updates,0.03214000537991524,0.03012199141085148,0.9377379417419434,positive,2025-05-21,2025,5
+87,Title,swedish ministers face pressure over undeclared shareholdings,0.008786733262240887,0.9565898180007935,0.03462342917919159,neutral,2025-05-21,2025,5
+88,Title,taiwan s central bank says it let currency soar to reset market,0.20273809134960175,0.051953915506601334,0.745307981967926,positive,2025-05-21,2025,5
+89,Title,tax bill poised to call for medicaid work requirements in 2026,0.12568694353103638,0.04953707754611969,0.8247759342193604,positive,2025-05-21,2025,5
+90,Title,tj maxx operator says it has flexibility to offset tariffs,0.8385547399520874,0.008176100440323353,0.1532691866159439,negative,2025-05-21,2025,5
+91,Title,toyota takes all hybrid plunge with its best selling us vehicle,0.8817330598831177,0.022172726690769196,0.0960942953824997,negative,2025-05-21,2025,5
+92,Title,traders pare bets on boe cuts pound climbs after uk inflation,0.2865588963031769,0.5715106129646301,0.1419305056333542,neutral,2025-05-21,2025,5
+93,Title,treasury yields climb auguring 5 rate for 20 year bond auction,0.5549173355102539,0.35103216767311096,0.09405052661895752,negative,2025-05-21,2025,5
+94,Title,trump import tax hike counters income tax relief economists say,0.5893789529800415,0.30206820368766785,0.10855288803577423,negative,2025-05-21,2025,5
+95,Title,uae ipo dubai ruler s firm gets 15 billion in orders for reit listing,0.8147676587104797,0.012920426204800606,0.17231199145317078,negative,2025-05-21,2025,5
+96,Title,uk inflation rate surges to 15 month high amid april price shock,0.5410831570625305,0.41191548109054565,0.047001320868730545,negative,2025-05-21,2025,5
+97,Title,uk s luxury superyacht sales remain strong as smaller boats struggle to sell,0.938408613204956,0.0397847518324852,0.021806707605719566,negative,2025-05-21,2025,5
+98,Title,us accepts qatar luxury jet to serve as trump s air force one,0.5771920680999756,0.008146037347614765,0.4146619439125061,negative,2025-05-21,2025,5
+99,Title,us china tensions over chips risk hurting trade truce dialogue,0.03058491088449955,0.9107856154441833,0.058629442006349564,neutral,2025-05-21,2025,5
+100,Title,us fashion recycling startup to build 500 million plant in france,0.20805254578590393,0.010051156394183636,0.7818962931632996,positive,2025-05-21,2025,5
+101,Title,us mortgage rates rise to three month high slowing home demand,0.8005537390708923,0.1456180214881897,0.05382820591330528,negative,2025-05-21,2025,5
+102,Title,us treasuries vie for demand with japanese bonds deutsche says,0.7515931129455566,0.18979069590568542,0.05861615017056465,negative,2025-05-21,2025,5
+103,Title,why newark airport is a top concern for the summer travel season,0.04700787737965584,0.03377186879515648,0.9192202091217041,positive,2025-05-21,2025,5
+104,Title,winners and losers in south africa s third budget attempt,0.1309073269367218,0.11657173931598663,0.7525209188461304,positive,2025-05-21,2025,5
+105,Title,zimbabwe lithium exporters seek tax delay until refineries start,0.01934879459440708,0.8582625389099121,0.12238872051239014,neutral,2025-05-21,2025,5
+106,Title,argentina signals to investors imf cash to come despite reserves,0.5458758473396301,0.07851120829582214,0.3756129741668701,negative,2025-05-22,2025,5
+107,Title,bessent wins g 7 partner plaudits in first conference abroad,0.8856735825538635,0.02477017603814602,0.08955623209476471,negative,2025-05-22,2025,5
+108,Title,boe proposes higher charges for weak foreign debt held by banks,0.5710686445236206,0.09085596352815628,0.33807533979415894,negative,2025-05-22,2025,5
+109,Title,boe s dhingra says uk services industry was hit hard by brexit,0.019519582390785217,0.9608500599861145,0.019630320370197296,neutral,2025-05-22,2025,5
+110,Title,boe s pill questions prominence of forecasts in era of shocks,0.09298315644264221,0.2976384460926056,0.6093783974647522,positive,2025-05-22,2025,5
+111,Title,boj dove noguchi sees no need to change jgb tapering plan,0.1837100386619568,0.6317406892776489,0.1845492422580719,neutral,2025-05-22,2025,5
+112,Title,bond vigilantes threaten popular hedge fund bet on swap spreads,0.022920235991477966,0.7850999236106873,0.19197990000247955,neutral,2025-05-22,2025,5
+113,Title,brazil eases environmental rules ahead of key un climate summit,0.26456785202026367,0.1712239682674408,0.5642082095146179,positive,2025-05-22,2025,5
+114,Title,bundesbank backs delay to trading rules for european lenders,0.0986781120300293,0.06675214320421219,0.8345697522163391,positive,2025-05-22,2025,5
+115,Title,byd beats tesla in europe for first time with 169 sales surge,0.903157114982605,0.015941981226205826,0.0809009000658989,negative,2025-05-22,2025,5
+116,Title,california politicians push 13 bill package to rescue downtowns,0.7254138588905334,0.06703095883131027,0.20755517482757568,negative,2025-05-22,2025,5
+117,Title,carney looks to ai for savings as canada s budget pressures mount,0.8480859994888306,0.028428608551621437,0.12348533421754837,negative,2025-05-22,2025,5
+118,Title,china asks dutch to ease chips export controls minister says,0.6412639021873474,0.09672587364912033,0.2620101869106293,negative,2025-05-22,2025,5
+119,Title,coach bag outlets star on tiktok as tabby brooklyn sales soar,0.8308422565460205,0.027078041806817055,0.1420796811580658,negative,2025-05-22,2025,5
+120,Title,computex 2025 five takeaways from asia s biggest ai tech event,0.18042363226413727,0.02209734357893467,0.797478973865509,positive,2025-05-22,2025,5
+121,Title,dollar store to boost malaysian ipos with year s biggest listing,0.9248154759407043,0.012326175346970558,0.0628584548830986,negative,2025-05-22,2025,5
+122,Title,ecb must stay cautious despite inflation nearing 2 nagel says,0.3915572762489319,0.3096480071544647,0.2987947165966034,neutral,2025-05-22,2025,5
+123,Title,ecb s vujcic says inflation is slowly converging to 2 target,0.30383944511413574,0.640709400177002,0.05545122176408768,neutral,2025-05-22,2025,5
+124,Title,ecb says water is top nature related risk to european economy,0.16024914383888245,0.01820947788655758,0.8215413689613342,positive,2025-05-22,2025,5
+125,Title,ecb to reach 2 inflation relatively quickly guindos says,0.7599694132804871,0.019628094509243965,0.22040240466594696,negative,2025-05-22,2025,5
+126,Title,egypt makes second rate cut in a row before summer of reforms,0.38638997077941895,0.31954270601272583,0.2940673232078552,neutral,2025-05-22,2025,5
+127,Title,egypt poised for another rate cut before possible summer break,0.22661539912223816,0.4009319543838501,0.37245261669158936,neutral,2025-05-22,2025,5
+128,Title,euro zone private sector unexpectedly shrinks on services slump,0.008594021201133728,0.972706139087677,0.01869981177151203,neutral,2025-05-22,2025,5
+129,Title,fed s waller offers route to rate cuts in second half of year,0.30692142248153687,0.04518289119005203,0.6478956341743469,positive,2025-05-22,2025,5
+130,Title,france urged to ramp up debt cutting push in imf budget warning,0.8647701740264893,0.0341649129986763,0.10106487572193146,negative,2025-05-22,2025,5
+131,Title,g 7 draft text warns of excessive imbalances in global economy,0.01828153058886528,0.924720048904419,0.056998416781425476,neutral,2025-05-22,2025,5
+132,Title,german business expectations improve as trade fears ease,0.9406308531761169,0.03816526010632515,0.021203912794589996,negative,2025-05-22,2025,5
+133,Title,german private sector unexpectedly sinks on services downturn,0.010862481780350208,0.9682959318161011,0.020841559395194054,neutral,2025-05-22,2025,5
+134,Title,german wage growth slows sharply as economy struggles to grow,0.008343781344592571,0.9694161415100098,0.02224002219736576,neutral,2025-05-22,2025,5
+135,Title,germany says g 7 finance chiefs agree continued ukraine support,0.7357906699180603,0.09993170946836472,0.16427770256996155,negative,2025-05-22,2025,5
+136,Title,germany scales up battle tank brigade in baltics to deter russia,0.07313701510429382,0.292886346578598,0.6339766383171082,positive,2025-05-22,2025,5
+137,Title,gop tax bill revisions end clean energy credits years earlier,0.053671687841415405,0.10928540676832199,0.8370429277420044,positive,2025-05-22,2025,5
+138,Title,hike or cut household goods makers hands tied amid tariff slump,0.09365744143724442,0.7842873930931091,0.12205513566732407,neutral,2025-05-22,2025,5
+139,Title,hochul digs in on toll risking federal funds for nyc projects,0.05500447750091553,0.02121558226644993,0.9237799048423767,positive,2025-05-22,2025,5
+140,Title,house republicans release trump tax bill with larger salt cap,0.3282422125339508,0.08058888465166092,0.5911689400672913,positive,2025-05-22,2025,5
+141,Title,how private equity s use of debt and leverage is being transformed,0.034394241869449615,0.03499522805213928,0.9306105375289917,positive,2025-05-22,2025,5
+142,Title,how trump tariffs could affect rba interest rate cuts australia podcast,0.03799191862344742,0.1760469675064087,0.7859610915184021,positive,2025-05-22,2025,5
+143,Title,india economic activity retains momentum in may flash pmis show,0.8080040216445923,0.02751489356160164,0.16448107361793518,negative,2025-05-22,2025,5
+144,Title,india market buzz midcaps back in spotlight as earnings deliver,0.7723226547241211,0.10888099670410156,0.11879642307758331,negative,2025-05-22,2025,5
+145,Title,india s bajaj auto to take control of ktm with 800 million loan,0.08724033087491989,0.009288405068218708,0.9034712910652161,positive,2025-05-22,2025,5
+146,Title,india says top maoist rebel killed in major breakthrough,0.05840061604976654,0.7594058513641357,0.1821936070919037,neutral,2025-05-22,2025,5
+147,Title,indian banks said to ask rbi to lower daily cash reserve rule,0.03197672590613365,0.73737633228302,0.23064686357975006,neutral,2025-05-22,2025,5
+148,Title,indian economy well positioned to navigate headwinds rbi says,0.887763261795044,0.023346779868006706,0.08888997882604599,negative,2025-05-22,2025,5
+149,Title,indonesia set for more rate cuts on growth view analysts say,0.5589609146118164,0.25976377725601196,0.18127533793449402,negative,2025-05-22,2025,5
+150,Title,ing is said to target us banking charter in fed liquidity push,0.18697713315486908,0.009906369261443615,0.803116500377655,positive,2025-05-22,2025,5
+151,Title,jamie dimon says jpmorgan was right to do catl deal despite opposition,0.14200857281684875,0.012434512376785278,0.845556914806366,positive,2025-05-22,2025,5
+152,Title,japan could ask state owned firms to buy bonds barclays says,0.08454244583845139,0.011222245171666145,0.904235303401947,positive,2025-05-22,2025,5
+153,Title,japan s akazawa to visit us for third round of us trade talks,0.11426696926355362,0.018820052966475487,0.8669129610061646,positive,2025-05-22,2025,5
+154,Title,japan s ishiba calls for closer weapons development with allies,0.7891390323638916,0.011745797470211983,0.1991151124238968,negative,2025-05-22,2025,5
+155,Title,japan s largest business lobby reports pay hikes exceeding 5,0.15526245534420013,0.8274913430213928,0.017246201634407043,neutral,2025-05-22,2025,5
+156,Title,japan s prices rise fastest in two years pressuring boj ishiba,0.8489629626274109,0.10773877799510956,0.04329827427864075,negative,2025-05-22,2025,5
+157,Title,jpmorgan s dimon sees risk of stagflation for us economy,0.06243792548775673,0.875343382358551,0.06221872940659523,neutral,2025-05-22,2025,5
+158,Title,lagarde says international trade will never be the same again,0.04358536750078201,0.09134288877248764,0.8650717735290527,positive,2025-05-22,2025,5
+159,Title,long term bond yields soar globally on fiscal policy fears,0.36483824253082275,0.5755079388618469,0.05965378135442734,neutral,2025-05-22,2025,5
+160,Title,macron talks up china ties and touts progress on cognac probe,0.4059291481971741,0.026609253138303757,0.5674616098403931,positive,2025-05-22,2025,5
+161,Title,merz says germany will defend against any threat in baltics,0.812204897403717,0.017970461398363113,0.16982467472553253,negative,2025-05-22,2025,5
+162,Title,mexico inflation accelerates more than expected as banxico eases,0.9355360865592957,0.03691532835364342,0.027548596262931824,negative,2025-05-22,2025,5
+163,Title,milei slashes argentine tax regulations to encourage dollar use,0.05104762315750122,0.8676587343215942,0.08129362761974335,neutral,2025-05-22,2025,5
+164,Title,mortgage rates in us rise for second week climbing to 6 86,0.8938103914260864,0.05051790550351143,0.05567171424627304,negative,2025-05-22,2025,5
+165,Title,net migration to uk nearly halves as record drop boosts starmer,0.6844332814216614,0.29270532727241516,0.022861452773213387,negative,2025-05-22,2025,5
+166,Title,new zealand budget 2025 winners and losers,0.042904194444417953,0.08698174357414246,0.8701140880584717,positive,2025-05-22,2025,5
+167,Title,new zealand targets investment with budget tax incentive,0.12185358256101608,0.009980453178286552,0.8681660294532776,positive,2025-05-22,2025,5
+168,Title,ny fed s perli sees early signs of pressure in money markets,0.13826555013656616,0.8195844888687134,0.04214994236826897,neutral,2025-05-22,2025,5
+169,Title,petronas to work with petros for future projects sarawak says,0.41447776556015015,0.0072053903713822365,0.578316867351532,positive,2025-05-22,2025,5
+170,Title,poland says key infrastructure at risk after baltic sea incident,0.04618829861283302,0.8319670557975769,0.12184464931488037,neutral,2025-05-22,2025,5
+171,Title,polish presidential hopeful says opposes ukraine joining nato,0.09728546440601349,0.3938891887664795,0.5088253021240234,positive,2025-05-22,2025,5
+172,Title,rayner warns uk s target of 1 5 million new homes is a stretch,0.4003909230232239,0.22428247332572937,0.37532657384872437,neutral,2025-05-22,2025,5
+173,Title,rba s hauser sees us china trade dispute aiding australian firms,0.8836855888366699,0.047308869659900665,0.069005586206913,negative,2025-05-22,2025,5
+174,Title,real sells off as brazil taxes remittances to shore up budget,0.1956653743982315,0.7494194507598877,0.054915156215429306,neutral,2025-05-22,2025,5
+175,Title,ringgit may gain most in southeast asia on exporter conversion,0.9351024627685547,0.015966294333338737,0.04893123358488083,negative,2025-05-22,2025,5
+176,Title,romania s new leader sees weeks of talks to agree on budget fix,0.27656593918800354,0.14150817692279816,0.5819258689880371,positive,2025-05-22,2025,5
+177,Title,sanchez pushes ahead with plan to tax non eu home buyers 100,0.4233670234680176,0.02022138051688671,0.5564115643501282,positive,2025-05-22,2025,5
+178,Title,saudi arabia s neom hydrogen project faces uncertainty over demand,0.015981104224920273,0.9228580594062805,0.06116091087460518,neutral,2025-05-22,2025,5
+179,Title,sheinbaum says she talked steel tariffs in latest trump call,0.1533469408750534,0.07551691681146622,0.7711361646652222,positive,2025-05-22,2025,5
+180,Title,singapore dpm says holding geopolitical neutrality not possible,0.024465151131153107,0.05782686546444893,0.9177079796791077,positive,2025-05-22,2025,5
+181,Title,singapore kicks off 2025 on strong note flags downside risks,0.8463786840438843,0.09976102411746979,0.05386035889387131,negative,2025-05-22,2025,5
+182,Title,some ecb officials saw april rate cut as frontloading june move,0.06190697103738785,0.7524428963661194,0.18565012514591217,neutral,2025-05-22,2025,5
+183,Title,sony life mulls selling japan bonds to avoid writing down losses,0.020172040909528732,0.6571140885353088,0.3227138817310333,neutral,2025-05-22,2025,5
+184,Title,south africa expects us reset despite white house confrontation,0.3252662122249603,0.5469793081283569,0.12775450944900513,neutral,2025-05-22,2025,5
+185,Title,south africa to provide 2 8 billion guarantee to transnet,0.7444332838058472,0.007623253855854273,0.2479434609413147,negative,2025-05-22,2025,5
+186,Title,sri lanka unexpectedly cuts key rate to bolster recovery,0.14219175279140472,0.7825257778167725,0.07528247684240341,neutral,2025-05-22,2025,5
+187,Title,starmer and top aide clash over 2 5 billion child benefit cap,0.11257076263427734,0.3685731887817383,0.5188560485839844,positive,2025-05-22,2025,5
+188,Title,startup builder ai overestimated sales by 300 to key creditors,0.5996719002723694,0.36606937646865845,0.03425876051187515,negative,2025-05-22,2025,5
+189,Title,steven englander on why interest rates are shooting up all around the world,0.18403360247612,0.07672502100467682,0.739241361618042,positive,2025-05-22,2025,5
+190,Title,stock market today dow s p live updates,0.03214000537991524,0.03012199141085148,0.9377379417419434,positive,2025-05-22,2025,5
+191,Title,strong earthquake strikes north of crete no major damage,0.07424483448266983,0.6869419813156128,0.23881317675113678,neutral,2025-05-22,2025,5
+192,Title,supreme court backs trump s ouster of agency leaders for now,0.11431577801704407,0.5674949288368225,0.31818926334381104,neutral,2025-05-22,2025,5
+193,Title,telecom argentina sells debt amid telefonica takeover scrutiny,0.021901963278651237,0.8851419687271118,0.09295602142810822,neutral,2025-05-22,2025,5
+194,Title,thai court orders ex premier yingluck to pay 306 million fine reports,0.021998146548867226,0.9190869927406311,0.05891485512256622,neutral,2025-05-22,2025,5
+195,Title,top indian oil producer s quarterly earnings miss estimates,0.01636691763997078,0.9497216939926147,0.0339113287627697,neutral,2025-05-22,2025,5
+196,Title,trump s ambush of ramaphosa leaves south africa reeling,0.05288109555840492,0.4194096624851227,0.5277091860771179,positive,2025-05-22,2025,5
+197,Title,trump s next hurdle the bond market hates his beautiful bill,0.030855143442749977,0.6755895614624023,0.29355528950691223,neutral,2025-05-22,2025,5
+198,Title,trump s research funding cuts create job drought for scientists,0.010582081973552704,0.9675338864326477,0.02188394032418728,neutral,2025-05-22,2025,5
+199,Title,trump s south africa white genocide land grab claims what to know,0.023532571271061897,0.055764976888895035,0.9207023978233337,positive,2025-05-22,2025,5
+200,Title,trump s tax cuts what s in his big beautiful bill,0.13622577488422394,0.020270222797989845,0.843504011631012,positive,2025-05-22,2025,5
+201,Title,trump tax bill narrowly passes house overcoming gop infighting,0.5809678435325623,0.146835595369339,0.27219659090042114,negative,2025-05-22,2025,5
+202,Title,trump to attend g 7 leaders summit in canada in june,0.07038542628288269,0.01573309674859047,0.9138815402984619,positive,2025-05-22,2025,5
+203,Title,turkish central bank keeps year end inflation forecast unchanged,0.04681533947587013,0.17505140602588654,0.7781332731246948,positive,2025-05-22,2025,5
+204,Title,tycoon birla s firm gets cheapest rupee bond deal in five years,0.874489963054657,0.025229468941688538,0.10028048604726791,negative,2025-05-22,2025,5
+205,Title,ueda refrains from hinting at any action over bond yield surge,0.0356089249253273,0.1198701411485672,0.8445209264755249,positive,2025-05-22,2025,5
+206,Title,uk april budget deficit disappoints despite employer tax hike,0.13181793689727783,0.8494247794151306,0.018757319077849388,neutral,2025-05-22,2025,5
+207,Title,uk consumer confidence gains on interest rate cut us trade deal,0.8067662715911865,0.12339820712804794,0.06983548402786255,negative,2025-05-22,2025,5
+208,Title,uk private sector shrinks again as us tariffs hit pmi shows,0.011351779103279114,0.9718372821807861,0.01681097410619259,neutral,2025-05-22,2025,5
+209,Title,uk to weigh cpi data overhaul to better gauge inflation s path,0.18733876943588257,0.027104603126645088,0.7855566143989563,positive,2025-05-22,2025,5
+210,Title,uk urges cut to russian oil price cap at g7 to pressure putin,0.23342549800872803,0.6205319762229919,0.1460425853729248,neutral,2025-05-22,2025,5
+211,Title,us business activity sentiment improve as tariff anxiety eases,0.9465531706809998,0.02727370522916317,0.026173057034611702,negative,2025-05-22,2025,5
+212,Title,us considering pulling some troops from south korea report,0.057208772748708725,0.6180872917175293,0.3247038424015045,neutral,2025-05-22,2025,5
+213,Title,us existing home sales decline marking worst april since 2009,0.009034760296344757,0.9724754095077515,0.018489867448806763,neutral,2025-05-22,2025,5
+214,Title,us importers race to beat trump tariffs facing complex customs forms,0.9110892415046692,0.019893039017915726,0.06901776045560837,negative,2025-05-22,2025,5
+215,Title,us initial jobless claims decline to lowest level in four weeks,0.009313494898378849,0.9696146845817566,0.021071797236800194,neutral,2025-05-22,2025,5
+216,Title,video how middle east oil giants are building soft power,0.09576651453971863,0.02612384222447872,0.8781096935272217,positive,2025-05-22,2025,5
+217,Title,vietnam secures us trade talks progress hopes to get deal soon,0.9355360865592957,0.01919632777571678,0.04526759684085846,negative,2025-05-22,2025,5
+218,Title,white house s miran says no secret currency pact in trade talks,0.0769902691245079,0.0273943692445755,0.8956153392791748,positive,2025-05-22,2025,5
+219,Title,xiaomi billionaire touts new chinese chip in tech showcase,0.6377339959144592,0.010858959518373013,0.35140708088874817,negative,2025-05-22,2025,5
+220,Title,zambia s record corn crop signals inflation is set to cool,0.4100033938884735,0.43433743715286255,0.15565921366214752,neutral,2025-05-22,2025,5
+221,Title,barclays advises switch to nigeria shorter dated dollar bonds,0.08547007292509079,0.018293200060725212,0.8962367177009583,positive,2025-05-23,2025,5
+222,Title,bessent says trump paused sovereign wealth fund to focus on debt,0.14733825623989105,0.012757841497659683,0.8399038910865784,positive,2025-05-23,2025,5
+223,Title,bessent sees easing capital rule on us treasuries this summer,0.6579645872116089,0.154008150100708,0.1880273073911667,negative,2025-05-23,2025,5
+224,Title,bessent sees trade deals announced ahead of 90 day tariff pause,0.13282480835914612,0.01298877689987421,0.8541864156723022,positive,2025-05-23,2025,5
+225,Title,borrowers rush to sell yen bonds as rising yields lure investors,0.7093634605407715,0.20074579119682312,0.08989077061414719,negative,2025-05-23,2025,5
+226,Title,brazil politics haddad reverses course on offshore funds tax,0.051742322742938995,0.5398979187011719,0.4083597660064697,neutral,2025-05-23,2025,5
+227,Title,brazil s rio alto said to work with debt restructuring advisers,0.6337115168571472,0.011860630474984646,0.3544278144836426,negative,2025-05-23,2025,5
+228,Title,brl usd backlash leads to brazil reversal of iof offshore transfer tax,0.024862611666321754,0.9330440163612366,0.04209333658218384,neutral,2025-05-23,2025,5
+229,Title,bulgaria on track to win eu approval to join the euro next year,0.812494158744812,0.00939747504889965,0.17810842394828796,negative,2025-05-23,2025,5
+230,Title,bulgaria s euro adoption how eu approval is finally close,0.394659161567688,0.012476818636059761,0.5928639769554138,positive,2025-05-23,2025,5
+231,Title,canada retail sales continue rise in april despite tariff war,0.9498388171195984,0.025155600160360336,0.025005647912621498,negative,2025-05-23,2025,5
+232,Title,carney s energy chief pushes oil sands to build carbon capture,0.24922317266464233,0.01392348576337099,0.736853301525116,positive,2025-05-23,2025,5
+233,Title,chile finance chief wants to unlock billions in new investments,0.333197683095932,0.009040763601660728,0.6577615737915039,positive,2025-05-23,2025,5
+234,Title,china 50 year bond yields rise in auction first time since 2022,0.8413991928100586,0.11877234280109406,0.03982841223478317,negative,2025-05-23,2025,5
+235,Title,diy haircuts the lipstick effect beauty trends as recession indicators,0.037357136607170105,0.22253316640853882,0.7401097416877747,positive,2025-05-23,2025,5
+236,Title,ecb s kazimir to receive verdict in bribery case next week,0.13865867257118225,0.24275510013103485,0.6185861825942993,positive,2025-05-23,2025,5
+237,Title,ecb s lane says us price jump wouldn t necessarily reach europe,0.12563711404800415,0.1075877994298935,0.7667750716209412,positive,2025-05-23,2025,5
+238,Title,ecb s stournaras sees june rate cut and then pause kathimerini,0.09131696820259094,0.5437427163124084,0.3649404048919678,neutral,2025-05-23,2025,5
+239,Title,economists say canada recession has already begun as trade war rages on,0.00925447978079319,0.9658792018890381,0.024866251274943352,neutral,2025-05-23,2025,5
+240,Title,engineai targets 1 billion valuation as chinese robots heat up,0.18018734455108643,0.020118314772844315,0.7996943593025208,positive,2025-05-23,2025,5
+241,Title,eu agrees to reinstate trade quotas on ukraine as war drags on,0.8799732327461243,0.06753616034984589,0.05249054357409477,negative,2025-05-23,2025,5
+242,Title,eu and us to hold trade call friday amid differences on tariffs,0.050499044358730316,0.7738532423973083,0.17564769089221954,neutral,2025-05-23,2025,5
+243,Title,euro zone s top economies may now have inflation at or under 2,0.14894068241119385,0.6600809097290039,0.19097839295864105,neutral,2025-05-23,2025,5
+244,Title,euro zone wage growth sinks supporting further ecb easing,0.644991934299469,0.2584789991378784,0.0965290293097496,negative,2025-05-23,2025,5
+245,Title,european officials urge calm facing trump 50 tariff threat,0.2943386435508728,0.3347039818763733,0.3709573745727539,neutral,2025-05-23,2025,5
+246,Title,europeans plan fewer summer trips to us in latest trump backlash,0.039139069616794586,0.61683189868927,0.3440290093421936,neutral,2025-05-23,2025,5
+247,Title,fed s goolsbee says bar a little higher for near term cuts,0.8262190818786621,0.053344596177339554,0.12043635547161102,negative,2025-05-23,2025,5
+248,Title,german economy grew more than initially thought at start of year,0.9463678002357483,0.024983679875731468,0.02864854782819748,negative,2025-05-23,2025,5
+249,Title,ghana keeps rates steady with cedi rally set to tame inflation,0.5845429301261902,0.12930576503276825,0.28615137934684753,negative,2025-05-23,2025,5
+250,Title,ghana s central bank likely to hold interest rate to hasten disinflation,0.07332858443260193,0.39960429072380066,0.5270671248435974,positive,2025-05-23,2025,5
+251,Title,ghana s debt burden falls to imf threshold ahead of 2028 target,0.025904830545186996,0.9536874294281006,0.020407717674970627,neutral,2025-05-23,2025,5
+252,Title,harvard s foreign students are stunned and devastated by trump s ban,0.039337243884801865,0.7566026449203491,0.20406006276607513,neutral,2025-05-23,2025,5
+253,Title,hensoldt is said to explore sale of south african optronics unit,0.07383498549461365,0.010503478348255157,0.9156615734100342,positive,2025-05-23,2025,5
+254,Title,here s what s in the eu trade proposal that trump just rejected,0.06902419030666351,0.015950584784150124,0.9150252342224121,positive,2025-05-23,2025,5
+255,Title,hungary s orban signals economy headwinds may persist into 2026,0.03889833018183708,0.9240139722824097,0.037087731063365936,neutral,2025-05-23,2025,5
+256,Title,india us hold constructive trade talks says piyush goyal,0.58954256772995,0.028687434270977974,0.38176995515823364,negative,2025-05-23,2025,5
+257,Title,iran says time to decide ahead of new nuclear talks with us,0.09456643462181091,0.017597021535038948,0.8878365159034729,positive,2025-05-23,2025,5
+258,Title,jane street earns 2 3 billion riding india options trading wave,0.12833744287490845,0.021873341873288155,0.8497892618179321,positive,2025-05-23,2025,5
+259,Title,japan s top life insurer says unrealized bond losses tripled,0.49909237027168274,0.47393926978111267,0.02696828357875347,neutral,2025-05-23,2025,5
+260,Title,japanese bond yields trim recent gains with late drop on friday,0.364441841840744,0.5819000601768494,0.053658101707696915,neutral,2025-05-23,2025,5
+261,Title,japanese stocks rebound boosted by weaker yen oil stocks down,0.737834095954895,0.21471625566482544,0.04744962230324745,negative,2025-05-23,2025,5
+262,Title,jbs says us listing plan approved by minority shareholders,0.17201222479343414,0.010515660978853703,0.8174721598625183,positive,2025-05-23,2025,5
+263,Title,lower uk energy bills offer some relief to strained households,0.7051947116851807,0.25328177213668823,0.04152350127696991,negative,2025-05-23,2025,5
+264,Title,meloni wins hope of moody s upgrade to italy from brink of junk,0.9148202538490295,0.013460714370012283,0.07171910256147385,negative,2025-05-23,2025,5
+265,Title,merz calls on xi to support ukraine peace effort in first call,0.6575357913970947,0.013573851436376572,0.3288904130458832,negative,2025-05-23,2025,5
+266,Title,mozambique s chaves to oversee sovereign wealth fund aim says,0.043236762285232544,0.012925934046506882,0.9438372850418091,positive,2025-05-23,2025,5
+267,Title,musalem says fed must contain long term inflation expectations,0.06771347671747208,0.05165136232972145,0.880635142326355,positive,2025-05-23,2025,5
+268,Title,nigerian manufacturers harassed over fx contracts lobby says,0.08007298409938812,0.8595864772796631,0.06034061685204506,neutral,2025-05-23,2025,5
+269,Title,paraguay holds key rate at 6 amid steady inflation expectations,0.566794216632843,0.1869581937789917,0.24624763429164886,negative,2025-05-23,2025,5
+270,Title,philippines bsp may cut us treasury holdings after moody s move,0.042529504746198654,0.8740161657333374,0.08345434069633484,neutral,2025-05-23,2025,5
+271,Title,philippines marcos keeps economic team amid cabinet shakeup,0.20634552836418152,0.40761587023735046,0.3860386610031128,neutral,2025-05-23,2025,5
+272,Title,podcast ed yardeni says it s not as bad as you think,0.10064709186553955,0.3050009310245514,0.5943520069122314,positive,2025-05-23,2025,5
+273,Title,podcast is a pro wrestling mentality steering the us economy,0.08496355265378952,0.021310944110155106,0.8937255144119263,positive,2025-05-23,2025,5
+274,Title,polish ruling party candidate fights back in presidential debate,0.13311752676963806,0.6694353818893433,0.19744712114334106,neutral,2025-05-23,2025,5
+275,Title,rand shrugs off trump and budget to end week on a positive note,0.8842055797576904,0.07797626405954361,0.03781817480921745,negative,2025-05-23,2025,5
+276,Title,rbi governor sees india s growth moderately hit on tariff woes,0.6182571053504944,0.3460541367530823,0.03568873926997185,negative,2025-05-23,2025,5
+277,Title,rbi s record 31 6 billion payout to bolster government finances,0.8901016116142273,0.017177730798721313,0.09272053092718124,negative,2025-05-23,2025,5
+278,Title,senior us china officials vow to keep communication lines open,0.24799060821533203,0.06557294726371765,0.6864364743232727,positive,2025-05-23,2025,5
+279,Title,singapore core inflation quickens for first time since september,0.9287562370300293,0.033836107701063156,0.037407588213682175,negative,2025-05-23,2025,5
+280,Title,singapore s mas says chief didn t say us dollar assets are irreplaceable,0.07414902001619339,0.062170688062906265,0.8636803030967712,positive,2025-05-23,2025,5
+281,Title,south african police minister debunks trump s genocide claim,0.1496998518705368,0.3445018529891968,0.5057982802391052,positive,2025-05-23,2025,5
+282,Title,summers slams trump for vicious ban on foreign students from harvard,0.04712885618209839,0.8076726794242859,0.1451985239982605,neutral,2025-05-23,2025,5
+283,Title,surge in cannabis smuggling prompts thailand to tighten rules,0.03512008488178253,0.9027875661849976,0.06209235265851021,neutral,2025-05-23,2025,5
+284,Title,suriname election new president to navigate impending oil boom,0.2106713205575943,0.22231940925121307,0.5670093297958374,positive,2025-05-23,2025,5
+285,Title,sweden s central bank seen cutting rate next month in survey,0.06382710486650467,0.6815558671951294,0.25461700558662415,neutral,2025-05-23,2025,5
+286,Title,taiwan life head loses sleep on fx plans on new reserves rule,0.023412365466356277,0.8384982347488403,0.13808941841125488,neutral,2025-05-23,2025,5
+287,Title,traders favor three more ecb cuts in 2025 on trump tariff threat,0.09219973534345627,0.6466591954231262,0.26114100217819214,neutral,2025-05-23,2025,5
+288,Title,trump administration s rejection of soft power risks africa minerals deal,0.23491120338439941,0.08560929447412491,0.6794794797897339,positive,2025-05-23,2025,5
+289,Title,trump backs us steel nippon partnership following cfius review,0.3077988922595978,0.07644287496805191,0.6157581806182861,positive,2025-05-23,2025,5
+290,Title,trump initiated call with japan s ishiba discussed tariffs,0.19419239461421967,0.02768336795270443,0.778124213218689,positive,2025-05-23,2025,5
+291,Title,trump threatens a 50 tariff on eu goods starting in june,0.06418564170598984,0.5282931327819824,0.4075213074684143,neutral,2025-05-23,2025,5
+292,Title,turkey bans images of istanbul mayor ekrem imamoglu,0.016592351719737053,0.7430471181869507,0.24036048352718353,neutral,2025-05-23,2025,5
+293,Title,uae s ai university aims to become stanford of the gulf,0.4797050654888153,0.009049207903444767,0.5112456679344177,positive,2025-05-23,2025,5
+294,Title,uk retail sales soar again as brits bask in sunshine ons says,0.770152747631073,0.13191264867782593,0.09793457388877869,negative,2025-05-23,2025,5
+295,Title,ukraine says drones struck russian battery plant for missiles,0.03276820108294487,0.8409934043884277,0.12623843550682068,neutral,2025-05-23,2025,5
+296,Title,us aid retreat opens door for bigger islamic development bank role in africa,0.7579872608184814,0.00979536958038807,0.23221732676029205,negative,2025-05-23,2025,5
+297,Title,us beef supplies are shrinking as grilling season begins,0.007797743659466505,0.9707934856414795,0.02140876278281212,neutral,2025-05-23,2025,5
+298,Title,us bond investors ask for most in a decade to buy long debt,0.31065046787261963,0.009113580919802189,0.6802359819412231,positive,2025-05-23,2025,5
+299,Title,us debt limit nail biter looms as senate ponders trump tax bill,0.060935549437999725,0.758081316947937,0.18098317086696625,neutral,2025-05-23,2025,5
+300,Title,us firms face biggest hit from trump tariffs hsbc survey shows,0.7531259655952454,0.17639702558517456,0.07047700136899948,negative,2025-05-23,2025,5
+301,Title,us importers pay record 16 5 billion as april tariff bill lands,0.211325004696846,0.04975035414099693,0.7389246225357056,positive,2025-05-23,2025,5
+302,Title,us inflation recession forecasts ease on trade truce with china,0.3866916000843048,0.5587198138237,0.05458861216902733,neutral,2025-05-23,2025,5
+303,Title,us new home sales top forecasts on surge in south and midwest,0.8515227437019348,0.10501861572265625,0.043458644300699234,negative,2025-05-23,2025,5
+304,Title,us tariff countdown has nations racing to turn talks into deals,0.3281034231185913,0.030026819556951523,0.6418697834014893,positive,2025-05-23,2025,5
+305,Title,us yields slide as trump tariff threat reignites growth concerns,0.024593349546194077,0.9111913442611694,0.06421536207199097,neutral,2025-05-23,2025,5
+306,Title,vietnam takes steps to block telegram app over illegal content,0.014508826658129692,0.9108575582504272,0.07463370263576508,neutral,2025-05-23,2025,5
+307,Title,visa mastercard fees hit by new round of eu antitrust scrutiny,0.014696690253913403,0.9617344737052917,0.0235687755048275,neutral,2025-05-23,2025,5
+308,Title,volvo cars ceo rebuffs reports claiming ex60 delayed,0.015707580372691154,0.9203595519065857,0.06393282860517502,neutral,2025-05-23,2025,5
+309,Title,zambia halts rate hikes as corn boom seen cooling inflation,0.21765896677970886,0.5121041536331177,0.27023687958717346,neutral,2025-05-23,2025,5
+310,Title,alibaba chair says asian firms can look for growth outside of us,0.7279138565063477,0.008307457901537418,0.2637786567211151,negative,2025-05-24,2025,5
+311,Title,bangladesh s interim government says it will stay the course,0.11389321833848953,0.044627845287323,0.8414788842201233,positive,2025-05-24,2025,5
+312,Title,canada s macklem says us tariffs biggest headwind nyt reports,0.028489410877227783,0.8946948647499084,0.07681573927402496,neutral,2025-05-24,2025,5
+313,Title,chevron cvx venezuela seen getting us license for minimum maintenance,0.7828565835952759,0.010877877473831177,0.20626549422740936,negative,2025-05-24,2025,5
+314,Title,eu weighs cutting 20 banks from swift in new russia sanctions,0.018389258533716202,0.9252846837043762,0.056326013058423996,neutral,2025-05-24,2025,5
+315,Title,fed to take in stride another month of tame inflation,0.22003686428070068,0.1905805468559265,0.5893826484680176,positive,2025-05-24,2025,5
+316,Title,hong kong restaurant review servo is a stunning budget cafe by arcane team,0.107754647731781,0.01439408678561449,0.8778512477874756,positive,2025-05-24,2025,5
+317,Title,how britain s stats geeks lost track of the economy,0.11263968050479889,0.333304762840271,0.5540555715560913,positive,2025-05-24,2025,5
+318,Title,india s ntpc reports profit growth on boost in power generation,0.9420657157897949,0.017629435285925865,0.040304917842149734,negative,2025-05-24,2025,5
+319,Title,indonesia to cut transport and power prices to spur consumption,0.5225770473480225,0.2776028513908386,0.19982007145881653,negative,2025-05-24,2025,5
+320,Title,japan signals intent to reach us tariff deal by g 7 in june,0.7835811972618103,0.016970479860901833,0.1994483917951584,negative,2025-05-24,2025,5
+321,Title,junkiest junk is offering a warning sign for debt credit weekly,0.1416754424571991,0.7182670831680298,0.1400574892759323,neutral,2025-05-24,2025,5
+322,Title,malaysia s anwar defends lengthening tenure of anti graft chief,0.30175331234931946,0.22530311346054077,0.47294357419013977,neutral,2025-05-24,2025,5
+323,Title,monsoon arrives early in india bolstering outlook for key crops,0.8918752670288086,0.03142014145851135,0.0767044946551323,negative,2025-05-24,2025,5
+324,Title,pakistan s next funding review in second half of 2025 imf says,0.027661986649036407,0.04110779985785484,0.9312301874160767,positive,2025-05-24,2025,5
+325,Title,polish ruling party candidate pushes back against far right,0.30675601959228516,0.45461714267730713,0.23862694203853607,neutral,2025-05-24,2025,5
+326,Title,power cut hits french riviera in final day of cannes festival,0.04944238066673279,0.715090274810791,0.23546729981899261,neutral,2025-05-24,2025,5
+327,Title,trump forces switzerland to question its love for farmers,0.10789020359516144,0.19470351934432983,0.6974062919616699,positive,2025-05-24,2025,5
+328,Title,trump risks us consumer discontent with his tariffs poll shows,0.07181347161531448,0.7550879716873169,0.1730985790491104,neutral,2025-05-24,2025,5
+329,Title,trump s new tariff threats show trade uncertainty here to stay,0.06395621597766876,0.8077024817466736,0.12834137678146362,neutral,2025-05-24,2025,5
+330,Title,turkish central bank tightens screws on cheap lira window abroad,0.03389069810509682,0.8719388246536255,0.09417042136192322,neutral,2025-05-24,2025,5
+331,Title,world economy latest long term bond yields soar globally,0.31617915630340576,0.5771616101264954,0.1066591888666153,neutral,2025-05-24,2025,5
+332,Title,asean must keep joining global supply chains thai minister says,0.31635674834251404,0.026908831670880318,0.6567344069480896,positive,2025-05-25,2025,5
+333,Title,australia s east coast begins flood cleanup as waters recede,0.0677621141076088,0.08887381106615067,0.8433640003204346,positive,2025-05-25,2025,5
+334,Title,australia s opposition parties on track to return to coalition,0.4272684156894684,0.09850911051034927,0.4742225408554077,neutral,2025-05-25,2025,5
+335,Title,china indonesia sovereign wealth funds boost investment ties,0.8737818598747253,0.033681634813547134,0.09253652393817902,negative,2025-05-25,2025,5
+336,Title,china publishes draft guidance for online platform merchant fees,0.04864400625228882,0.015595698729157448,0.9357602596282959,positive,2025-05-25,2025,5
+337,Title,europe s shipping bottlenecks expected to persist into july,0.019503628835082054,0.9548743963241577,0.025621997192502022,neutral,2025-05-25,2025,5
+338,Title,german finance minister urges calm in us tariff fight bild says,0.1612986922264099,0.3779238164424896,0.46077752113342285,neutral,2025-05-25,2025,5
+339,Title,japan stocks to fluctuate as yen drops on new eu tariff deadline,0.04288206249475479,0.9325858950614929,0.024532053619623184,neutral,2025-05-25,2025,5
+340,Title,long bond revolt pressures 60 40 comeback in chaotic 2025 market,0.09643008559942245,0.7617167234420776,0.1418532282114029,neutral,2025-05-25,2025,5
+341,Title,macron kicks off asia tour in vietnam with focus on energy,0.11432568728923798,0.02523759752511978,0.8604366779327393,positive,2025-05-25,2025,5
+342,Title,polish election contenders rally supporters a week before runoff,0.1821494698524475,0.5751705169677734,0.2426799237728119,neutral,2025-05-25,2025,5
+343,Title,portugal continues easing limits on power imports from spain,0.6275346875190735,0.06313548237085342,0.30932989716529846,negative,2025-05-25,2025,5
+344,Title,record india private credit deal hinges on tricky collateral,0.054151155054569244,0.40036389231681824,0.5454849600791931,positive,2025-05-25,2025,5
+345,Title,treasury traders enter abridged week with inflation top of mind,0.17622357606887817,0.5163329839706421,0.30744343996047974,neutral,2025-05-25,2025,5
+346,Title,trump backing for nippon steel deal comes with big questions,0.1685803234577179,0.021045684814453125,0.8103739619255066,positive,2025-05-25,2025,5
+347,Title,trump extends deadline for 50 tariffs on eu to july 9,0.20413947105407715,0.026694735512137413,0.7691657543182373,positive,2025-05-25,2025,5
+348,Title,us equity futures gain as europe deadline extended markets wrap,0.49492788314819336,0.3305169641971588,0.17455510795116425,neutral,2025-05-25,2025,5
+349,Title,us tariffs loom over asia summit as ties with china strengthen,0.8262823224067688,0.08800382167100906,0.08571385592222214,negative,2025-05-25,2025,5
+350,Title,afdb presidential hopeful eyes 4 5 trillion in private capital,0.11472560465335846,0.011434869840741158,0.8738395571708679,positive,2025-05-26,2025,5
+351,Title,argentina claims return to global markets with peso bond sale,0.8963432908058167,0.010017337277531624,0.09363937377929688,negative,2025-05-26,2025,5
+352,Title,big beautiful bill trump hits allies with unfair tax regimes,0.08168011158704758,0.763527512550354,0.15479233860969543,neutral,2025-05-26,2025,5
+353,Title,brazil keeps bungling its budget and worrying investors,0.013966984115540981,0.9296403527259827,0.05639268830418587,neutral,2025-05-26,2025,5
+354,Title,caixabank unit ceo defends role of foreign lenders in portugal,0.07866042107343674,0.021175647154450417,0.9001639485359192,positive,2025-05-26,2025,5
+355,Title,charles rangel a voice for the poor in tax debates dies at 94,0.05089009925723076,0.1928648203611374,0.7562450766563416,positive,2025-05-26,2025,5
+356,Title,chile s leftist presidential hopefuls spar over sqm codelco deal,0.07193387299776077,0.7619215846061707,0.16614454984664917,neutral,2025-05-26,2025,5
+357,Title,china raises cross border yuan use requirement for major banks,0.41162925958633423,0.10342294722795486,0.4849478304386139,neutral,2025-05-26,2025,5
+358,Title,china s ambassador warns australia over port of darwin lease,0.04121909290552139,0.8560585975646973,0.10272234678268433,neutral,2025-05-26,2025,5
+359,Title,chinese eu trade heads to meet as trump tariff tensions rise,0.4762546718120575,0.25086161494255066,0.27288368344306946,neutral,2025-05-26,2025,5
+360,Title,chinese steel exports to drop as barriers mount says goldman,0.013482841663062572,0.965056836605072,0.021460212767124176,neutral,2025-05-26,2025,5
+361,Title,dai ichi life sees jgb market volatility declining by year end,0.04002565145492554,0.9463005661964417,0.013673740439116955,neutral,2025-05-26,2025,5
+362,Title,ecb faces greater risk inflation will undershoot 2 simkus says,0.09385081380605698,0.8255625367164612,0.08058656752109528,neutral,2025-05-26,2025,5
+363,Title,emerging currencies advance as trump extends eu tariff deadline,0.7862551212310791,0.10099998116493225,0.11274483799934387,negative,2025-05-26,2025,5
+364,Title,eu plans to fast track trade talks with us amid tariff fight,0.8662058711051941,0.015382993966341019,0.1184111088514328,negative,2025-05-26,2025,5
+365,Title,european gas rises amid supply cuts at norway s troll field,0.21467351913452148,0.7329216003417969,0.05240490287542343,neutral,2025-05-26,2025,5
+366,Title,germany s merz floats cutting off eu funds to fico s slovakia,0.01888716220855713,0.913052499294281,0.06806021928787231,neutral,2025-05-26,2025,5
+367,Title,germany s merz says us tech perks could be target in trade war,0.9292411208152771,0.01498991996049881,0.05576895549893379,negative,2025-05-26,2025,5
+368,Title,goldman sachs expects stronger yuan to boost chinese stocks,0.9510043859481812,0.019493594765663147,0.029502015560865402,negative,2025-05-26,2025,5
+369,Title,hungary warns wage hike plan at risk from weak economy,0.038935936987400055,0.9442498683929443,0.01681424491107464,neutral,2025-05-26,2025,5
+370,Title,india debuts new weather model to help farming flood planning,0.47375211119651794,0.014446486718952656,0.5118013620376587,positive,2025-05-26,2025,5
+371,Title,israel holds rates as inflation spikes gaza war escalates,0.035353295505046844,0.8904843330383301,0.07416234910488129,neutral,2025-05-26,2025,5
+372,Title,israel set to hold rates as inflation spikes gaza war escalates,0.047610361129045486,0.7746016979217529,0.1777879297733307,neutral,2025-05-26,2025,5
+373,Title,japan sovereign bonds trim recent losses that rattled investors,0.5428228378295898,0.42405208945274353,0.03312506899237633,negative,2025-05-26,2025,5
+374,Title,japan to sell rice stockpiles with aim to halve soaring prices,0.8385939002037048,0.012115397490561008,0.14929065108299255,negative,2025-05-26,2025,5
+375,Title,japan touts ships expertise lng investment as tariff talks key,0.17928238213062286,0.00861391332000494,0.8121036887168884,positive,2025-05-26,2025,5
+376,Title,japanese bonds face renewed test with 40 year sale after selloff,0.8722746968269348,0.08097594976425171,0.04674943909049034,negative,2025-05-26,2025,5
+377,Title,kashkari says not sure on interest rate moves by september,0.02826126106083393,0.06990059465169907,0.9018381237983704,positive,2025-05-26,2025,5
+378,Title,king charles visits canada as country rattled by trump taunts,0.12211555242538452,0.6092309355735779,0.26865354180336,neutral,2025-05-26,2025,5
+379,Title,lagarde doubles down on push to raise the euro s global profile,0.07129796594381332,0.85997474193573,0.06872723251581192,neutral,2025-05-26,2025,5
+380,Title,maduro sweeps venezuelan regional vote marked by low turnout,0.08317702263593674,0.8673725724220276,0.049450427293777466,neutral,2025-05-26,2025,5
+381,Title,malaysia singapore explore importing wind energy from vietnam,0.27898332476615906,0.010044734925031662,0.7109719514846802,positive,2025-05-26,2025,5
+382,Title,milei netflix star ricardo darin spar over empanada prices in argentina,0.5152037143707275,0.10335828363895416,0.3814379572868347,negative,2025-05-26,2025,5
+383,Title,nato chief rutte says members moving toward 5 spending target,0.5503056645393372,0.018460320308804512,0.4312340021133423,negative,2025-05-26,2025,5
+384,Title,oil spill spotted after a ship sinks off india s southern coast,0.03573574870824814,0.9005901217460632,0.06367407739162445,neutral,2025-05-26,2025,5
+385,Title,philippine peso gains to strongest since 2023 on dollar oil,0.9266998767852783,0.03895086050033569,0.03434928506612778,negative,2025-05-26,2025,5
+386,Title,rbnz set to make sixth rate cut and signal bias to more easing,0.42218899726867676,0.0901176780462265,0.48769330978393555,neutral,2025-05-26,2025,5
+387,Title,romania s fiscal woes test new math prodigy president,0.34850361943244934,0.5141199231147766,0.13737648725509644,neutral,2025-05-26,2025,5
+388,Title,romania seeks to ease market stress with liquidity injection,0.5890346765518188,0.010839102789759636,0.40012624859809875,negative,2025-05-26,2025,5
+389,Title,shorter indian bonds set to extend gains on rbi s record payout,0.9290503859519958,0.028646375983953476,0.0423031710088253,negative,2025-05-26,2025,5
+390,Title,south africa can entice investors with new budget minister says,0.519184947013855,0.012848022393882275,0.4679670035839081,negative,2025-05-26,2025,5
+391,Title,south africa has too many retail stores pick n pay ceo says,0.03326515853404999,0.3225407898426056,0.6441940665245056,positive,2025-05-26,2025,5
+392,Title,south africa invites trump to explore business opportunities,0.39528584480285645,0.009783027693629265,0.5949311852455139,positive,2025-05-26,2025,5
+393,Title,south korea presidential election what to know who are the main candidates,0.023242393508553505,0.041852906346321106,0.9349046945571899,positive,2025-05-26,2025,5
+394,Title,tusk plan to change poland turns on knife edge presidential vote,0.08395372331142426,0.5330724716186523,0.3829738199710846,neutral,2025-05-26,2025,5
+395,Title,uk food inflation highest in a year as grocers face more costs,0.19205312430858612,0.7812812328338623,0.02666563168168068,neutral,2025-05-26,2025,5
+396,Title,us equity futures gain as eu trade hopes advance markets wrap,0.8499338030815125,0.05502844601869583,0.09503772109746933,negative,2025-05-26,2025,5
+397,Title,won may extend rally on easing political risks trade deal bets,0.7642397880554199,0.1192304715514183,0.11652977019548416,negative,2025-05-26,2025,5
+398,Title,xi plans new made in china effort even as trump aims to boost us manufacturing,0.7439936995506287,0.008607630617916584,0.24739862978458405,negative,2025-05-26,2025,5
+399,Title,zimbabwe sees 2 6 billion bridge finance in place by early 2026,0.3823104500770569,0.009191439487040043,0.6084981560707092,positive,2025-05-26,2025,5
+400,Title,bok poised to cut rate ahead of election as risks deepen guide,0.08539779484272003,0.797663152217865,0.11693903058767319,neutral,2025-05-27,2025,5
+401,Title,brazil s inflation slows as policymakers say high rates to stay,0.5008766651153564,0.4160935580730438,0.08302977681159973,negative,2025-05-27,2025,5
+402,Title,canada s bdc issues buy canadian plea to venture capital investors,0.04505842179059982,0.016807807609438896,0.938133716583252,positive,2025-05-27,2025,5
+403,Title,carney pledges economic transformation in speech read by king,0.241819366812706,0.011939100921154022,0.746241569519043,positive,2025-05-27,2025,5
+404,Title,china 3 7 billion pension fund seek to build key kenyan road,0.6978447437286377,0.009412978775799274,0.2927422821521759,negative,2025-05-27,2025,5
+405,Title,china offers to fund colombia projects if the us blocks loans,0.20841729640960693,0.0186166949570179,0.7729659676551819,positive,2025-05-27,2025,5
+406,Title,china s industrial profit growth picks up in sign of resilience,0.9476551413536072,0.025793403387069702,0.02655155025422573,negative,2025-05-27,2025,5
+407,Title,china s premier courts asean gulf states as trump tariffs bite,0.1576615571975708,0.16521619260311127,0.6771222949028015,positive,2025-05-27,2025,5
+408,Title,chinese plastics buyers are resisting switch back to us propane,0.0630304142832756,0.08734545856714249,0.8496241569519043,positive,2025-05-27,2025,5
+409,Title,crypto exchange blockchain com seeks to expand in nigeria ghana,0.769728422164917,0.007216805592179298,0.22305481135845184,negative,2025-05-27,2025,5
+410,Title,ecb is close to reaching its inflation target nagel says,0.5456246733665466,0.04503896087408066,0.4093363881111145,negative,2025-05-27,2025,5
+411,Title,ecb s patsalides sees bigger cut unwarranted now econostream,0.25542956590652466,0.677609920501709,0.06696053594350815,neutral,2025-05-27,2025,5
+412,Title,emerging market etfs end winning streak fall 22 5 mln,0.02846003696322441,0.948841392993927,0.022698555141687393,neutral,2025-05-27,2025,5
+413,Title,eu to focus on critical sectors in bid to avoid trump s tariffs,0.23874926567077637,0.09717640280723572,0.6640743017196655,positive,2025-05-27,2025,5
+414,Title,europe car sales slip as economic woes hold back consumers,0.009621678851544857,0.9655579328536987,0.024820320308208466,neutral,2025-05-27,2025,5
+415,Title,farmer defaults force reckoning at brazil behemoth state bank,0.06672076135873795,0.7406778931617737,0.19260141253471375,neutral,2025-05-27,2025,5
+416,Title,fed s barkin says businesses on hold amid elevated uncertainty,0.025441179051995277,0.894890546798706,0.0796683132648468,neutral,2025-05-27,2025,5
+417,Title,french inflation eases to lowest rate since 2020 on energy,0.023726224899291992,0.9217759370803833,0.05449783429503441,neutral,2025-05-27,2025,5
+418,Title,germany weighs curbs on israel weapons exports on gaza concerns,0.06234912574291229,0.7084614634513855,0.22918939590454102,neutral,2025-05-27,2025,5
+419,Title,hedge funds bet on korean won to mirror taiwan dollar s surge,0.7992402911186218,0.04426923021674156,0.1564904749393463,negative,2025-05-27,2025,5
+420,Title,hungary holds key rate steady with focus on anchoring inflation,0.6493326425552368,0.052005719393491745,0.2986617088317871,negative,2025-05-27,2025,5
+421,Title,hungary to hold rates with price risks in focus decision guide,0.106734499335289,0.05034133791923523,0.842924177646637,positive,2025-05-27,2025,5
+422,Title,imf warns uk to keep budget in check or risk market revolt,0.0675986111164093,0.7798461318016052,0.15255534648895264,neutral,2025-05-27,2025,5
+423,Title,india reiterates ample monsoon rain forecast after early onset,0.14995022118091583,0.02574957348406315,0.8243001699447632,positive,2025-05-27,2025,5
+424,Title,india sees us trade deal as key to lowering external risks,0.9169089198112488,0.012816214002668858,0.07027482986450195,negative,2025-05-27,2025,5
+425,Title,japan allots 388 billion from reserves to ease us tariff hit,0.7525147199630737,0.10732318460941315,0.1401621252298355,negative,2025-05-27,2025,5
+426,Title,japan finance ministry is said to sound out market on bond sales,0.2025466114282608,0.1003795713186264,0.697073757648468,positive,2025-05-27,2025,5
+427,Title,japan government panel warns on rising yields hit on finances,0.047900035977363586,0.9257462620735168,0.026353739202022552,neutral,2025-05-27,2025,5
+428,Title,japan loses top creditor status for first time in 34 years,0.02582051232457161,0.9057722091674805,0.06840728968381882,neutral,2025-05-27,2025,5
+429,Title,kashkari favors maintaining fed rates until more tariff clarity,0.14547820389270782,0.07133577018976212,0.7831860780715942,positive,2025-05-27,2025,5
+430,Title,kenyan growth to slow on debt fiscal pressures world bank says,0.011393767781555653,0.9385098218917847,0.05009646341204643,neutral,2025-05-27,2025,5
+431,Title,macron courts southeast asia nations trapped by us china dispute,0.04437306895852089,0.5990688800811768,0.35655808448791504,neutral,2025-05-27,2025,5
+432,Title,malaysia sees reducing the us s proposed tariff to 10 as a good outcome,0.9008105993270874,0.01839129813015461,0.08079803735017776,negative,2025-05-27,2025,5
+433,Title,malaysia stirs hotpot diplomacy with palm based fat for china,0.3858279287815094,0.024059196934103966,0.5901128649711609,positive,2025-05-27,2025,5
+434,Title,malaysian assets to gain as funds slash us exposure cimb says,0.9136343598365784,0.0330565944314003,0.053308986127376556,negative,2025-05-27,2025,5
+435,Title,milei burnishes his trump ties by hosting health chief rfk jr,0.14170889556407928,0.05426019802689552,0.8040308952331543,positive,2025-05-27,2025,5
+436,Title,nagel says frontloading helped boost germany at start of year,0.9480003714561462,0.016142090782523155,0.03585757315158844,negative,2025-05-27,2025,5
+437,Title,neinor is said to show interest in rival spanish developer aedas,0.17214861512184143,0.007658596150577068,0.820192813873291,positive,2025-05-27,2025,5
+438,Title,nigeria s tinubu seeks nod for 24 billion external loan plan,0.8592810034751892,0.011648955754935741,0.12907004356384277,negative,2025-05-27,2025,5
+439,Title,novo s sales woes herald danish export slowdown watchdog says,0.02435154840350151,0.9580670595169067,0.017581459134817123,neutral,2025-05-27,2025,5
+440,Title,ny wins bid to stop us from withholding funds over congestion,0.2122349739074707,0.26268330216407776,0.5250816345214844,positive,2025-05-27,2025,5
+441,Title,peter thiel fund puts 49 million in bulgarian satellite startup endurosat,0.1330501139163971,0.010674390941858292,0.8562754988670349,positive,2025-05-27,2025,5
+442,Title,podcast should commodities still have a place in your portfolio,0.1434166580438614,0.014174474403262138,0.8424088358879089,positive,2025-05-27,2025,5
+443,Title,polish presidential contender brushes off reports about checkered past,0.04395656660199165,0.8345504999160767,0.12149295955896378,neutral,2025-05-27,2025,5
+444,Title,portugal says carrier tap is strategic as it plans privatization,0.26701441407203674,0.008635446429252625,0.724350094795227,positive,2025-05-27,2025,5
+445,Title,ramaphosa dismisses criticism of south africa s empowerment laws,0.1330309957265854,0.3493671417236328,0.5176019072532654,positive,2025-05-27,2025,5
+446,Title,ramaphosa recalls his bemusement at trump oval office encounter,0.07632467150688171,0.5377022624015808,0.3859730660915375,neutral,2025-05-27,2025,5
+447,Title,ramaphosa s building spree for south africa draws 13 billion,0.08125144243240356,0.027850273996591568,0.8908982276916504,positive,2025-05-27,2025,5
+448,Title,saudi aramco kicks off its first dollar bond sale this year,0.12931056320667267,0.03088771365582943,0.8398017287254333,positive,2025-05-27,2025,5
+449,Title,saudi sports fund surj backs pique s seven a side kings league,0.3655795454978943,0.04370158910751343,0.5907188653945923,positive,2025-05-27,2025,5
+450,Title,slovak premier rejects germany s warning on cutting eu funding,0.0505647212266922,0.8644365668296814,0.0849987119436264,neutral,2025-05-27,2025,5
+451,Title,snb removed chevron from us portfolio on environmental concerns,0.01720328815281391,0.7862277030944824,0.1965690404176712,neutral,2025-05-27,2025,5
+452,Title,snb s schlegel warns against kneejerk rate moves on negative price data,0.07506837695837021,0.8613301515579224,0.06360147893428802,neutral,2025-05-27,2025,5
+453,Title,south africa lawmakers slam starlink plan over back door entry,0.016238603740930557,0.8831397294998169,0.10062167048454285,neutral,2025-05-27,2025,5
+454,Title,southeast asia leaders make a veiled jab at us tariff actions,0.03647661954164505,0.7934772372245789,0.1700461506843567,neutral,2025-05-27,2025,5
+455,Title,southern china braces for heavy rain as wheat belt drought eases,0.6112639904022217,0.26032543182373047,0.12841056287288666,negative,2025-05-27,2025,5
+456,Title,stock market today dow s p live updates,0.03214000537991524,0.03012198396027088,0.9377379417419434,positive,2025-05-27,2025,5
+457,Title,stronger growth seen for africa as it weathers tariff shock,0.9499484300613403,0.018003126606345177,0.03204846382141113,negative,2025-05-27,2025,5
+458,Title,swiss exports to us plummet in first month of trump tariffs,0.01072898879647255,0.9696273803710938,0.019643668085336685,neutral,2025-05-27,2025,5
+459,Title,swiss watch exports jump in april ahead of threatened us tariffs,0.6064779758453369,0.3479824364185333,0.04553961381316185,negative,2025-05-27,2025,5
+460,Title,thailand clears plan to exit us intellectual property watchlist,0.027473950758576393,0.2604835331439972,0.7120424509048462,positive,2025-05-27,2025,5
+461,Title,thailand faces fresh risk of instability as coalition challenged by budget vote,0.015968410298228264,0.9531155228614807,0.030916038900613785,neutral,2025-05-27,2025,5
+462,Title,traders brace for japan s 40 year bond sale after yields swoon,0.10436613112688065,0.5526514053344727,0.3429824411869049,neutral,2025-05-27,2025,5
+463,Title,treasuries rally with japan bonds as mof news boosts sentiment,0.6162469983100891,0.2179907262325287,0.16576224565505981,negative,2025-05-27,2025,5
+464,Title,trump praises eu for speeding tariff negotiations after threat,0.2824912965297699,0.5548063516616821,0.16270236670970917,neutral,2025-05-27,2025,5
+465,Title,turkish fintech firm papara seized in illegal gambling probe,0.016546769067645073,0.8895435333251953,0.09390971064567566,neutral,2025-05-27,2025,5
+466,Title,ueda indicates boj is still eyeing more rate hikes boosting yen,0.9098038673400879,0.03777952492237091,0.052416618913412094,negative,2025-05-27,2025,5
+467,Title,uk envoy urges trans atlantic tech alliance cites china threat,0.1981421858072281,0.06890802830457687,0.7329498529434204,positive,2025-05-27,2025,5
+468,Title,uk to cut planning hurdles for small builders in housing push,0.5541273355484009,0.06602710485458374,0.3798455595970154,negative,2025-05-27,2025,5
+469,Title,uruguay holds key rate at 9 25 reinforces tight policy stance,0.23886877298355103,0.5340340733528137,0.22709716856479645,neutral,2025-05-27,2025,5
+470,Title,us consumer confidence jumps most in four years on trade truce,0.7943216562271118,0.16543520987033844,0.04024305194616318,negative,2025-05-27,2025,5
+471,Title,us core capital goods orders decrease by most since october,0.008099180646240711,0.9742686748504639,0.017632197588682175,neutral,2025-05-27,2025,5
+472,Title,us home price increases slowed in march as buyers pulled back,0.13278691470623016,0.8402770161628723,0.02693604864180088,neutral,2025-05-27,2025,5
+473,Title,us orders pause in student visa interviews ahead of new vetting,0.0314183309674263,0.14282344281673431,0.825758159160614,positive,2025-05-27,2025,5
+474,Title,us s cerberus eyes offer for port of darwin the australian says,0.2634415626525879,0.015601716935634613,0.7209566831588745,positive,2025-05-27,2025,5
+475,Title,us solar makers see tariff loophole for asian competitors,0.10993760079145432,0.6535611152648926,0.2365013062953949,neutral,2025-05-27,2025,5
+476,Title,why uk inflation is so high and tough to bring down,0.045903488993644714,0.3795362114906311,0.574560284614563,positive,2025-05-27,2025,5
+477,Title,why us dollar is facing a confidence crisis in asia podcast,0.04186279699206352,0.72986900806427,0.22826819121837616,neutral,2025-05-27,2025,5
+478,Title,abercrombie surges on raised outlook after tallying tariff cost,0.8878787159919739,0.07255277782678604,0.039568446576595306,negative,2025-05-28,2025,5
+479,Title,about 73 of americans do at least ok financially in fed survey,0.10430878400802612,0.01700054295361042,0.8786906003952026,positive,2025-05-28,2025,5
+480,Title,adani ports plans record 50 billion rupee bond sale for capex,0.4918580949306488,0.011103945784270763,0.49703794717788696,neutral,2025-05-28,2025,5
+481,Title,afdb sees cedi naria among african currencies slipping in 2025,0.010856032371520996,0.9721081256866455,0.01703578606247902,neutral,2025-05-28,2025,5
+482,Title,argentina sells peso bonds abroad for first time since macri era,0.4987836480140686,0.01247773040086031,0.48873862624168396,neutral,2025-05-28,2025,5
+483,Title,australia looks to avoid a panama repeat in china port showdown,0.18095000088214874,0.6209584474563599,0.19809162616729736,neutral,2025-05-28,2025,5
+484,Title,australia s center right opposition regroups about one week after split,0.03899824619293213,0.65919029712677,0.3018113970756531,neutral,2025-05-28,2025,5
+485,Title,australia s monthly cpi higher than estimates aussie edges up,0.9173338413238525,0.05902225151658058,0.023643946275115013,negative,2025-05-28,2025,5
+486,Title,banxico cuts 2025 growth forecast to 0 1 and to 0 9 for 2026,0.1553765833377838,0.6859054565429688,0.15871794521808624,neutral,2025-05-28,2025,5
+487,Title,boj s bond holding paper losses hit record after rate hikes,0.4425905644893646,0.5258970856666565,0.03151227906346321,neutral,2025-05-28,2025,5
+488,Title,bond traders see treasuries selloff going even further,0.3362758457660675,0.5596853494644165,0.10403883457183838,neutral,2025-05-28,2025,5
+489,Title,brazil s azul files for chapter 11 bankruptcy protection in us,0.01451595313847065,0.7951363921165466,0.19034762680530548,neutral,2025-05-28,2025,5
+490,Title,brazil sues ev giant byd over slavery conditions at plant,0.013528712093830109,0.9310322403907776,0.055439066141843796,neutral,2025-05-28,2025,5
+491,Title,carney s defense spending will add up to 46 billion to economy cibc says,0.8553082942962646,0.009664683602750301,0.13502705097198486,negative,2025-05-28,2025,5
+492,Title,central bankers bow to political winds when it comes to climate study shows,0.028099074959754944,0.0998019278049469,0.8720990419387817,positive,2025-05-28,2025,5
+493,Title,chile lifts copper call as supply disappoints trade fears ease,0.35723060369491577,0.5865700244903564,0.05619927495718002,neutral,2025-05-28,2025,5
+494,Title,china deflation worry deepens among economists after trade truce,0.0848851129412651,0.7895286083221436,0.12558631598949432,neutral,2025-05-28,2025,5
+495,Title,china s answer to world bank plans to open singapore hk offices,0.08195000141859055,0.01133494358509779,0.9067150950431824,positive,2025-05-28,2025,5
+496,Title,china s citic mag group to work on 6 billion project in dubai,0.15179947018623352,0.008397516794502735,0.8398030400276184,positive,2025-05-28,2025,5
+497,Title,china s top commodities bourse plans full access for foreigners,0.5361359119415283,0.007999597117304802,0.45586448907852173,negative,2025-05-28,2025,5
+498,Title,china seeks to slow yuan s gains after months of propping it up,0.05819079652428627,0.8808347582817078,0.0609743595123291,neutral,2025-05-28,2025,5
+499,Title,china tech ambitions won t hurt consumption pivot keyu jin says,0.13659992814064026,0.028615208342671394,0.8347848653793335,positive,2025-05-28,2025,5
+500,Title,chinese stock market in limbo as investors lack conviction,0.018592271953821182,0.8881716728210449,0.09323610365390778,neutral,2025-05-28,2025,5
+501,Title,crypto gets candidate backing in tight polish presidential race,0.7139443755149841,0.031720224767923355,0.2543354332447052,negative,2025-05-28,2025,5
+502,Title,dalio won t join indonesia fund as adviser in blow to prabowo,0.02527773007750511,0.04300954192876816,0.9317126870155334,positive,2025-05-28,2025,5
+503,Title,ecb s knot says inflation may cause considerable challenges,0.020032677799463272,0.944996178150177,0.03497126325964928,neutral,2025-05-28,2025,5
+504,Title,ecb says consumers inflation expectations rise for second month,0.8081889748573303,0.09672999382019043,0.09508101642131805,negative,2025-05-28,2025,5
+505,Title,eu cautions spain against hindering bbva s bid for sabadell,0.03602610155940056,0.7796264290809631,0.18434743583202362,neutral,2025-05-28,2025,5
+506,Title,eu trade chief to speak to us s lutnick greer on thursday,0.047236766666173935,0.026277966797351837,0.9264853000640869,positive,2025-05-28,2025,5
+507,Title,european stocks steady as investors focus on us fiscal deficit,0.29255491495132446,0.6280322670936584,0.07941282540559769,neutral,2025-05-28,2025,5
+508,Title,farage keeps finances vague in uk welfare plan targeting labour,0.05602651834487915,0.0811426118016243,0.8628308176994324,positive,2025-05-28,2025,5
+509,Title,fed disbands climate groups studying financial stability risks,0.02574440836906433,0.5091969966888428,0.4650586247444153,neutral,2025-05-28,2025,5
+510,Title,fed s williams says pandemic changed inflation perceptions,0.22784177958965302,0.5481582283973694,0.22399994730949402,neutral,2025-05-28,2025,5
+511,Title,fed well positioned to wait for clarity on outlook minutes say,0.12076130509376526,0.015984421595931053,0.8632543087005615,positive,2025-05-28,2025,5
+512,Title,fintech mercado pago will apply for argentina banking license,0.07555339485406876,0.008456640876829624,0.9159899950027466,positive,2025-05-28,2025,5
+513,Title,french consumer spending rises less than expected in april,0.0686560794711113,0.9176865816116333,0.013657264411449432,neutral,2025-05-28,2025,5
+514,Title,germany prepares to abolish its fast track path to citizenship,0.5431508421897888,0.014867323450744152,0.44198185205459595,negative,2025-05-28,2025,5
+515,Title,gold edges higher after loss with us data trade talks in focus,0.8448089957237244,0.09667123109102249,0.058519769459962845,negative,2025-05-28,2025,5
+516,Title,hong kong saudi bourses seek deeper ties to spur trading volume,0.9160780310630798,0.01251794584095478,0.07140400260686874,negative,2025-05-28,2025,5
+517,Title,how harvard is getting rocked by trump s america first fight,0.14238199591636658,0.024950871244072914,0.8326671719551086,positive,2025-05-28,2025,5
+518,Title,india bans former indusind ceo others in insider trading case,0.019854160025715828,0.8759616017341614,0.10418421775102615,neutral,2025-05-28,2025,5
+519,Title,india bonds are a buy for citi on diverging rates policy with us,0.713546097278595,0.02574024721980095,0.2607136070728302,negative,2025-05-28,2025,5
+520,Title,israel says it killed mohammed sinwar head of hamas in gaza,0.07854481786489487,0.6202234029769897,0.3012318015098572,neutral,2025-05-28,2025,5
+521,Title,japan 40 year bond sale demand is weakest since july,0.00753049599006772,0.9711989760398865,0.02127050794661045,neutral,2025-05-28,2025,5
+522,Title,japan expands military push against china with us stand in doubt,0.32121542096138,0.17400811612606049,0.5047764778137207,positive,2025-05-28,2025,5
+523,Title,japan pauses stockpile sales as retailers snap up rice,0.02328134886920452,0.8969411253929138,0.07977751642465591,neutral,2025-05-28,2025,5
+524,Title,job applicant interviews conducted by ai offer benefits tech glitches,0.02130935713648796,0.7452994585037231,0.2333911806344986,neutral,2025-05-28,2025,5
+525,Title,lagarde discussed leaving ecb early for wef schwab tellls ft,0.028071332722902298,0.0921730250120163,0.8797556161880493,positive,2025-05-28,2025,5
+526,Title,malaysia economy minister rafizi to resign effective june 17,0.016140228137373924,0.7515038847923279,0.23235593736171722,neutral,2025-05-28,2025,5
+527,Title,meet the five people vying to lead the african development bank,0.07880748808383942,0.011670609004795551,0.9095219373703003,positive,2025-05-28,2025,5
+528,Title,merz vows legislative action to quickly boost german economy,0.9134708046913147,0.011193647049367428,0.0753355622291565,negative,2025-05-28,2025,5
+529,Title,mifepristone why the abortion pill is under scrutiny again in us,0.04379430413246155,0.156202033162117,0.8000036478042603,positive,2025-05-28,2025,5
+530,Title,milei gets tuttle twins to teach free markets to argentine kids,0.1513766050338745,0.012690989300608635,0.8359323740005493,positive,2025-05-28,2025,5
+531,Title,milei intervenes in argentina fx market despite letting peso float,0.14455783367156982,0.03503059595823288,0.8204115629196167,positive,2025-05-28,2025,5
+532,Title,musk says he s disappointed that trump tax bill raises deficit,0.020248141139745712,0.9547922611236572,0.02495957911014557,neutral,2025-05-28,2025,5
+533,Title,nato floats cybersecurity to be included in new spending target,0.6121780276298523,0.012383737601339817,0.37543821334838867,negative,2025-05-28,2025,5
+534,Title,new zealand delivers sixth rate cut to spur economic recovery,0.8107380867004395,0.08475151658058167,0.1045103520154953,negative,2025-05-28,2025,5
+535,Title,nissan going cap in hand to uk for loan may spur japan to act,0.8396503925323486,0.011940918862819672,0.14840860664844513,negative,2025-05-28,2025,5
+536,Title,nissan plans 7 billion funding with backing from uk government,0.47450536489486694,0.007738854736089706,0.5177557468414307,positive,2025-05-28,2025,5
+537,Title,one palestinian killed at gaza aid site on tuesday says ap,0.09940194338560104,0.6578577756881714,0.24274033308029175,neutral,2025-05-28,2025,5
+538,Title,opec gathers for quota review before decision on july output,0.033044636249542236,0.36291494965553284,0.6040403842926025,positive,2025-05-28,2025,5
+539,Title,pessimism swells on doing business in china european firms say,0.5796197056770325,0.33043140172958374,0.08994881063699722,negative,2025-05-28,2025,5
+540,Title,podcast why tariffs can t fix america s economic malaise,0.11930141597986221,0.20758087933063507,0.6731177568435669,positive,2025-05-28,2025,5
+541,Title,poland presidential election exposes cracks in booming economy,0.026880629360675812,0.9255285859107971,0.04759076610207558,neutral,2025-05-28,2025,5
+542,Title,polish far right leader fails to endorse any presidential rival,0.02388545498251915,0.8382033109664917,0.13791127502918243,neutral,2025-05-28,2025,5
+543,Title,portugal president to meet parties before naming prime minister,0.026614366099238396,0.030401285737752914,0.942984402179718,positive,2025-05-28,2025,5
+544,Title,portugal s far right shatters 50 years of two party dominance,0.06940139830112457,0.48206689953804016,0.44853174686431885,neutral,2025-05-28,2025,5
+545,Title,raghuram rajan warns us risks future by curbing foreign students,0.0998692512512207,0.6345691084861755,0.26556169986724854,neutral,2025-05-28,2025,5
+546,Title,royal enfield maker eicher motors dodged trump tariffs with early india exports,0.5395433306694031,0.10251742601394653,0.357939213514328,negative,2025-05-28,2025,5
+547,Title,russia s fuel exports hit 3 month high on diesel fuel oil boost,0.9332008957862854,0.02145874872803688,0.04534042626619339,negative,2025-05-28,2025,5
+548,Title,russia s oil exports are worth the least in two years on price slide,0.7596149444580078,0.028924746438860893,0.21146027743816376,negative,2025-05-28,2025,5
+549,Title,saudi stocks set to be world s worst in may after oil price drop,0.022510815411806107,0.9308620691299438,0.046627067029476166,neutral,2025-05-28,2025,5
+550,Title,slovak auto industry warns of higher taxes shift away from eu,0.23964355885982513,0.6490187644958496,0.11133766174316406,neutral,2025-05-28,2025,5
+551,Title,south african union sets deadline for passenger rail pay talks,0.030085083097219467,0.3971794843673706,0.5727354288101196,positive,2025-05-28,2025,5
+552,Title,south korea set to balance us china ties more if lee wins vote,0.9118064045906067,0.015002066269516945,0.07319153845310211,negative,2025-05-28,2025,5
+553,Title,stellantis set to name antonio filosa as new ceo le figaro says,0.04535825923085213,0.016159700229763985,0.9384821057319641,positive,2025-05-28,2025,5
+554,Title,stellantis taps insider ceo to forge a new path in the us,0.5211983919143677,0.009423378854990005,0.469378262758255,negative,2025-05-28,2025,5
+555,Title,stock market today dow s p live updates,0.03214000537991524,0.03012198396027088,0.9377379417419434,positive,2025-05-28,2025,5
+556,Title,taiwan trims 2025 growth forecast as tariff concern lingers,0.07186371833086014,0.9125422835350037,0.015594042837619781,neutral,2025-05-28,2025,5
+557,Title,texas weighs entertainment incentive bill with control over content,0.06174164637923241,0.013487975113093853,0.9247704148292542,positive,2025-05-28,2025,5
+558,Title,tiger brands plans special dividend lifts payout on profit gain,0.13505341112613678,0.019217047840356827,0.8457295894622803,positive,2025-05-28,2025,5
+559,Title,trump insists to wall street he s no chicken on tariff policy,0.0634867399930954,0.04007330909371376,0.8964399695396423,positive,2025-05-28,2025,5
+560,Title,trump s global tariffs blocked by us trade court,0.03090490959584713,0.876092255115509,0.0930028110742569,neutral,2025-05-28,2025,5
+561,Title,trump s nippon steel bid support boosts japan s trade talk hopes,0.8802672624588013,0.030499786138534546,0.08923301100730896,negative,2025-05-28,2025,5
+562,Title,ubs s khan sees rich customer demand for alternative assets,0.9208742380142212,0.009182555601000786,0.06994319707155228,negative,2025-05-28,2025,5
+563,Title,ueda vows to watch risks of ripple effects from long yield surge,0.06663607060909271,0.24712273478507996,0.6862411499023438,positive,2025-05-28,2025,5
+564,Title,uk plans to force nation s pensions to invest in private markets,0.11368853598833084,0.01757652685046196,0.8687349557876587,positive,2025-05-28,2025,5
+565,Title,uk s nissan backing shows starmer s push to save industrial jobs,0.824442446231842,0.014000443741679192,0.16155704855918884,negative,2025-05-28,2025,5
+566,Title,unicredit raises holding in greece s alpha bank to about 20,0.6861649751663208,0.012603707611560822,0.30123138427734375,negative,2025-05-28,2025,5
+567,Title,unicredit s russia unit may attract bids from uae based firms,0.9263993501663208,0.011997704394161701,0.061603009700775146,negative,2025-05-28,2025,5
+568,Title,us refinancing gauge falls to three month low as rates near 7,0.015264827758073807,0.9504392147064209,0.0342959463596344,neutral,2025-05-28,2025,5
+569,Title,us sanctioned tankers seen in russia to india crude oil trade,0.15450087189674377,0.02050933986902237,0.8249898552894592,positive,2025-05-28,2025,5
+570,Title,us treasuries drift ahead of auction with spotlight on demand,0.2133759707212448,0.353893905878067,0.43273013830184937,neutral,2025-05-28,2025,5
+571,Title,usd dollar may face major drop in 2026 standard chartered says,0.016442924737930298,0.9607093930244446,0.0228477343916893,neutral,2025-05-28,2025,5
+572,Title,wells fargo confident on its work for asset cap lift ceo says,0.6816698908805847,0.011004463769495487,0.307325541973114,negative,2025-05-28,2025,5
+573,Title,why investors are worried about japan s bond market,0.0562443770468235,0.1433732658624649,0.8003824353218079,positive,2025-05-28,2025,5
+574,Title,wilbur ross says investor confidence risks fading within weeks,0.21825799345970154,0.7219393849372864,0.05980263650417328,neutral,2025-05-28,2025,5
+575,Title,bok cuts rate to cushion economy from tariffs political turmoil,0.07405997067689896,0.788453996181488,0.13748610019683838,neutral,2025-05-29,2025,5
+576,Title,citi revokes firing of japan trader in wrongful dismissal settlement,0.01468575932085514,0.9211040735244751,0.06421013921499252,neutral,2025-05-29,2025,5
+577,Title,economists cut thai malaysian growth forecasts on trade turmoil,0.008915468119084835,0.9628118276596069,0.028272680938243866,neutral,2025-05-29,2025,5
+578,Title,eric trump says he d love to see some big banks go extinct,0.49424394965171814,0.015229295007884502,0.4905267059803009,neutral,2025-05-29,2025,5
+579,Title,fx hedging cost drop sparks debate on asian bond protection bets,0.013849721290171146,0.95835280418396,0.02779739536345005,neutral,2025-05-29,2025,5
+580,Title,india market buzz equities may outshine asian peers yet again,0.892066478729248,0.020857086405158043,0.08707646280527115,negative,2025-05-29,2025,5
+581,Title,rbnz governor hawkesby says july rate cut is not a done deal,0.06695352494716644,0.6744936108589172,0.2585529088973999,neutral,2025-05-29,2025,5
