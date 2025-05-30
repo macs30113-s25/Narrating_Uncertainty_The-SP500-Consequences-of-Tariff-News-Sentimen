@@ -1,0 +1,415 @@
+original_index,text_column,text,negative,neutral,positive,sentiment,date,year,month
+0,Article,Bessent Says Administration Moving Forward On Harvard Tax Threat,0.5842500329017639,0.02665206417441368,0.3890979290008545,negative,2025-05-23,2025,5
+1,Article,Eu And Us To Hold Trade Call Friday Amid Differences On Tariffs,0.05049898102879524,0.7738539576530457,0.1756470650434494,neutral,2025-05-23,2025,5
+2,Article,Europe Japan Fighter Jet Races Against China S Military Progress,0.11544174700975418,0.11152632534503937,0.7730319499969482,positive,2025-05-23,2025,5
+3,Article,European Officials Urge Calm Facing Trump 50 Tariff Threat,0.2943386435508728,0.33470410108566284,0.3709571957588196,neutral,2025-05-23,2025,5
+4,Article,Harvard Says It Sues Us Over Trump Foreign Student Ban,0.012834068387746811,0.9311867356300354,0.055979203432798386,neutral,2025-05-23,2025,5
+5,Article,Here S What S In The Eu Trade Proposal That Trump Just Rejected,0.0690242126584053,0.01595059223473072,0.9150252342224121,positive,2025-05-23,2025,5
+6,Article,India Us Hold Constructive Trade Talks Says Piyush Goyal,0.5895431637763977,0.02868736907839775,0.38176947832107544,negative,2025-05-23,2025,5
+7,Article,Iran And Us Start Fifth Round Of Nuclear Talks In Rome,0.058097705245018005,0.03567994385957718,0.9062222838401794,positive,2025-05-23,2025,5
+8,Article,Iran Says Time To Decide Ahead Of New Nuclear Talks With Us,0.09456637501716614,0.017597002908587456,0.8878366351127625,positive,2025-05-23,2025,5
+9,Article,Merz Calls On Xi To Support Ukraine Peace Effort In First Call,0.6575356721878052,0.013573846779763699,0.32889050245285034,negative,2025-05-23,2025,5
+10,Article,Philippines Marcos Keeps Economic Team Amid Cabinet Shakeup,0.20634610950946808,0.40761470794677734,0.386039137840271,neutral,2025-05-23,2025,5
+11,Article,Poland Says Intercepted Russian Su 24 Bomber Over Baltic Sea,0.08129998296499252,0.517549455165863,0.4011506140232086,neutral,2025-05-23,2025,5
+12,Article,Polish Ruling Party Candidate Fights Back In Presidential Debate,0.13311736285686493,0.6694362163543701,0.19744645059108734,neutral,2025-05-23,2025,5
+13,Article,Redbird Agrees To Buy Telegraph Ending Uk Newspaper S Limbo,0.24402815103530884,0.010273180902004242,0.7456986308097839,positive,2025-05-23,2025,5
+14,Article,Senior Us China Officials Vow To Keep Communication Lines Open,0.24798975884914398,0.06557324528694153,0.6864370107650757,positive,2025-05-23,2025,5
+15,Article,South African Police Minister Debunks Trump S Genocide Claim,0.1496998816728592,0.3445022702217102,0.5057979226112366,positive,2025-05-23,2025,5
+16,Article,South Korea S Presidential Race Tightens Sharply After Tv Debate,0.02110791578888893,0.9116997718811035,0.06719236820936203,neutral,2025-05-23,2025,5
+17,Article,Summers Slams Trump For Vicious Ban On Foreign Students From Harvard,0.04712885618209839,0.8076726794242859,0.1451985090970993,neutral,2025-05-23,2025,5
+18,Article,Supreme Court Temporarily Halts Order To Produce Doge Records,0.012592216953635216,0.8575353622436523,0.1298723965883255,neutral,2025-05-23,2025,5
+19,Article,Surge In Cannabis Smuggling Prompts Thailand To Tighten Rules,0.03512008488178253,0.9027875661849976,0.06209234148263931,neutral,2025-05-23,2025,5
+20,Article,Suriname Election New President To Navigate Impending Oil Boom,0.2106713205575943,0.22231939435005188,0.5670092701911926,positive,2025-05-23,2025,5
+21,Article,These World Leaders Went To Harvard Before Trump S Foreign Student Ban,0.045547887682914734,0.04235437884926796,0.9120978116989136,positive,2025-05-23,2025,5
+22,Article,Trump Attack On Harvard Students Reverberates Around The World,0.04261628910899162,0.16450683772563934,0.7928768992424011,positive,2025-05-23,2025,5
+23,Article,Trump Backs Us Steel Nippon Partnership Following Cfius Review,0.3077988922595978,0.07644287496805191,0.6157581806182861,positive,2025-05-23,2025,5
+24,Article,Trump Downsizes National Security Council In Latest Staff Cuts,0.014178769662976265,0.9431397914886475,0.04268135875463486,neutral,2025-05-23,2025,5
+25,Article,Trump Lauds Major Prisoner Swap Between Ukraine And Russia,0.03802260011434555,0.901309072971344,0.060668278485536575,neutral,2025-05-23,2025,5
+26,Article,Trump Signs Orders To Revive Us Leadership In Nuclear Power,0.5725389719009399,0.025293465703725815,0.40216752886772156,negative,2025-05-23,2025,5
+27,Article,Trump Team S Game Of Thrones On Venezuela Whiplashes Chevron,0.05994775518774986,0.21465060114860535,0.7254015803337097,positive,2025-05-23,2025,5
+28,Article,Trump Threatens A 50 Tariff On Eu Goods Starting In June,0.06418564170598984,0.5282931327819824,0.4075213074684143,neutral,2025-05-23,2025,5
+29,Article,Turkey Bans Images Of Istanbul Mayor Ekrem Imamoglu,0.016592351719737053,0.7430471181869507,0.24036051332950592,neutral,2025-05-23,2025,5
+30,Article,Tycoon Mordashov S Local Spat Signals Changing Elite In Russia,0.12570145726203918,0.05947674810886383,0.8148217797279358,positive,2025-05-23,2025,5
+31,Article,Ukraine Says Drones Struck Russian Battery Plant For Missiles,0.032768189907073975,0.8409934043884277,0.12623843550682068,neutral,2025-05-23,2025,5
+32,Article,Us Debt Limit Nail Biter Looms As Senate Ponders Trump Tax Bill,0.060935549437999725,0.758081316947937,0.18098317086696625,neutral,2025-05-23,2025,5
+33,Article,Us Importers Pay Record 16 5 Billion As April Tariff Bill Lands,0.211325004696846,0.04975035414099693,0.7389246225357056,positive,2025-05-23,2025,5
+34,Article,Us Moves To Ease Sanctions On Syria After Trump Met New Leader,0.7896523475646973,0.08615157008171082,0.12419616430997849,negative,2025-05-23,2025,5
+35,Article,Us Tariff Countdown Has Nations Racing To Turn Talks Into Deals,0.3281034231185913,0.030026819556951523,0.6418697834014893,positive,2025-05-23,2025,5
+36,Article,Venezuela Detains Opposition Leader On Election Boycott Claims,0.02295585907995701,0.8792632818222046,0.09778083115816116,neutral,2025-05-23,2025,5
+37,Article,What Role Does China Play In The India Pakistan Conflict,0.03166013956069946,0.038146086037158966,0.9301937222480774,positive,2025-05-23,2025,5
+38,Article,Bangladesh S Interim Government Says It Will Stay The Course,0.11389321833848953,0.044627845287323,0.8414788842201233,positive,2025-05-24,2025,5
+39,Article,Billionaires Boost Cuomo S Fundraising Lead In Nyc Mayor S Race,0.9213613271713257,0.02757672406733036,0.05106198415160179,negative,2025-05-24,2025,5
+40,Article,Buy American How Europe Must Stock Up On Weapons For Ukraine,0.2809053957462311,0.014472812414169312,0.7046217918395996,positive,2025-05-24,2025,5
+41,Article,Chevron Cvx Venezuela Seen Getting Us License For Minimum Maintenance,0.7828565835952759,0.010877877473831177,0.20626549422740936,negative,2025-05-24,2025,5
+42,Article,Eu Weighs Cutting 20 Banks From Swift In New Russia Sanctions,0.018389258533716202,0.9252846837043762,0.056326013058423996,neutral,2025-05-24,2025,5
+43,Article,Harvard Reprieve For Foreign Students Won T Stop Looming Threats,0.29723355174064636,0.25001823902130127,0.45274823904037476,neutral,2025-05-24,2025,5
+44,Article,India Pakistan Battle For Global Sympathy After Border Truce,0.18531058728694916,0.23933404684066772,0.5753554105758667,positive,2025-05-24,2025,5
+45,Article,Malaysia S Anwar Defends Lengthening Tenure Of Anti Graft Chief,0.30175334215164185,0.22530311346054077,0.47294357419013977,neutral,2025-05-24,2025,5
+46,Article,Noboa Inauguration Ecuador Adopting Bukele Style Emergency Powers,0.20332668721675873,0.02718876674771309,0.7694845199584961,positive,2025-05-24,2025,5
+47,Article,Polish Ruling Party Candidate Pushes Back Against Far Right,0.30675598978996277,0.45461714267730713,0.23862692713737488,neutral,2025-05-24,2025,5
+48,Article,Trump Forces Switzerland To Question Its Love For Farmers,0.10789020359516144,0.19470351934432983,0.6974062919616699,positive,2025-05-24,2025,5
+49,Article,Trump S New Tariff Threats Show Trade Uncertainty Here To Stay,0.06395620852708817,0.807702362537384,0.12834137678146362,neutral,2025-05-24,2025,5
+50,Article,Turkey S Top Diplomat Heads For Russia To Discuss Ukraine Syria,0.07910388708114624,0.03437178581953049,0.8865243196487427,positive,2025-05-24,2025,5
+51,Article,Uk Officials Probe Russian Involvement In Starmer Fires Ft Says,0.042239051312208176,0.3895399570465088,0.5682209730148315,positive,2025-05-24,2025,5
+52,Article,Ukraine Capital Struck In Russian Drone Missile Attack Ap Says,0.044984206557273865,0.8284252285957336,0.1265905350446701,neutral,2025-05-24,2025,5
+53,Article,Asean Must Keep Joining Global Supply Chains Thai Minister Says,0.31635671854019165,0.026908831670880318,0.6567344069480896,positive,2025-05-25,2025,5
+54,Article,Australia S Opposition Parties On Track To Return To Coalition,0.4272684156894684,0.09850911051034927,0.4742225408554077,neutral,2025-05-25,2025,5
+55,Article,Canada S Liberals Decide Against New Rules To Oust Party Leader Mark Carney,0.030484618619084358,0.8392329812049866,0.13028240203857422,neutral,2025-05-25,2025,5
+56,Article,German Finance Minister Urges Calm In Us Tariff Fight Bild Says,0.1612986922264099,0.3779238164424896,0.46077752113342285,neutral,2025-05-25,2025,5
+57,Article,Israeli Military Aims To Take Over 75 Of Gaza Within Two Months,0.06313177943229675,0.04999488219618797,0.8868733644485474,positive,2025-05-25,2025,5
+58,Article,Macron Kicks Off Asia Tour In Vietnam With Focus On Energy,0.11432568728923798,0.02523759752511978,0.8604366779327393,positive,2025-05-25,2025,5
+59,Article,North Korea Detains Officials After Failed Warship Launch Kcna,0.030399374663829803,0.8064145445823669,0.16318611800670624,neutral,2025-05-25,2025,5
+60,Article,Polish Election Contenders Rally Supporters A Week Before Runoff,0.1821494698524475,0.5751705169677734,0.2426799237728119,neutral,2025-05-25,2025,5
+61,Article,Rayner Leaves Door Open On Benefit Reform As Farage Ups Pressure,0.6616374254226685,0.07355145364999771,0.26481112837791443,negative,2025-05-25,2025,5
+62,Article,Russia Ramps Up Airstrikes On Ukraine As Prisoner Swaps Continue,0.1925319880247116,0.6288731098175049,0.1785949021577835,neutral,2025-05-25,2025,5
+63,Article,Trump Expresses Optimism On Iran Deal After Very Good Talks,0.878171980381012,0.015934793278574944,0.10589314252138138,negative,2025-05-25,2025,5
+64,Article,Trump Says He S Absolutely Weighing Sanctions Against Russia,0.12068555504083633,0.15445110201835632,0.7248633503913879,positive,2025-05-25,2025,5
+65,Article,Us Tariffs Loom Over Asia Summit As Ties With China Strengthen,0.8262823224067688,0.08800382167100906,0.08571385592222214,negative,2025-05-25,2025,5
+66,Article,Big Beautiful Bill Trump Hits Allies With Unfair Tax Regimes,0.08168011158704758,0.763527512550354,0.15479233860969543,neutral,2025-05-26,2025,5
+67,Article,Chile S Leftist Presidential Hopefuls Spar Over Sqm Codelco Deal,0.07193387299776077,0.7619215846061707,0.16614454984664917,neutral,2025-05-26,2025,5
+68,Article,China S Ambassador Warns Australia Over Port Of Darwin Lease,0.04121909290552139,0.8560585975646973,0.10272234678268433,neutral,2025-05-26,2025,5
+69,Article,Chinese Eu Trade Heads To Meet As Trump Tariff Tensions Rise,0.4762546718120575,0.25086161494255066,0.27288368344306946,neutral,2025-05-26,2025,5
+70,Article,Election Deadlock Puts Suriname S Oil Bonanza In Play,0.11516587436199188,0.6816368699073792,0.20319728553295135,neutral,2025-05-26,2025,5
+71,Article,Eu Plans To Fast Track Trade Talks With Us Amid Tariff Fight,0.8662058711051941,0.015382993966341019,0.1184111088514328,negative,2025-05-26,2025,5
+72,Article,Finland Summons Russia S Ambassador After Violation Of Airspace,0.022393282502889633,0.826482355594635,0.15112437307834625,neutral,2025-05-26,2025,5
+73,Article,Former Austrian Chancellor Kurz Acquitted Of Perjury On Appeal,0.1107311099767685,0.6327868103981018,0.2564820945262909,neutral,2025-05-26,2025,5
+74,Article,Germany Calls Ugandan Claims Of Subversive Activities Absurd,0.031507574021816254,0.746044933795929,0.22244761884212494,neutral,2025-05-26,2025,5
+75,Article,Germany S Merz Floats Cutting Off Eu Funds To Fico S Slovakia,0.018887165933847427,0.913052499294281,0.06806021928787231,neutral,2025-05-26,2025,5
+76,Article,India Canada Hold Top Level Talks To Mend Frayed Ties,0.1765841245651245,0.5443286299705505,0.27908721566200256,neutral,2025-05-26,2025,5
+77,Article,Israel Backed Gaza Food Aid Plan Is Facing Dissent And Delays,0.014717762358486652,0.9323383569717407,0.05294394493103027,neutral,2025-05-26,2025,5
+78,Article,Japan To Sell Rice Stockpiles With Aim To Halve Soaring Prices,0.8385939598083496,0.012115398421883583,0.14929065108299255,negative,2025-05-26,2025,5
+79,Article,King Charles Visits Canada As Country Rattled By Trump Taunts,0.12211555242538452,0.6092309355735779,0.26865354180336,neutral,2025-05-26,2025,5
+80,Article,Maduro Sweeps Venezuelan Regional Vote Marked By Low Turnout,0.08317702263593674,0.8673725724220276,0.049450427293777466,neutral,2025-05-26,2025,5
+81,Article,Malaysia S Anwar Writes Trump Seeking Summit With Southeast Asia,0.30256444215774536,0.02830611914396286,0.6691294312477112,positive,2025-05-26,2025,5
+82,Article,Merz Gives Ukraine The Green Light To Strike Deep Inside Russia,0.324083536863327,0.010237214155495167,0.6656792759895325,positive,2025-05-26,2025,5
+83,Article,Nato Chief Rutte Says Members Moving Toward 5 Spending Target,0.5503056645393372,0.018460312858223915,0.4312340021133423,negative,2025-05-26,2025,5
+84,Article,Romania S Fiscal Woes Test New Math Prodigy President,0.34850361943244934,0.5141199231147766,0.13737648725509644,neutral,2025-05-26,2025,5
+85,Article,Russia Dismisses Trump S Putin Criticism As Emotional Reaction,0.0470588281750679,0.7016336917877197,0.25130751729011536,neutral,2025-05-26,2025,5
+86,Article,South Korea Presidential Election What To Know Who Are The Main Candidates,0.023242400959134102,0.0418529137969017,0.9349046945571899,positive,2025-05-26,2025,5
+87,Article,Trump Threatens To Steer Harvard Grant Money To Trade Schools,0.046710528433322906,0.5428739786148071,0.4104154706001282,neutral,2025-05-26,2025,5
+88,Article,Trump To Pardon Sheriff Found Guilty Of Cash For Badges Scheme,0.2159823328256607,0.45780158042907715,0.32621607184410095,neutral,2025-05-26,2025,5
+89,Article,Tusk Plan To Change Poland Turns On Knife Edge Presidential Vote,0.08395372331142426,0.5330724716186523,0.3829738199710846,neutral,2025-05-26,2025,5
+90,Article,Uk To Train 120 000 Builders Carers To Cut Reliance On Migrants,0.38651832938194275,0.026149123907089233,0.5873324871063232,positive,2025-05-26,2025,5
+91,Article,Ukraine S Zelenskiy Said To Meet With Merz In Berlin Wednesday,0.040945254266262054,0.02922378107905388,0.9298310279846191,positive,2025-05-26,2025,5
+92,Article,Xi Plans New Made In China Effort Even As Trump Aims To Boost Us Manufacturing,0.7439936995506287,0.008607630617916584,0.24739862978458405,negative,2025-05-26,2025,5
+93,Article,Bolsonaro S Son Investigated Over Alleged Court Intimidation,0.033872634172439575,0.8099218010902405,0.15620557963848114,neutral,2025-05-27,2025,5
+94,Article,Carney Pledges Economic Transformation In Speech Read By King,0.2418193221092224,0.01193909626454115,0.7462416291236877,positive,2025-05-27,2025,5
+95,Article,China S Premier Courts Asean Gulf States As Trump Tariffs Bite,0.1576615422964096,0.16521619260311127,0.6771222949028015,positive,2025-05-27,2025,5
+96,Article,Eu To Focus On Critical Sectors In Bid To Avoid Trump S Tariffs,0.23874929547309875,0.09717641770839691,0.6640742421150208,positive,2025-05-27,2025,5
+97,Article,Germany Weighs Curbs On Israel Weapons Exports On Gaza Concerns,0.062349289655685425,0.7084606289863586,0.22919006645679474,neutral,2025-05-27,2025,5
+98,Article,Hegseth Imposes Fresh Limits On Reporter Access To The Pentagon,0.030521685257554054,0.7463166117668152,0.22316166758537292,neutral,2025-05-27,2025,5
+99,Article,Libyan Peace Push At Risk From Trump Funding Cuts Un Envoy Says,0.06049124523997307,0.8499248027801514,0.08958402276039124,neutral,2025-05-27,2025,5
+100,Article,Macron Courts Southeast Asia Nations Trapped By Us China Dispute,0.04437311738729477,0.599068820476532,0.35655808448791504,neutral,2025-05-27,2025,5
+101,Article,Malaysia Sees Reducing The Us S Proposed Tariff To 10 As A Good Outcome,0.9008105993270874,0.01839129813015461,0.08079803735017776,negative,2025-05-27,2025,5
+102,Article,Merz Says Kyiv S Allies Ended Curbs On Russia Strikes Months Ago,0.24795758724212646,0.703208327293396,0.048834096640348434,neutral,2025-05-27,2025,5
+103,Article,Milei Burnishes His Trump Ties By Hosting Health Chief Rfk Jr,0.14170889556407928,0.05426019802689552,0.8040308952331543,positive,2025-05-27,2025,5
+104,Article,North Korea Says Trump S Golden Dome Risks Space Nuclear War,0.03904498368501663,0.4822649359703064,0.47869008779525757,neutral,2025-05-27,2025,5
+105,Article,Polish Presidential Contender Brushes Off Reports About Checkered Past,0.04395656660199165,0.8345504999160767,0.12149295955896378,neutral,2025-05-27,2025,5
+106,Article,Ramaphosa Recalls His Bemusement At Trump Oval Office Encounter,0.07632467150688171,0.537702202796936,0.38597309589385986,neutral,2025-05-27,2025,5
+107,Article,Reform Uk S Farage To Vow Benefit Hikes In Attack On Starmer,0.16012831032276154,0.6437550187110901,0.19611668586730957,neutral,2025-05-27,2025,5
+108,Article,Romania S Banned Ex Frontrunner Georgescu Quits Politics In Blow To Right,0.03798309341073036,0.5078299045562744,0.4541870057582855,neutral,2025-05-27,2025,5
+109,Article,Russia Backs Turkey For New Ukraine Talks After Nixing Vatican,0.20222218334674835,0.09995585680007935,0.6978219151496887,positive,2025-05-27,2025,5
+110,Article,Slovak Premier Rejects Germany S Warning On Cutting Eu Funding,0.050564732402563095,0.8644365668296814,0.08499874174594879,neutral,2025-05-27,2025,5
+111,Article,Southeast Asia Leaders Make A Veiled Jab At Us Tariff Actions,0.03647661954164505,0.7934772372245789,0.17004618048667908,neutral,2025-05-27,2025,5
+112,Article,Texas Lawmakers Require The Ten Commandments In Every Classroom,0.038169946521520615,0.030396170914173126,0.9314338564872742,positive,2025-05-27,2025,5
+113,Article,Thailand Faces Fresh Risk Of Instability As Coalition Challenged By Budget Vote,0.015968410298228264,0.9531155228614807,0.030916038900613785,neutral,2025-05-27,2025,5
+114,Article,Trump Ally Wades Into Poland S Election Endorsing Nationalist,0.18688303232192993,0.056428007781505585,0.7566889524459839,positive,2025-05-27,2025,5
+115,Article,Trump Praises Eu For Speeding Tariff Negotiations After Threat,0.2824912965297699,0.5548063516616821,0.16270236670970917,neutral,2025-05-27,2025,5
+116,Article,Trump S Dhs Asks Supreme Court To Intervene In Deportation Case,0.07590540498495102,0.18239910900592804,0.7416955232620239,positive,2025-05-27,2025,5
+117,Article,Trump Says Fannie Freddie To Keep Us Guarantees As Public Firms,0.16062122583389282,0.0110545689240098,0.8283241987228394,positive,2025-05-27,2025,5
+118,Article,Trump Says Golden Dome Missile System To Cost Canada 61 Billion,0.17069703340530396,0.012477218173444271,0.816825807094574,positive,2025-05-27,2025,5
+119,Article,Trump Threatens California Funding Freeze Over Trans Athlete Ban,0.01863943412899971,0.8751789927482605,0.10618158429861069,neutral,2025-05-27,2025,5
+120,Article,Trump To End Federal Contracts With Harvard University,0.03425729647278786,0.8242339491844177,0.1415087729692459,neutral,2025-05-27,2025,5
+121,Article,Trump To Pardon Stars Of Reality Show Chrisley Knows Best,0.08922681957483292,0.04053538292646408,0.8702377676963806,positive,2025-05-27,2025,5
+122,Article,Trump Warns Putin Playing With Fire As Lawmakers Eye Sanctions,0.12564262747764587,0.27153292298316956,0.6028245091438293,positive,2025-05-27,2025,5
+123,Article,Us Orders Pause In Student Visa Interviews Ahead Of New Vetting,0.0314183309674263,0.14282344281673431,0.825758159160614,positive,2025-05-27,2025,5
+124,Article,Us S Cerberus Eyes Offer For Port Of Darwin The Australian Says,0.2634415924549103,0.015601716935634613,0.7209566831588745,positive,2025-05-27,2025,5
+125,Article,West African Coast Could Boost Revenue For Jihadists Us Warns,0.9508185386657715,0.01338986773043871,0.03579157590866089,negative,2025-05-27,2025,5
+126,Article,Australia Looks To Avoid A Panama Repeat In China Port Showdown,0.18095000088214874,0.6209584474563599,0.19809162616729736,neutral,2025-05-28,2025,5
+127,Article,Australia S Center Right Opposition Regroups About One Week After Split,0.03899826481938362,0.65919029712677,0.30181145668029785,neutral,2025-05-28,2025,5
+128,Article,Boston Pushes Harvard Other Colleges For Money Even As Trump Steps Up Attacks,0.29085901379585266,0.044639840722084045,0.6645011305809021,positive,2025-05-28,2025,5
+129,Article,Chile Government Unveils Bill That Would Fully Legalize Abortion,0.3791337311267853,0.013182975351810455,0.6076833009719849,positive,2025-05-28,2025,5
+130,Article,China Tech Ambitions Won T Hurt Consumption Pivot Keyu Jin Says,0.13659992814064026,0.028615208342671394,0.8347848653793335,positive,2025-05-28,2025,5
+131,Article,Czechs Say China Behind Recent Cyber Attack On Foreign Ministry,0.04238452389836311,0.8045026063919067,0.15311279892921448,neutral,2025-05-28,2025,5
+132,Article,Eu Plans To Create A Maritime Security Hub In The Black Sea,0.741689145565033,0.007572457659989595,0.2507384121417999,negative,2025-05-28,2025,5
+133,Article,Eu Trade Chief To Speak To Us S Lutnick Greer On Thursday,0.047236766666173935,0.026277972385287285,0.9264853000640869,positive,2025-05-28,2025,5
+134,Article,Farage Keeps Finances Vague In Uk Welfare Plan Targeting Labour,0.05602651834487915,0.08114263415336609,0.8628308176994324,positive,2025-05-28,2025,5
+135,Article,Finland Starts Process To Withdraw From Landmine Ban Treaty,0.13536137342453003,0.1878647655248642,0.6767738461494446,positive,2025-05-28,2025,5
+136,Article,Germany Prepares To Abolish Its Fast Track Path To Citizenship,0.5431508421897888,0.014867323450744152,0.44198185205459595,negative,2025-05-28,2025,5
+137,Article,Germany S Top Diplomat Expects New Us Sanctions Against Russia,0.3109021782875061,0.5697449445724487,0.11935284733772278,neutral,2025-05-28,2025,5
+138,Article,Germany To Work With Kyiv On Long Range Missile Production,0.592612087726593,0.009964894503355026,0.39742299914360046,negative,2025-05-28,2025,5
+139,Article,Hegseth Targets Independent Pentagon Test Office For Major Cuts,0.16225658357143402,0.12798164784908295,0.7097617983818054,positive,2025-05-28,2025,5
+140,Article,How Harvard Is Getting Rocked By Trump S America First Fight,0.14238199591636658,0.024950871244072914,0.8326671719551086,positive,2025-05-28,2025,5
+141,Article,In Rare Stab Slovak Leader Tells Premier To Focus On The West,0.12035878747701645,0.11749374121427536,0.7621474862098694,positive,2025-05-28,2025,5
+142,Article,Indonesia France Set To Sign Defense Letter During Macron Visit,0.2290412187576294,0.013326402753591537,0.7576323747634888,positive,2025-05-28,2025,5
+143,Article,Indonesia Open To Israel Ties If It Recognizes Palestine,0.44735801219940186,0.010240724310278893,0.5424013137817383,positive,2025-05-28,2025,5
+144,Article,Iran Says Iaea May Send Us Inspectors If Nuclear Deal Is Reached,0.0521218478679657,0.28930097818374634,0.6585772037506104,positive,2025-05-28,2025,5
+145,Article,Israel Says It Killed Mohammed Sinwar Head Of Hamas In Gaza,0.07854481041431427,0.6202234625816345,0.3012317717075348,neutral,2025-05-28,2025,5
+146,Article,Japan Expands Military Push Against China With Us Stand In Doubt,0.32121542096138,0.17400811612606049,0.5047764778137207,positive,2025-05-28,2025,5
+147,Article,Malaysia Economy Minister Rafizi To Resign Effective June 17,0.016140228137373924,0.7515038847923279,0.23235593736171722,neutral,2025-05-28,2025,5
+148,Article,Merz Vows Legislative Action To Quickly Boost German Economy,0.9134708046913147,0.011193647049367428,0.0753355622291565,negative,2025-05-28,2025,5
+149,Article,Mifepristone Why The Abortion Pill Is Under Scrutiny Again In Us,0.04379430413246155,0.156202033162117,0.8000036478042603,positive,2025-05-28,2025,5
+150,Article,Milei Gets Tuttle Twins To Teach Free Markets To Argentine Kids,0.1513766050338745,0.012690989300608635,0.8359323740005493,positive,2025-05-28,2025,5
+151,Article,Musk Says He S Disappointed That Trump Tax Bill Raises Deficit,0.020248141139745712,0.9547922611236572,0.02495957911014557,neutral,2025-05-28,2025,5
+152,Article,Nato Floats Cybersecurity To Be Included In New Spending Target,0.6121780872344971,0.012383738532662392,0.37543821334838867,negative,2025-05-28,2025,5
+153,Article,Nato Wants Germany To Provide 40 000 Additional Troops,0.34778597950935364,0.012885239906609058,0.6393288373947144,positive,2025-05-28,2025,5
+154,Article,One Palestinian Killed At Gaza Aid Site On Tuesday Says Ap,0.09940194338560104,0.6578577756881714,0.24274033308029175,neutral,2025-05-28,2025,5
+155,Article,Pessimism Swells On Doing Business In China European Firms Say,0.5796197056770325,0.33043140172958374,0.08994881063699722,negative,2025-05-28,2025,5
+156,Article,Poland Presidential Election Exposes Cracks In Booming Economy,0.026880629360675812,0.9255285859107971,0.04759076610207558,neutral,2025-05-28,2025,5
+157,Article,Polish Far Right Leader Fails To Endorse Any Presidential Rival,0.02388545498251915,0.8382033109664917,0.13791127502918243,neutral,2025-05-28,2025,5
+158,Article,Portugal President To Meet Parties Before Naming Prime Minister,0.026614366099238396,0.030401285737752914,0.942984402179718,positive,2025-05-28,2025,5
+159,Article,Portugal S Far Right Shatters 50 Years Of Two Party Dominance,0.06940140575170517,0.48206689953804016,0.44853171706199646,neutral,2025-05-28,2025,5
+160,Article,Rapper Nba Youngboy Ex Chicago Gang Leader Win Trump Clemency,0.06409972161054611,0.13398678600788116,0.8019134998321533,positive,2025-05-28,2025,5
+161,Article,Slovak Auto Industry Warns Of Higher Taxes Shift Away From Eu,0.23964355885982513,0.6490187644958496,0.11133766174316406,neutral,2025-05-28,2025,5
+162,Article,South Korea Set To Balance Us China Ties More If Lee Wins Vote,0.9118064045906067,0.015002066269516945,0.07319153845310211,negative,2025-05-28,2025,5
+163,Article,Thai Cambodian Soldiers Exchange Fire At Disputed Border Area,0.0339728519320488,0.8342736959457397,0.13175345957279205,neutral,2025-05-28,2025,5
+164,Article,Trump Downplays Musk Tax Bill Criticism Says Need To Win Votes,0.02639293298125267,0.8461601138114929,0.1274469643831253,neutral,2025-05-28,2025,5
+165,Article,Trump Immigration Officials Set Target Of 3 000 Arrests A Day,0.07058802247047424,0.3456876277923584,0.583724319934845,positive,2025-05-28,2025,5
+166,Article,Trump Insists To Wall Street He S No Chicken On Tariff Policy,0.0634867399930954,0.04007330909371376,0.8964399695396423,positive,2025-05-28,2025,5
+167,Article,Trump Says Harvard Should Cap Foreign Student Enrollment At 15 Mb86X0Ql,0.07947013527154922,0.18103960156440735,0.739490270614624,positive,2025-05-28,2025,5
+168,Article,Trump To Ask Congress To Codify Doge Cuts Hitting Pbs And Npr,0.1844327449798584,0.03430362045764923,0.7812636494636536,positive,2025-05-28,2025,5
+169,Article,Trump Warned Netanyahu Iran Strike Would Be Inappropriate,0.023874210193753242,0.8828056454658508,0.09332016110420227,neutral,2025-05-28,2025,5
+170,Article,Trump Weighs Pardons For Michigan Governor Kidnapping Plotters,0.12313850224018097,0.5415973663330078,0.33526408672332764,neutral,2025-05-28,2025,5
+171,Article,Uk Taps Ukraine Lessons To Plow 1 Billion Into Warfare Systems,0.3392212390899658,0.013307793065905571,0.6474709510803223,positive,2025-05-28,2025,5
+172,Article,Uk To Fast Track First New Reservoirs As Water Supply Risks Loom,0.8804935216903687,0.026801597326993942,0.09270495176315308,negative,2025-05-28,2025,5
+173,Article,Ukraine Needs 30 Billion To Boost Arms Output Zelenskiy Says,0.9036437273025513,0.012905548326671124,0.08345071226358414,negative,2025-05-28,2025,5
+174,Article,Us Announces Visa Curbs Targeting Social Media Censorship,0.03056410327553749,0.8643669486045837,0.10506896674633026,neutral,2025-05-28,2025,5
+175,Article,Us Waiting On Russia Sanctions To Keep Talks Alive Trump Says,0.15554679930210114,0.027771087363362312,0.8166821002960205,positive,2025-05-28,2025,5
+176,Article,Us Will Revoke Visas Of Chinese Students Escalating Crackdown,0.02104525826871395,0.9162359237670898,0.06271886825561523,neutral,2025-05-28,2025,5
+177,Article,China Calls Us Plan To Revoke Student Visas Discriminatory,0.026393597945570946,0.8184504508972168,0.1551560014486313,neutral,2025-05-29,2025,5
+178,Article,China Cut Drone Sales To West But Supplies Them To Russia Ukraine Says,0.057603221386671066,0.5125606656074524,0.42983612418174744,neutral,2025-05-29,2025,5
+179,Article,China Defense Chief To Skip Singapore Forum Attended By Hegseth,0.0932045429944992,0.027787668630480766,0.8790078163146973,positive,2025-05-29,2025,5
+180,Article,Elon Musk S Doge Exit Won T Stop Pain From Federal Layoffs,0.03141256421804428,0.9141704440116882,0.05441693961620331,neutral,2025-05-29,2025,5
+181,Article,Farmers Press Trump For Biofuels Boost To Counter Tariff Losses,0.8394208550453186,0.033118899911642075,0.12746022641658783,negative,2025-05-29,2025,5
+182,Article,Harvard Case Judge To Expand Block On Trump Foreign Student Ban,0.08044233173131943,0.5837767720222473,0.3357808589935303,neutral,2025-05-29,2025,5
+183,Article,Harvard President Embraces Foreign Students Amid Trump Fight,0.16058367490768433,0.052922122180461884,0.7864941954612732,positive,2025-05-29,2025,5
+184,Article,Hassett Says Us Has Other Options On Tariffs But Awaiting Appeal,0.07668735086917877,0.020688509568572044,0.9026241302490234,positive,2025-05-29,2025,5
+185,Article,Imf Approves 500 Million Ukraine Payment As Peace Talks Stall,0.5049871206283569,0.02525455132126808,0.4697582721710205,negative,2025-05-29,2025,5
+186,Article,Israel Approves New Settlements To Obstruct Palestinian State,0.29059502482414246,0.15075388550758362,0.5586510896682739,positive,2025-05-29,2025,5
+187,Article,Libya Faces New Oil Shutdown Threat After Gunmen Storm Hq,0.02209983393549919,0.9416252374649048,0.03627481684088707,neutral,2025-05-29,2025,5
+188,Article,Lutnick Defends Us Tariffs As Key To India Pakistan Ceasefire,0.22924725711345673,0.02946447767317295,0.7412883043289185,positive,2025-05-29,2025,5
+189,Article,Marcos Cabinet Shuffle Sees Promotion For Officer Who Helped Arrest Duterte,0.1909465193748474,0.08196251839399338,0.7270909547805786,positive,2025-05-29,2025,5
+190,Article,Musk Departs Doge Leaving Cost Cutting Effort S Legacy In Doubt,0.037746600806713104,0.3706558346748352,0.5915975570678711,positive,2025-05-29,2025,5
+191,Article,Musk S No 2 Also Departing Doge As Officials Hit Time Limit,0.1388372927904129,0.23670020699501038,0.6244625449180603,positive,2025-05-29,2025,5
+192,Article,Nvidia Faces Bipartisan Concern On China Research Facility Plans,0.011018265038728714,0.9600614309310913,0.02892031893134117,neutral,2025-05-29,2025,5
+193,Article,Reform S Farage Sets Out Trump Style Bid To Make Uk A Crypto Hub,0.0553383007645607,0.024668142199516296,0.9199935793876648,positive,2025-05-29,2025,5
+194,Article,Rfk Jr Slams Medical Journals Floats In House Publishing Plan,0.05688907578587532,0.01296812854707241,0.9301427602767944,positive,2025-05-29,2025,5
+195,Article,Singapore Premier Warns Lawmakers On Perceptions Of Impropriety,0.02374374307692051,0.8980065584182739,0.0782497227191925,neutral,2025-05-29,2025,5
+196,Article,South Africa S Eff Asks Court To Stop Proposed Fuel Levy Hike,0.02517879568040371,0.7290577292442322,0.24576342105865479,neutral,2025-05-29,2025,5
+197,Article,South Africa To Probe Delays In Prosecuting Apartheid Crimes,0.13673852384090424,0.2669205665588379,0.5963409543037415,positive,2025-05-29,2025,5
+198,Article,Starmer To Accuse Farage Of Truss Style Fantasy Economic Plans,0.034776054322719574,0.7611802220344543,0.20404379069805145,neutral,2025-05-29,2025,5
+199,Article,Taiwan Says Us Trade Deal Push Continues Despite Court Ruling,0.899592936038971,0.04597024619579315,0.05443671718239784,negative,2025-05-29,2025,5
+200,Article,Texas Follows Florida In Republican Push To Remake Us Colleges,0.30923640727996826,0.0335969403386116,0.6571666598320007,positive,2025-05-29,2025,5
+201,Article,Thai Attorneys Drop Royal Insult Charge Against Us Academic,0.06573428213596344,0.7435680031776428,0.19069771468639374,neutral,2025-05-29,2025,5
+202,Article,Trump Can Offset Tariff Ruling With Other Tools Goldman Says,0.1889072209596634,0.008824100717902184,0.8022686839103699,positive,2025-05-29,2025,5
+203,Article,Trump Sees Iran Deal That Allows Us To Destroy Nuclear Sites,0.5691471099853516,0.015322674065828323,0.41553014516830444,negative,2025-05-29,2025,5
+204,Article,Trump Xi Truce Under Fire As China Hawks Target Students Tech,0.05416933819651604,0.7776245474815369,0.1682060807943344,neutral,2025-05-29,2025,5
+205,Article,Vietnam Blocks Printed Copies Of The Economist Over To Lam Cover,0.03739422932267189,0.04414688050746918,0.918458878993988,positive,2025-05-29,2025,5
+206,Article,Why Poland S Election Runoff Is Key Test For Maga Populism In Europe,0.12302763760089874,0.018012605607509613,0.8589597940444946,positive,2025-05-29,2025,5
+207,Article,Bessent Says Administration Moving Forward On Harvard Tax Threat,0.5842512249946594,0.026652023196220398,0.38909679651260376,negative,2025-05-23,2025,5
+208,Article,Eu And Us To Hold Trade Call Friday Amid Differences On Tariffs,0.05049898102879524,0.7738539576530457,0.1756470650434494,neutral,2025-05-23,2025,5
+209,Article,Europe Japan Fighter Jet Races Against China S Military Progress,0.11544174700975418,0.11152632534503937,0.7730319499969482,positive,2025-05-23,2025,5
+210,Article,European Officials Urge Calm Facing Trump 50 Tariff Threat,0.2943386435508728,0.33470410108566284,0.3709571957588196,neutral,2025-05-23,2025,5
+211,Article,Harvard Says It Sues Us Over Trump Foreign Student Ban,0.012834068387746811,0.9311867356300354,0.055979203432798386,neutral,2025-05-23,2025,5
+212,Article,Here S What S In The Eu Trade Proposal That Trump Just Rejected,0.0690242126584053,0.01595059223473072,0.9150252342224121,positive,2025-05-23,2025,5
+213,Article,India Us Hold Constructive Trade Talks Says Piyush Goyal,0.5895431637763977,0.02868736907839775,0.38176947832107544,negative,2025-05-23,2025,5
+214,Article,Iran And Us Start Fifth Round Of Nuclear Talks In Rome,0.058097705245018005,0.03567994385957718,0.9062222838401794,positive,2025-05-23,2025,5
+215,Article,Iran Says Time To Decide Ahead Of New Nuclear Talks With Us,0.09456635266542435,0.01759699545800686,0.8878366351127625,positive,2025-05-23,2025,5
+216,Article,Merz Calls On Xi To Support Ukraine Peace Effort In First Call,0.6575356721878052,0.013573846779763699,0.32889050245285034,negative,2025-05-23,2025,5
+217,Article,Philippines Marcos Keeps Economic Team Amid Cabinet Shakeup,0.20634610950946808,0.40761470794677734,0.386039137840271,neutral,2025-05-23,2025,5
+218,Article,Poland Says Intercepted Russian Su 24 Bomber Over Baltic Sea,0.08129998296499252,0.517549455165863,0.4011506140232086,neutral,2025-05-23,2025,5
+219,Article,Polish Ruling Party Candidate Fights Back In Presidential Debate,0.13311736285686493,0.6694362163543701,0.19744645059108734,neutral,2025-05-23,2025,5
+220,Article,Redbird Agrees To Buy Telegraph Ending Uk Newspaper S Limbo,0.24402815103530884,0.010273180902004242,0.7456986308097839,positive,2025-05-23,2025,5
+221,Article,Senior Us China Officials Vow To Keep Communication Lines Open,0.24798975884914398,0.06557324528694153,0.6864370107650757,positive,2025-05-23,2025,5
+222,Article,South African Police Minister Debunks Trump S Genocide Claim,0.1496998816728592,0.3445022702217102,0.5057979226112366,positive,2025-05-23,2025,5
+223,Article,South Korea S Presidential Race Tightens Sharply After Tv Debate,0.021107874810695648,0.9116997718811035,0.06719228625297546,neutral,2025-05-23,2025,5
+224,Article,Summers Slams Trump For Vicious Ban On Foreign Students From Harvard,0.04712885618209839,0.8076726794242859,0.1451985090970993,neutral,2025-05-23,2025,5
+225,Article,Supreme Court Temporarily Halts Order To Produce Doge Records,0.012592216953635216,0.8575353622436523,0.1298723965883255,neutral,2025-05-23,2025,5
+226,Article,Surge In Cannabis Smuggling Prompts Thailand To Tighten Rules,0.03512008488178253,0.9027875661849976,0.06209234148263931,neutral,2025-05-23,2025,5
+227,Article,Suriname Election New President To Navigate Impending Oil Boom,0.2106713205575943,0.22231939435005188,0.5670092701911926,positive,2025-05-23,2025,5
+228,Article,These World Leaders Went To Harvard Before Trump S Foreign Student Ban,0.045547887682914734,0.04235437884926796,0.9120978116989136,positive,2025-05-23,2025,5
+229,Article,Trump Attack On Harvard Students Reverberates Around The World,0.04261628910899162,0.16450683772563934,0.7928768992424011,positive,2025-05-23,2025,5
+230,Article,Trump Backs Us Steel Nippon Partnership Following Cfius Review,0.3077988922595978,0.07644287496805191,0.6157581806182861,positive,2025-05-23,2025,5
+231,Article,Trump Downsizes National Security Council In Latest Staff Cuts,0.014178769662976265,0.9431397914886475,0.042681366205215454,neutral,2025-05-23,2025,5
+232,Article,Trump Lauds Major Prisoner Swap Between Ukraine And Russia,0.03802260011434555,0.901309072971344,0.060668278485536575,neutral,2025-05-23,2025,5
+233,Article,Trump Signs Orders To Revive Us Leadership In Nuclear Power,0.5725389719009399,0.025293465703725815,0.40216752886772156,negative,2025-05-23,2025,5
+234,Article,Trump Team S Game Of Thrones On Venezuela Whiplashes Chevron,0.05994775518774986,0.21465060114860535,0.7254015803337097,positive,2025-05-23,2025,5
+235,Article,Trump Threatens A 50 Tariff On Eu Goods Starting In June,0.06418564915657043,0.5282930731773376,0.4075212776660919,neutral,2025-05-23,2025,5
+236,Article,Turkey Bans Images Of Istanbul Mayor Ekrem Imamoglu,0.016592351719737053,0.7430471181869507,0.24036051332950592,neutral,2025-05-23,2025,5
+237,Article,Tycoon Mordashov S Local Spat Signals Changing Elite In Russia,0.12570145726203918,0.05947674810886383,0.8148217797279358,positive,2025-05-23,2025,5
+238,Article,Ukraine Says Drones Struck Russian Battery Plant For Missiles,0.032768189907073975,0.8409934043884277,0.12623843550682068,neutral,2025-05-23,2025,5
+239,Article,Us Debt Limit Nail Biter Looms As Senate Ponders Trump Tax Bill,0.06093553826212883,0.758081316947937,0.18098314106464386,neutral,2025-05-23,2025,5
+240,Article,Us Importers Pay Record 16 5 Billion As April Tariff Bill Lands,0.21132530272006989,0.049750473350286484,0.7389242649078369,positive,2025-05-23,2025,5
+241,Article,Us Moves To Ease Sanctions On Syria After Trump Met New Leader,0.789652407169342,0.08615149557590485,0.12419606000185013,negative,2025-05-23,2025,5
+242,Article,Us Tariff Countdown Has Nations Racing To Turn Talks Into Deals,0.3281039595603943,0.03002677857875824,0.6418691873550415,positive,2025-05-23,2025,5
+243,Article,Venezuela Detains Opposition Leader On Election Boycott Claims,0.02295587584376335,0.8792632818222046,0.09778085350990295,neutral,2025-05-23,2025,5
+244,Article,What Role Does China Play In The India Pakistan Conflict,0.03166013956069946,0.03814609348773956,0.9301937222480774,positive,2025-05-23,2025,5
+245,Article,Bangladesh S Interim Government Says It Will Stay The Course,0.1138932928442955,0.044627781957387924,0.8414790034294128,positive,2025-05-24,2025,5
+246,Article,Billionaires Boost Cuomo S Fundraising Lead In Nyc Mayor S Race,0.9213613271713257,0.027576720342040062,0.05106198415160179,negative,2025-05-24,2025,5
+247,Article,Buy American How Europe Must Stock Up On Weapons For Ukraine,0.28090521693229675,0.01447282824665308,0.7046219110488892,positive,2025-05-24,2025,5
+248,Article,Chevron Cvx Venezuela Seen Getting Us License For Minimum Maintenance,0.7828560471534729,0.0108778802677989,0.20626603066921234,negative,2025-05-24,2025,5
+249,Article,Eu Weighs Cutting 20 Banks From Swift In New Russia Sanctions,0.018389223143458366,0.9252849221229553,0.05632592365145683,neutral,2025-05-24,2025,5
+250,Article,Harvard Reprieve For Foreign Students Won T Stop Looming Threats,0.29723313450813293,0.2500186860561371,0.4527481496334076,neutral,2025-05-24,2025,5
+251,Article,India Pakistan Battle For Global Sympathy After Border Truce,0.18531093001365662,0.23933395743370056,0.5753551125526428,positive,2025-05-24,2025,5
+252,Article,Malaysia S Anwar Defends Lengthening Tenure Of Anti Graft Chief,0.3017536699771881,0.22530418634414673,0.47294220328330994,neutral,2025-05-24,2025,5
+253,Article,Noboa Inauguration Ecuador Adopting Bukele Style Emergency Powers,0.20332689583301544,0.027188824489712715,0.7694843411445618,positive,2025-05-24,2025,5
+254,Article,Polish Ruling Party Candidate Pushes Back Against Far Right,0.3067561089992523,0.4546169340610504,0.23862697184085846,neutral,2025-05-24,2025,5
+255,Article,Trump Forces Switzerland To Question Its Love For Farmers,0.1078900545835495,0.1947033554315567,0.697406530380249,positive,2025-05-24,2025,5
+256,Article,Trump S New Tariff Threats Show Trade Uncertainty Here To Stay,0.06395620852708817,0.807702362537384,0.12834137678146362,neutral,2025-05-24,2025,5
+257,Article,Turkey S Top Diplomat Heads For Russia To Discuss Ukraine Syria,0.07910388708114624,0.03437178581953049,0.8865243196487427,positive,2025-05-24,2025,5
+258,Article,Uk Officials Probe Russian Involvement In Starmer Fires Ft Says,0.042239051312208176,0.3895399570465088,0.5682209730148315,positive,2025-05-24,2025,5
+259,Article,Ukraine Capital Struck In Russian Drone Missile Attack Ap Says,0.044984206557273865,0.8284252285957336,0.1265905350446701,neutral,2025-05-24,2025,5
+260,Article,Asean Must Keep Joining Global Supply Chains Thai Minister Says,0.31635671854019165,0.026908831670880318,0.6567344069480896,positive,2025-05-25,2025,5
+261,Article,Australia S Opposition Parties On Track To Return To Coalition,0.4272684156894684,0.09850911051034927,0.4742225408554077,neutral,2025-05-25,2025,5
+262,Article,Canada S Liberals Decide Against New Rules To Oust Party Leader Mark Carney,0.030484618619084358,0.8392329812049866,0.13028240203857422,neutral,2025-05-25,2025,5
+263,Article,German Finance Minister Urges Calm In Us Tariff Fight Bild Says,0.1612986922264099,0.3779238164424896,0.46077752113342285,neutral,2025-05-25,2025,5
+264,Article,Israeli Military Aims To Take Over 75 Of Gaza Within Two Months,0.06313177943229675,0.04999488219618797,0.8868733644485474,positive,2025-05-25,2025,5
+265,Article,Macron Kicks Off Asia Tour In Vietnam With Focus On Energy,0.11432568728923798,0.02523759752511978,0.8604366779327393,positive,2025-05-25,2025,5
+266,Article,North Korea Detains Officials After Failed Warship Launch Kcna,0.030399374663829803,0.8064145445823669,0.16318611800670624,neutral,2025-05-25,2025,5
+267,Article,Polish Election Contenders Rally Supporters A Week Before Runoff,0.1821494698524475,0.5751705169677734,0.2426799237728119,neutral,2025-05-25,2025,5
+268,Article,Rayner Leaves Door Open On Benefit Reform As Farage Ups Pressure,0.6616374254226685,0.07355145364999771,0.26481112837791443,negative,2025-05-25,2025,5
+269,Article,Russia Ramps Up Airstrikes On Ukraine As Prisoner Swaps Continue,0.1925319880247116,0.6288731098175049,0.1785949021577835,neutral,2025-05-25,2025,5
+270,Article,Trump Expresses Optimism On Iran Deal After Very Good Talks,0.878171980381012,0.015934793278574944,0.10589314252138138,negative,2025-05-25,2025,5
+271,Article,Trump Says He S Absolutely Weighing Sanctions Against Russia,0.12068556994199753,0.15445110201835632,0.7248633503913879,positive,2025-05-25,2025,5
+272,Article,Us Tariffs Loom Over Asia Summit As Ties With China Strengthen,0.8262823224067688,0.08800382167100906,0.08571385592222214,negative,2025-05-25,2025,5
+273,Article,Big Beautiful Bill Trump Hits Allies With Unfair Tax Regimes,0.08168011158704758,0.763527512550354,0.15479233860969543,neutral,2025-05-26,2025,5
+274,Article,Chile S Leftist Presidential Hopefuls Spar Over Sqm Codelco Deal,0.07193387299776077,0.7619215846061707,0.16614454984664917,neutral,2025-05-26,2025,5
+275,Article,China S Ambassador Warns Australia Over Port Of Darwin Lease,0.04121909290552139,0.8560585975646973,0.10272234678268433,neutral,2025-05-26,2025,5
+276,Article,Chinese Eu Trade Heads To Meet As Trump Tariff Tensions Rise,0.4762546718120575,0.25086161494255066,0.27288368344306946,neutral,2025-05-26,2025,5
+277,Article,Election Deadlock Puts Suriname S Oil Bonanza In Play,0.11516587436199188,0.6816368699073792,0.20319728553295135,neutral,2025-05-26,2025,5
+278,Article,Eu Plans To Fast Track Trade Talks With Us Amid Tariff Fight,0.8662058711051941,0.015382993966341019,0.1184111088514328,negative,2025-05-26,2025,5
+279,Article,Finland Summons Russia S Ambassador After Violation Of Airspace,0.022393282502889633,0.826482355594635,0.15112437307834625,neutral,2025-05-26,2025,5
+280,Article,Former Austrian Chancellor Kurz Acquitted Of Perjury On Appeal,0.1107311099767685,0.6327868103981018,0.2564820945262909,neutral,2025-05-26,2025,5
+281,Article,Germany Calls Ugandan Claims Of Subversive Activities Absurd,0.031507574021816254,0.746044933795929,0.22244761884212494,neutral,2025-05-26,2025,5
+282,Article,Germany S Merz Floats Cutting Off Eu Funds To Fico S Slovakia,0.018887165933847427,0.913052499294281,0.06806021928787231,neutral,2025-05-26,2025,5
+283,Article,India Canada Hold Top Level Talks To Mend Frayed Ties,0.1765841543674469,0.5443285703659058,0.27908721566200256,neutral,2025-05-26,2025,5
+284,Article,Israel Backed Gaza Food Aid Plan Is Facing Dissent And Delays,0.014717762358486652,0.9323383569717407,0.05294394493103027,neutral,2025-05-26,2025,5
+285,Article,Japan To Sell Rice Stockpiles With Aim To Halve Soaring Prices,0.8385939598083496,0.012115398421883583,0.14929065108299255,negative,2025-05-26,2025,5
+286,Article,King Charles Visits Canada As Country Rattled By Trump Taunts,0.12211555242538452,0.6092309355735779,0.26865354180336,neutral,2025-05-26,2025,5
+287,Article,Maduro Sweeps Venezuelan Regional Vote Marked By Low Turnout,0.08317702263593674,0.8673725724220276,0.049450427293777466,neutral,2025-05-26,2025,5
+288,Article,Malaysia S Anwar Writes Trump Seeking Summit With Southeast Asia,0.30256444215774536,0.02830611914396286,0.6691294312477112,positive,2025-05-26,2025,5
+289,Article,Merz Gives Ukraine The Green Light To Strike Deep Inside Russia,0.324083536863327,0.010237214155495167,0.6656792759895325,positive,2025-05-26,2025,5
+290,Article,Nato Chief Rutte Says Members Moving Toward 5 Spending Target,0.5503056645393372,0.018460312858223915,0.4312340021133423,negative,2025-05-26,2025,5
+291,Article,Romania S Fiscal Woes Test New Math Prodigy President,0.34850361943244934,0.5141199231147766,0.13737648725509644,neutral,2025-05-26,2025,5
+292,Article,Russia Dismisses Trump S Putin Criticism As Emotional Reaction,0.0470588281750679,0.7016336917877197,0.25130751729011536,neutral,2025-05-26,2025,5
+293,Article,South Korea Presidential Election What To Know Who Are The Main Candidates,0.023242400959134102,0.0418529137969017,0.9349046945571899,positive,2025-05-26,2025,5
+294,Article,Trump Threatens To Steer Harvard Grant Money To Trade Schools,0.046710528433322906,0.5428739786148071,0.4104154706001282,neutral,2025-05-26,2025,5
+295,Article,Trump To Pardon Sheriff Found Guilty Of Cash For Badges Scheme,0.2159823328256607,0.45780158042907715,0.32621607184410095,neutral,2025-05-26,2025,5
+296,Article,Tusk Plan To Change Poland Turns On Knife Edge Presidential Vote,0.08395372331142426,0.5330724716186523,0.3829738199710846,neutral,2025-05-26,2025,5
+297,Article,Uk To Train 120 000 Builders Carers To Cut Reliance On Migrants,0.38651832938194275,0.026149123907089233,0.5873324871063232,positive,2025-05-26,2025,5
+298,Article,Ukraine S Zelenskiy Said To Meet With Merz In Berlin Wednesday,0.040945254266262054,0.02922378107905388,0.9298310279846191,positive,2025-05-26,2025,5
+299,Article,Xi Plans New Made In China Effort Even As Trump Aims To Boost Us Manufacturing,0.7439936995506287,0.008607626892626286,0.24739862978458405,negative,2025-05-26,2025,5
+300,Article,Bolsonaro S Son Investigated Over Alleged Court Intimidation,0.033872634172439575,0.8099218010902405,0.15620557963848114,neutral,2025-05-27,2025,5
+301,Article,Carney Pledges Economic Transformation In Speech Read By King,0.2418193221092224,0.01193909626454115,0.7462416291236877,positive,2025-05-27,2025,5
+302,Article,China S Premier Courts Asean Gulf States As Trump Tariffs Bite,0.1576615422964096,0.16521619260311127,0.6771222949028015,positive,2025-05-27,2025,5
+303,Article,Eu To Focus On Critical Sectors In Bid To Avoid Trump S Tariffs,0.23874926567077637,0.09717640280723572,0.6640743017196655,positive,2025-05-27,2025,5
+304,Article,Germany Weighs Curbs On Israel Weapons Exports On Gaza Concerns,0.062349289655685425,0.7084606289863586,0.22919006645679474,neutral,2025-05-27,2025,5
+305,Article,Hegseth Imposes Fresh Limits On Reporter Access To The Pentagon,0.030521685257554054,0.7463166117668152,0.22316166758537292,neutral,2025-05-27,2025,5
+306,Article,Libyan Peace Push At Risk From Trump Funding Cuts Un Envoy Says,0.06049124523997307,0.8499248027801514,0.08958402276039124,neutral,2025-05-27,2025,5
+307,Article,Macron Courts Southeast Asia Nations Trapped By Us China Dispute,0.04437311738729477,0.599068820476532,0.35655808448791504,neutral,2025-05-27,2025,5
+308,Article,Malaysia Sees Reducing The Us S Proposed Tariff To 10 As A Good Outcome,0.9008105993270874,0.01839129813015461,0.08079803735017776,negative,2025-05-27,2025,5
+309,Article,Merz Says Kyiv S Allies Ended Curbs On Russia Strikes Months Ago,0.24795758724212646,0.703208327293396,0.048834096640348434,neutral,2025-05-27,2025,5
+310,Article,Milei Burnishes His Trump Ties By Hosting Health Chief Rfk Jr,0.14170889556407928,0.05426019802689552,0.8040308952331543,positive,2025-05-27,2025,5
+311,Article,North Korea Says Trump S Golden Dome Risks Space Nuclear War,0.039044979959726334,0.4822648763656616,0.47869008779525757,neutral,2025-05-27,2025,5
+312,Article,Polish Presidential Contender Brushes Off Reports About Checkered Past,0.04395656660199165,0.8345504999160767,0.12149295955896378,neutral,2025-05-27,2025,5
+313,Article,Ramaphosa Recalls His Bemusement At Trump Oval Office Encounter,0.07632467150688171,0.537702202796936,0.38597309589385986,neutral,2025-05-27,2025,5
+314,Article,Reform Uk S Farage To Vow Benefit Hikes In Attack On Starmer,0.16012831032276154,0.6437550187110901,0.19611668586730957,neutral,2025-05-27,2025,5
+315,Article,Romania S Banned Ex Frontrunner Georgescu Quits Politics In Blow To Right,0.03798309341073036,0.5078299045562744,0.4541870057582855,neutral,2025-05-27,2025,5
+316,Article,Russia Backs Turkey For New Ukraine Talks After Nixing Vatican,0.20222218334674835,0.09995585680007935,0.6978219151496887,positive,2025-05-27,2025,5
+317,Article,Slovak Premier Rejects Germany S Warning On Cutting Eu Funding,0.050564732402563095,0.8644365668296814,0.08499874174594879,neutral,2025-05-27,2025,5
+318,Article,Southeast Asia Leaders Make A Veiled Jab At Us Tariff Actions,0.03647661954164505,0.7934772372245789,0.17004618048667908,neutral,2025-05-27,2025,5
+319,Article,Texas Lawmakers Require The Ten Commandments In Every Classroom,0.038169946521520615,0.030396170914173126,0.9314338564872742,positive,2025-05-27,2025,5
+320,Article,Thailand Faces Fresh Risk Of Instability As Coalition Challenged By Budget Vote,0.015968410298228264,0.9531155228614807,0.030916038900613785,neutral,2025-05-27,2025,5
+321,Article,Trump Ally Wades Into Poland S Election Endorsing Nationalist,0.18688303232192993,0.056428007781505585,0.7566889524459839,positive,2025-05-27,2025,5
+322,Article,Trump Praises Eu For Speeding Tariff Negotiations After Threat,0.2824912965297699,0.5548063516616821,0.16270236670970917,neutral,2025-05-27,2025,5
+323,Article,Trump S Dhs Asks Supreme Court To Intervene In Deportation Case,0.07590540498495102,0.18239910900592804,0.7416955232620239,positive,2025-05-27,2025,5
+324,Article,Trump Says Fannie Freddie To Keep Us Guarantees As Public Firms,0.16062122583389282,0.0110545689240098,0.8283241987228394,positive,2025-05-27,2025,5
+325,Article,Trump Says Golden Dome Missile System To Cost Canada 61 Billion,0.17069703340530396,0.012477218173444271,0.816825807094574,positive,2025-05-27,2025,5
+326,Article,Trump Threatens California Funding Freeze Over Trans Athlete Ban,0.01863943412899971,0.8751789927482605,0.10618158429861069,neutral,2025-05-27,2025,5
+327,Article,Trump To End Federal Contracts With Harvard University,0.03425731509923935,0.8242339491844177,0.1415088176727295,neutral,2025-05-27,2025,5
+328,Article,Trump To Pardon Stars Of Reality Show Chrisley Knows Best,0.08922681957483292,0.04053538292646408,0.8702377676963806,positive,2025-05-27,2025,5
+329,Article,Trump Warns Putin Playing With Fire As Lawmakers Eye Sanctions,0.12564262747764587,0.27153292298316956,0.6028245091438293,positive,2025-05-27,2025,5
+330,Article,Us Orders Pause In Student Visa Interviews Ahead Of New Vetting,0.0314183309674263,0.14282344281673431,0.825758159160614,positive,2025-05-27,2025,5
+331,Article,Us S Cerberus Eyes Offer For Port Of Darwin The Australian Says,0.2634415626525879,0.015601716935634613,0.7209566831588745,positive,2025-05-27,2025,5
+332,Article,West African Coast Could Boost Revenue For Jihadists Us Warns,0.9508185386657715,0.01338986773043871,0.03579157590866089,negative,2025-05-27,2025,5
+333,Article,Australia Looks To Avoid A Panama Repeat In China Port Showdown,0.18095000088214874,0.6209584474563599,0.19809162616729736,neutral,2025-05-28,2025,5
+334,Article,Australia S Center Right Opposition Regroups About One Week After Split,0.03899826481938362,0.65919029712677,0.30181145668029785,neutral,2025-05-28,2025,5
+335,Article,Boston Pushes Harvard Other Colleges For Money Even As Trump Steps Up Attacks,0.29085901379585266,0.044639840722084045,0.6645011305809021,positive,2025-05-28,2025,5
+336,Article,Chile Government Unveils Bill That Would Fully Legalize Abortion,0.3791337311267853,0.013182975351810455,0.6076833009719849,positive,2025-05-28,2025,5
+337,Article,China Tech Ambitions Won T Hurt Consumption Pivot Keyu Jin Says,0.13659992814064026,0.028615208342671394,0.8347848653793335,positive,2025-05-28,2025,5
+338,Article,Czechs Say China Behind Recent Cyber Attack On Foreign Ministry,0.04238452389836311,0.8045026063919067,0.15311279892921448,neutral,2025-05-28,2025,5
+339,Article,Eu Plans To Create A Maritime Security Hub In The Black Sea,0.741689145565033,0.007572457659989595,0.2507384121417999,negative,2025-05-28,2025,5
+340,Article,Eu Trade Chief To Speak To Us S Lutnick Greer On Thursday,0.047236766666173935,0.026277972385287285,0.9264853000640869,positive,2025-05-28,2025,5
+341,Article,Farage Keeps Finances Vague In Uk Welfare Plan Targeting Labour,0.05602651834487915,0.08114263415336609,0.8628308176994324,positive,2025-05-28,2025,5
+342,Article,Finland Starts Process To Withdraw From Landmine Ban Treaty,0.13536137342453003,0.1878647655248642,0.6767738461494446,positive,2025-05-28,2025,5
+343,Article,Germany Prepares To Abolish Its Fast Track Path To Citizenship,0.5431508421897888,0.014867323450744152,0.44198185205459595,negative,2025-05-28,2025,5
+344,Article,Germany S Top Diplomat Expects New Us Sanctions Against Russia,0.3109021782875061,0.5697449445724487,0.11935284733772278,neutral,2025-05-28,2025,5
+345,Article,Germany To Work With Kyiv On Long Range Missile Production,0.592612087726593,0.009964894503355026,0.39742299914360046,negative,2025-05-28,2025,5
+346,Article,Hegseth Targets Independent Pentagon Test Office For Major Cuts,0.16225658357143402,0.12798164784908295,0.7097617983818054,positive,2025-05-28,2025,5
+347,Article,How Harvard Is Getting Rocked By Trump S America First Fight,0.14238199591636658,0.024950871244072914,0.8326671719551086,positive,2025-05-28,2025,5
+348,Article,In Rare Stab Slovak Leader Tells Premier To Focus On The West,0.12035878747701645,0.11749374121427536,0.7621474862098694,positive,2025-05-28,2025,5
+349,Article,Indonesia France Set To Sign Defense Letter During Macron Visit,0.2290412187576294,0.013326402753591537,0.7576323747634888,positive,2025-05-28,2025,5
+350,Article,Indonesia Open To Israel Ties If It Recognizes Palestine,0.44735801219940186,0.010240724310278893,0.5424013137817383,positive,2025-05-28,2025,5
+351,Article,Iran Says Iaea May Send Us Inspectors If Nuclear Deal Is Reached,0.0521218404173851,0.28930097818374634,0.6585771441459656,positive,2025-05-28,2025,5
+352,Article,Israel Says It Killed Mohammed Sinwar Head Of Hamas In Gaza,0.07854481041431427,0.6202234625816345,0.3012317717075348,neutral,2025-05-28,2025,5
+353,Article,Japan Expands Military Push Against China With Us Stand In Doubt,0.32121542096138,0.17400811612606049,0.5047764778137207,positive,2025-05-28,2025,5
+354,Article,Malaysia Economy Minister Rafizi To Resign Effective June 17,0.016140228137373924,0.7515038847923279,0.23235593736171722,neutral,2025-05-28,2025,5
+355,Article,Merz Vows Legislative Action To Quickly Boost German Economy,0.9134708046913147,0.011193647049367428,0.0753355622291565,negative,2025-05-28,2025,5
+356,Article,Mifepristone Why The Abortion Pill Is Under Scrutiny Again In Us,0.04379430413246155,0.156202033162117,0.8000036478042603,positive,2025-05-28,2025,5
+357,Article,Milei Gets Tuttle Twins To Teach Free Markets To Argentine Kids,0.1513766050338745,0.012690989300608635,0.8359323740005493,positive,2025-05-28,2025,5
+358,Article,Musk Says He S Disappointed That Trump Tax Bill Raises Deficit,0.020248141139745712,0.9547922611236572,0.02495957911014557,neutral,2025-05-28,2025,5
+359,Article,Nato Floats Cybersecurity To Be Included In New Spending Target,0.6121780276298523,0.012383737601339817,0.37543821334838867,negative,2025-05-28,2025,5
+360,Article,Nato Wants Germany To Provide 40 000 Additional Troops,0.34778597950935364,0.012885239906609058,0.6393288373947144,positive,2025-05-28,2025,5
+361,Article,One Palestinian Killed At Gaza Aid Site On Tuesday Says Ap,0.09940194338560104,0.6578577756881714,0.24274033308029175,neutral,2025-05-28,2025,5
+362,Article,Pessimism Swells On Doing Business In China European Firms Say,0.5796197056770325,0.33043140172958374,0.08994881063699722,negative,2025-05-28,2025,5
+363,Article,Poland Presidential Election Exposes Cracks In Booming Economy,0.026880629360675812,0.9255285859107971,0.04759076610207558,neutral,2025-05-28,2025,5
+364,Article,Polish Far Right Leader Fails To Endorse Any Presidential Rival,0.02388545498251915,0.8382033109664917,0.13791127502918243,neutral,2025-05-28,2025,5
+365,Article,Portugal President To Meet Parties Before Naming Prime Minister,0.026614366099238396,0.030401285737752914,0.942984402179718,positive,2025-05-28,2025,5
+366,Article,Portugal S Far Right Shatters 50 Years Of Two Party Dominance,0.06940140575170517,0.48206689953804016,0.44853171706199646,neutral,2025-05-28,2025,5
+367,Article,Rapper Nba Youngboy Ex Chicago Gang Leader Win Trump Clemency,0.06409971415996552,0.13398678600788116,0.8019134402275085,positive,2025-05-28,2025,5
+368,Article,Slovak Auto Industry Warns Of Higher Taxes Shift Away From Eu,0.23964355885982513,0.6490187644958496,0.11133766174316406,neutral,2025-05-28,2025,5
+369,Article,South Korea Set To Balance Us China Ties More If Lee Wins Vote,0.9118064045906067,0.015002066269516945,0.07319153845310211,negative,2025-05-28,2025,5
+370,Article,Thai Cambodian Soldiers Exchange Fire At Disputed Border Area,0.0339728519320488,0.8342736959457397,0.13175345957279205,neutral,2025-05-28,2025,5
+371,Article,Trump Downplays Musk Tax Bill Criticism Says Need To Win Votes,0.02639293298125267,0.8461601138114929,0.1274469643831253,neutral,2025-05-28,2025,5
+372,Article,Trump Immigration Officials Set Target Of 3 000 Arrests A Day,0.07058802247047424,0.3456876277923584,0.583724319934845,positive,2025-05-28,2025,5
+373,Article,Trump Insists To Wall Street He S No Chicken On Tariff Policy,0.0634867399930954,0.04007330909371376,0.8964399695396423,positive,2025-05-28,2025,5
+374,Article,Trump Says Harvard Should Cap Foreign Student Enrollment At 15 Mb86X0Ql,0.07947013527154922,0.18103960156440735,0.739490270614624,positive,2025-05-28,2025,5
+375,Article,Trump To Ask Congress To Codify Doge Cuts Hitting Pbs And Npr,0.1844327449798584,0.03430362045764923,0.7812636494636536,positive,2025-05-28,2025,5
+376,Article,Trump Warned Netanyahu Iran Strike Would Be Inappropriate,0.023874210193753242,0.8828056454658508,0.09332016110420227,neutral,2025-05-28,2025,5
+377,Article,Trump Weighs Pardons For Michigan Governor Kidnapping Plotters,0.12313850224018097,0.5415973663330078,0.33526408672332764,neutral,2025-05-28,2025,5
+378,Article,Uk Taps Ukraine Lessons To Plow 1 Billion Into Warfare Systems,0.3392212390899658,0.013307793065905571,0.6474709510803223,positive,2025-05-28,2025,5
+379,Article,Uk To Fast Track First New Reservoirs As Water Supply Risks Loom,0.8804935216903687,0.026801597326993942,0.09270495176315308,negative,2025-05-28,2025,5
+380,Article,Ukraine Needs 30 Billion To Boost Arms Output Zelenskiy Says,0.9036437273025513,0.012905548326671124,0.08345071226358414,negative,2025-05-28,2025,5
+381,Article,Us Announces Visa Curbs Targeting Social Media Censorship,0.03056410327553749,0.8643669486045837,0.10506896674633026,neutral,2025-05-28,2025,5
+382,Article,Us Waiting On Russia Sanctions To Keep Talks Alive Trump Says,0.15554679930210114,0.027771087363362312,0.8166821002960205,positive,2025-05-28,2025,5
+383,Article,Us Will Revoke Visas Of Chinese Students Escalating Crackdown,0.02104525826871395,0.9162359237670898,0.06271886825561523,neutral,2025-05-28,2025,5
+384,Article,China Calls Us Plan To Revoke Student Visas Discriminatory,0.026393597945570946,0.8184504508972168,0.1551560014486313,neutral,2025-05-29,2025,5
+385,Article,China Cut Drone Sales To West But Supplies Them To Russia Ukraine Says,0.057603221386671066,0.5125606656074524,0.42983612418174744,neutral,2025-05-29,2025,5
+386,Article,China Defense Chief To Skip Singapore Forum Attended By Hegseth,0.0932045429944992,0.027787668630480766,0.8790078163146973,positive,2025-05-29,2025,5
+387,Article,Elon Musk S Doge Exit Won T Stop Pain From Federal Layoffs,0.03141256421804428,0.9141704440116882,0.05441693961620331,neutral,2025-05-29,2025,5
+388,Article,Farmers Press Trump For Biofuels Boost To Counter Tariff Losses,0.8394208550453186,0.033118899911642075,0.12746022641658783,negative,2025-05-29,2025,5
+389,Article,Harvard Case Judge To Expand Block On Trump Foreign Student Ban,0.08044233173131943,0.5837767720222473,0.3357808589935303,neutral,2025-05-29,2025,5
+390,Article,Harvard President Embraces Foreign Students Amid Trump Fight,0.16058367490768433,0.052922122180461884,0.7864941954612732,positive,2025-05-29,2025,5
+391,Article,Hassett Says Us Has Other Options On Tariffs But Awaiting Appeal,0.07668732851743698,0.020688509568572044,0.9026241302490234,positive,2025-05-29,2025,5
+392,Article,Imf Approves 500 Million Ukraine Payment As Peace Talks Stall,0.5049871206283569,0.02525455132126808,0.4697582721710205,negative,2025-05-29,2025,5
+393,Article,Israel Approves New Settlements To Obstruct Palestinian State,0.29059502482414246,0.15075388550758362,0.5586510896682739,positive,2025-05-29,2025,5
+394,Article,Libya Faces New Oil Shutdown Threat After Gunmen Storm Hq,0.02209983393549919,0.9416252374649048,0.03627481684088707,neutral,2025-05-29,2025,5
+395,Article,Lutnick Defends Us Tariffs As Key To India Pakistan Ceasefire,0.22924725711345673,0.02946447767317295,0.7412883043289185,positive,2025-05-29,2025,5
+396,Article,Marcos Cabinet Shuffle Sees Promotion For Officer Who Helped Arrest Duterte,0.1909465193748474,0.08196251839399338,0.7270909547805786,positive,2025-05-29,2025,5
+397,Article,Musk Departs Doge Leaving Cost Cutting Effort S Legacy In Doubt,0.037746600806713104,0.3706558346748352,0.5915975570678711,positive,2025-05-29,2025,5
+398,Article,Musk S No 2 Also Departing Doge As Officials Hit Time Limit,0.1388372927904129,0.23670020699501038,0.6244625449180603,positive,2025-05-29,2025,5
+399,Article,Nvidia Faces Bipartisan Concern On China Research Facility Plans,0.011018265038728714,0.9600614309310913,0.02892031893134117,neutral,2025-05-29,2025,5
+400,Article,Reform S Farage Sets Out Trump Style Bid To Make Uk A Crypto Hub,0.055338386446237564,0.02466818131506443,0.9199934601783752,positive,2025-05-29,2025,5
+401,Article,Rfk Jr Slams Medical Journals Floats In House Publishing Plan,0.056889116764068604,0.01296814065426588,0.9301427602767944,positive,2025-05-29,2025,5
+402,Article,Singapore Premier Warns Lawmakers On Perceptions Of Impropriety,0.023743757978081703,0.8980064988136292,0.07824975252151489,neutral,2025-05-29,2025,5
+403,Article,South Africa S Eff Asks Court To Stop Proposed Fuel Levy Hike,0.025178778916597366,0.7290579676628113,0.24576333165168762,neutral,2025-05-29,2025,5
+404,Article,South Africa To Probe Delays In Prosecuting Apartheid Crimes,0.13673849403858185,0.2669205367565155,0.5963409543037415,positive,2025-05-29,2025,5
+405,Article,Starmer To Accuse Farage Of Truss Style Fantasy Economic Plans,0.03477604314684868,0.7611802816390991,0.2040436863899231,neutral,2025-05-29,2025,5
+406,Article,Taiwan Says Us Trade Deal Push Continues Despite Court Ruling,0.8995931148529053,0.045970212668180466,0.054436713457107544,negative,2025-05-29,2025,5
+407,Article,Texas Follows Florida In Republican Push To Remake Us Colleges,0.30923622846603394,0.03359692916274071,0.6571667790412903,positive,2025-05-29,2025,5
+408,Article,Thai Attorneys Drop Royal Insult Charge Against Us Academic,0.06573426723480225,0.7435680627822876,0.19069768488407135,neutral,2025-05-29,2025,5
+409,Article,Trump Can Offset Tariff Ruling With Other Tools Goldman Says,0.18890716135501862,0.008824106305837631,0.8022687435150146,positive,2025-05-29,2025,5
+410,Article,Trump Sees Iran Deal That Allows Us To Destroy Nuclear Sites,0.5691471099853516,0.01532268151640892,0.41553017497062683,negative,2025-05-29,2025,5
+411,Article,Trump Xi Truce Under Fire As China Hawks Target Students Tech,0.054169364273548126,0.7776244878768921,0.1682060956954956,neutral,2025-05-29,2025,5
+412,Article,Vietnam Blocks Printed Copies Of The Economist Over To Lam Cover,0.03739425912499428,0.04414690285921097,0.918458878993988,positive,2025-05-29,2025,5
+413,Article,Why Poland S Election Runoff Is Key Test For Maga Populism In Europe,0.12302768230438232,0.018012607470154762,0.8589596748352051,positive,2025-05-29,2025,5

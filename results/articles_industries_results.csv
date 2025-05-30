@@ -1,0 +1,79 @@
+original_index,text_column,text,negative,neutral,positive,sentiment,date,year,month
+0,Article,Trump S Tariffs Are Going To Ruin Christmas In The Us,0.011372437700629234,0.9428055882453918,0.04582196846604347,neutral,2025-05-13,2025,5
+1,Article,Back At Spacex Musk Vows To Ramp Up Launches After Explosion,0.7904132604598999,0.008618257939815521,0.20096845924854279,negative,2025-05-28,2025,5
+2,Article,Chevron Cvx Gives Notice Of Nearly 800 Job Cuts In Permian Basin,0.012519906274974346,0.9580926299095154,0.029387515038251877,neutral,2025-05-28,2025,5
+3,Article,Entertainment Firms Oak View Legends Face Doj Antitrust Probe,0.01815459504723549,0.8550561666488647,0.12678925693035126,neutral,2025-05-28,2025,5
+4,Article,Fountainvest Seeks 1 32 Billion In Arc Teryx Maker Share Sale,0.048400815576314926,0.01222602091729641,0.9393731355667114,positive,2025-05-28,2025,5
+5,Article,Japan Expands Military Push Against China With Us Stand In Doubt,0.32121542096138,0.17400811612606049,0.5047764778137207,positive,2025-05-28,2025,5
+6,Article,Latest Oil Market News And Analysis For May 29,0.026134489104151726,0.04999261349439621,0.9238728880882263,positive,2025-05-28,2025,5
+7,Article,Nj S American Dream Mall Sees Value Drop By 800 Million In 2025,0.006809880491346121,0.9726250767707825,0.02056504413485527,neutral,2025-05-28,2025,5
+8,Article,Ny Congestion Toll Likely To Stay Until Year End Amid Court Case,0.017491646111011505,0.8944379687309265,0.0880703255534172,neutral,2025-05-28,2025,5
+9,Article,Stock Market Today Dow S P Live Updates,0.03214000537991524,0.03012198396027088,0.9377379417419434,positive,2025-05-28,2025,5
+10,Article,Texas Weighs Entertainment Incentive Bill With Control Over Content,0.06174164637923241,0.013487975113093853,0.9247704148292542,positive,2025-05-28,2025,5
+11,Article,Tropical Depression In Pacific Is Heading Toward Baja California,0.0635736808180809,0.42331376671791077,0.5131125450134277,positive,2025-05-28,2025,5
+12,Article,Trump Administration Cancels 3 Billion Loan To Troubled Sunnova,0.018691444769501686,0.8973934650421143,0.0839150920510292,neutral,2025-05-28,2025,5
+13,Article,Trump S Global Tariffs Blocked By Us Trade Court,0.03090490959584713,0.876092255115509,0.0930028110742569,neutral,2025-05-28,2025,5
+14,Article,Uk Taps Ukraine Lessons To Plow 1 Billion Into Warfare Systems,0.3392212390899658,0.013307793065905571,0.6474709510803223,positive,2025-05-28,2025,5
+15,Article,Uk To Fast Track First New Reservoirs As Water Supply Risks Loom,0.8804935216903687,0.026801597326993942,0.09270495176315308,negative,2025-05-28,2025,5
+16,Article,Watchdog Probes Illegal Use Of Starlink Service In South Africa,0.020677272230386734,0.7350955605506897,0.2442270815372467,neutral,2025-05-28,2025,5
+17,Article,Williams To Revive Disputed Gas Pipeline Projects In New York,0.7036551833152771,0.03198190778493881,0.2643628418445587,negative,2025-05-28,2025,5
+18,Article,Alberta Wildfires Threaten Canada S Oil Sands Output,0.011979777365922928,0.9120637774467468,0.07595636695623398,neutral,2025-05-29,2025,5
+19,Article,Amazon Owned Blink Debuts 70 Doorbell Cam With Wider View Person Detection,0.07618004828691483,0.011825207620859146,0.9119947552680969,positive,2025-05-29,2025,5
+20,Article,Australia S Gas Sector Scores Win In Wider Push To Ease Red Tape,0.923082172870636,0.027318177744746208,0.04959968850016594,negative,2025-05-29,2025,5
+21,Article,Best Buy Falls After Trimming Outlook On Hit From Tariffs,0.04806017503142357,0.9241679906845093,0.027771785855293274,neutral,2025-05-29,2025,5
+22,Article,Booming Used Car Demand Spells Bad News For Auto Trader Shares,0.010783256962895393,0.9674939513206482,0.02172277122735977,neutral,2025-05-29,2025,5
+23,Article,Carlyle S Dainese Seeks To Renegotiate Its Debt As Losses Soar,0.15103618800640106,0.7573875784873962,0.09157618880271912,neutral,2025-05-29,2025,5
+24,Article,China Probes Former Food And Drug Authority Chief For Violation Mb9Ep0U5,0.01730562373995781,0.8943182826042175,0.08837611228227615,neutral,2025-05-29,2025,5
+25,Article,China S Steel Output Cuts Could Intensify Coking Coal S Plunge,0.1990322768688202,0.7329920530319214,0.06797570735216141,neutral,2025-05-29,2025,5
+26,Article,China Set To Reach Peak Emissions Before 2030 Ex Official Says,0.1823621243238449,0.015274304896593094,0.8023635149002075,positive,2025-05-29,2025,5
+27,Article,Czech Election Frontrunners Prepare State Buyout Of Cez Utility,0.19348479807376862,0.05763425678014755,0.7488809823989868,positive,2025-05-29,2025,5
+28,Article,Drought Declared To Protect Northwest England Water Supplies,0.03373994305729866,0.34522074460983276,0.6210393309593201,positive,2025-05-29,2025,5
+29,Article,Elon Musk S Doge Exit Won T Stop Pain From Federal Layoffs,0.03141256421804428,0.9141704440116882,0.05441693961620331,neutral,2025-05-29,2025,5
+30,Article,Eu To Propose New Climate Goal With Greater Flexibility In July,0.534327507019043,0.010288897901773453,0.45538365840911865,negative,2025-05-29,2025,5
+31,Article,European Gas Edges Higher As Traders Weigh Court S Tariff Ruling,0.5732681751251221,0.2905624210834503,0.13616938889026642,negative,2025-05-29,2025,5
+32,Article,Extreme Heat Warning Hits California As Temperatures To Soar Above 100F,0.20430094003677368,0.3007129430770874,0.4949861764907837,neutral,2025-05-29,2025,5
+33,Article,Exxon To Operate Guyana Business As Usual If It Loses Chevron Hess Arbitration,0.04711085185408592,0.09866756200790405,0.8542215824127197,positive,2025-05-29,2025,5
+34,Article,Farmers Press Trump For Biofuels Boost To Counter Tariff Losses,0.8394208550453186,0.033118899911642075,0.12746022641658783,negative,2025-05-29,2025,5
+35,Article,Foot Locker Delivers Sales Miss Ahead Of Dick S Sporting Goods Acquisition,0.21356788277626038,0.20011772215366364,0.5863143801689148,positive,2025-05-29,2025,5
+36,Article,Gold Falls For Fourth Day As Us Court Blocks Trump Tariffs,0.11030641943216324,0.7781631350517273,0.11153046041727066,neutral,2025-05-29,2025,5
+37,Article,Goldman Urges Investors To Buy Gold And Oil As Long Term Hedges,0.17410233616828918,0.009744418784976006,0.8161532282829285,positive,2025-05-29,2025,5
+38,Article,Hefty Cut In Polish Gas Tariffs Stokes Rate Easing Prospects,0.9205335974693298,0.03421374782919884,0.045252684503793716,negative,2025-05-29,2025,5
+39,Article,How A Shortage Of Transformers Threatens Electricity Supply,0.024707181379199028,0.6678065657615662,0.3074862062931061,neutral,2025-05-29,2025,5
+40,Article,Indonesia Summons Singapore Oil Traders In Pertamina Graft Probe,0.058464985340833664,0.6669376492500305,0.2745974063873291,neutral,2025-05-29,2025,5
+41,Article,Jpmorgan Sees Asia Deals On The Horizon In Volatile Markets,0.0473792590200901,0.9066632390022278,0.0459575317800045,neutral,2025-05-29,2025,5
+42,Article,Kazakhs Mull Building Karachaganak Gas Plant By Themselves,0.028701504692435265,0.06258673965930939,0.9087117314338684,positive,2025-05-29,2025,5
+43,Article,Kazakhstan Cannot Cut Oil Production Energy Minister Says,0.03161383047699928,0.8259186744689941,0.14246754348278046,neutral,2025-05-29,2025,5
+44,Article,Kohl S Beats Expectations In Wake Of Dramatic Ceo Firing,0.10779029875993729,0.85028076171875,0.041928987950086594,neutral,2025-05-29,2025,5
+45,Article,Li Auto Second Quarter Sales Set To Disappoint Amid Ev Price War,0.024300578981637955,0.955353319644928,0.020346174016594887,neutral,2025-05-29,2025,5
+46,Article,Libya Faces New Oil Shutdown Threat After Gunmen Storm Hq,0.02209983766078949,0.9416252374649048,0.036274828016757965,neutral,2025-05-29,2025,5
+47,Article,Morgan Stanley Denies Dutch Prosecutor S Tax Evasion Allegations,0.10751830041408539,0.22720487415790558,0.665276825428009,positive,2025-05-29,2025,5
+48,Article,Musk Departs Doge Leaving Cost Cutting Effort S Legacy In Doubt,0.0377466045320034,0.3706558048725128,0.5915976166725159,positive,2025-05-29,2025,5
+49,Article,New York Times Agrees To License Content To Amazon For Ai Use,0.46485868096351624,0.01141532976180315,0.5237259864807129,positive,2025-05-29,2025,5
+50,Article,Northrop Grumman Invests In Defense Focused Firefly Aerospace,0.13544431328773499,0.007883175276219845,0.856672465801239,positive,2025-05-29,2025,5
+51,Article,Ntt Docomo Seeks To Buy Sbi S Net Bank To Stem Customer Flight,0.2946815490722656,0.01211207639425993,0.6932064294815063,positive,2025-05-29,2025,5
+52,Article,Opec S Real Oil Supply Hikes Could Be Less Than Advertised,0.20654474198818207,0.3901229202747345,0.40333232283592224,neutral,2025-05-29,2025,5
+53,Article,Podcast How Josh Harris Turned Around The Washington Commanders,0.07224440574645996,0.029423734173178673,0.898331880569458,positive,2025-05-29,2025,5
+54,Article,Rbnz Governor Hawkesby Says July Rate Cut Is Not A Done Deal,0.06695340573787689,0.6744938492774963,0.25855275988578796,neutral,2025-05-29,2025,5
+55,Article,Rfk Jr Slams Medical Journals Floats In House Publishing Plan,0.05688907578587532,0.01296812854707241,0.9301427602767944,positive,2025-05-29,2025,5
+56,Article,Saudi Aramco Boss Will Keep Borrowing As Oil Slump Cuts Cashflow,0.04583724960684776,0.8824469447135925,0.07171577960252762,neutral,2025-05-29,2025,5
+57,Article,Solar Firm Zeo Buying Heliogen In Bid To Power Data Centers,0.5387802124023438,0.017773650586605072,0.44344615936279297,negative,2025-05-29,2025,5
+58,Article,South Africa Poised For Interest Rate Cut To Bolster Economy,0.7351237535476685,0.14238759875297546,0.12248867750167847,negative,2025-05-29,2025,5
+59,Article,South Africa S Eff Asks Court To Stop Proposed Fuel Levy Hike,0.025178801268339157,0.7290577292442322,0.24576349556446075,neutral,2025-05-29,2025,5
+60,Article,Spain S Iberdrola Endesa Aim To Extend Nuclear Plant Lifespan,0.5638822317123413,0.008563761599361897,0.42755401134490967,negative,2025-05-29,2025,5
+61,Article,Starmer To Accuse Farage Of Truss Style Fantasy Economic Plans,0.034776054322719574,0.7611801028251648,0.20404377579689026,neutral,2025-05-29,2025,5
+62,Article,Taiwan Says Us Trade Deal Push Continues Despite Court Ruling,0.899592936038971,0.04597024619579315,0.05443671718239784,negative,2025-05-29,2025,5
+63,Article,Taiwan Will Send Delegation To Alaska Lng Talks Next Week,0.14292126893997192,0.012632710859179497,0.8444459438323975,positive,2025-05-29,2025,5
+64,Article,Telefonica Chairman S M A Ambitions Face Old Debt Challenges,0.0390353687107563,0.8625628352165222,0.09840185195207596,neutral,2025-05-29,2025,5
+65,Article,Top Thai Wind Power Firm To Fund 2 Billion Of Spending With Ipo,0.7295511364936829,0.007982656359672546,0.2624661922454834,negative,2025-05-29,2025,5
+66,Article,Toyota Sales Hit Second Monthly Record On Us Demand Tariff Rush,0.9044467806816101,0.036642760038375854,0.05891052260994911,negative,2025-05-29,2025,5
+67,Article,Toyota To Sell Seven Ev Models In Us Send Surplus Cars Overseas,0.4714183509349823,0.010752610862255096,0.5178290009498596,positive,2025-05-29,2025,5
+68,Article,Trump S Trade Strategy Upended After Court Blocks Global Tariffs,0.11831715703010559,0.8207305073738098,0.060952361673116684,neutral,2025-05-29,2025,5
+69,Article,Trump Sees Iran Deal That Allows Us To Destroy Nuclear Sites,0.5691471099853516,0.01532268151640892,0.41553017497062683,negative,2025-05-29,2025,5
+70,Article,Trump Xi Truce Under Fire As China Hawks Target Students Tech,0.054169364273548126,0.7776244878768921,0.1682060956954956,neutral,2025-05-29,2025,5
+71,Article,Uae S Flagship Crude Oil Sees Record Volume As Opec Adds Supply,0.9082940816879272,0.01979934424161911,0.07190657407045364,negative,2025-05-29,2025,5
+72,Article,Uk Gas Generation Plunges As Wind Surge Turns Prices Negative,0.008236313238739967,0.9685604572296143,0.023203227669000626,neutral,2025-05-29,2025,5
+73,Article,United Signs Partnership With Jetblue Bolstering Nyc Presence,0.9480494856834412,0.014482542872428894,0.03746791556477547,negative,2025-05-29,2025,5
+74,Article,Us Economy Shrinks 0 2 On Weaker Spending Larger Trade Impact,0.016339736059308052,0.9688173532485962,0.014842976815998554,neutral,2025-05-29,2025,5
+75,Article,Vinfast In Talks For 200 Million Loan Ahead Of India Debut,0.21010643243789673,0.010684734210371971,0.7792088389396667,positive,2025-05-29,2025,5
+76,Article,Why Poland S Election Runoff Is Key Test For Maga Populism In Europe,0.12302768230438232,0.018012607470154762,0.8589596748352051,positive,2025-05-29,2025,5
+77,Article,Zambia Inflation Slows To 11 Month Low As Food Prices Ease,0.04836650192737579,0.9112694263458252,0.04036414250731468,neutral,2025-05-29,2025,5

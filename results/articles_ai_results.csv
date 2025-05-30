@@ -1,0 +1,495 @@
+original_index,text_column,text,negative,neutral,positive,sentiment,date,year,month
+0,Article,Ai Can Write But Is It Any Good At Picking Stocks Quicktake,0.056116290390491486,0.027710147202014923,0.9161735773086548,positive,2023-07-17,2023,7
+1,Article,Why Artificial Intelligence Is So Expensive,0.032591260969638824,0.11768006533384323,0.8497286438941956,positive,2024-04-30,2024,4
+2,Article,Deepseek Ai Platform Brings A 1 Trillion Market Reckoning On Cost,0.3719741702079773,0.017243608832359314,0.6107822060585022,positive,2025-01-28,2025,1
+3,Article,Abu Dhabi Forms 25 Billion Us Energy Venture To Power Ai,0.1968674510717392,0.007613465189933777,0.7955191135406494,positive,2025-03-19,2025,3
+4,Article,Ai Cloud Firm Coreweave Seeking Ipo Of About 2 5 Billion,0.10682377964258194,0.009445814415812492,0.8837304711341858,positive,2025-03-19,2025,3
+5,Article,Chinese Ai Startup Manycore Makes Global Push Amid Us Tensions,0.6899075508117676,0.05619196221232414,0.2539004385471344,negative,2025-03-19,2025,3
+6,Article,Ai Pioneer Sees Handful Of Models Surviving Us China Shakeout,0.18766279518604279,0.02764003723859787,0.7846972346305847,positive,2025-03-20,2025,3
+7,Article,Apple Vision Pro Chief Mike Rockwell Named Siri Head Giannandrea Keeps Ai Role,0.035458292812108994,0.057676415890455246,0.9068652391433716,positive,2025-03-20,2025,3
+8,Article,How Microsoft Lured Inflection Ai S Staff To Abandon The Startup,0.03390767052769661,0.12280344218015671,0.8432888984680176,positive,2025-03-20,2025,3
+9,Article,Measuring Ai S Effects On Productivity Is Tough Here S Why,0.0371667705476284,0.18921121954917908,0.7736220359802246,positive,2025-03-20,2025,3
+10,Article,Micron Gives Upbeat Sales Forecast After Ai Helps Fuel Demand,0.9138100147247314,0.023144131526350975,0.06304585188627243,negative,2025-03-20,2025,3
+11,Article,Nvidia Will Spend Hundreds Of Billions On Chips Made In Us Ft,0.19249844551086426,0.008455666713416576,0.7990458607673645,positive,2025-03-20,2025,3
+12,Article,Perplexity In Early Talks For Funding At 18 Billion Value,0.10311378538608551,0.1869472861289978,0.7099388837814331,positive,2025-03-20,2025,3
+13,Article,Stanford Harvard Grads Seek China Ai Startup Jobs Founder Says,0.10674883425235748,0.03810688853263855,0.8551442623138428,positive,2025-03-20,2025,3
+14,Article,Video The New Magnets That Could Change The World,0.16295389831066132,0.013138290494680405,0.8239078521728516,positive,2025-03-20,2025,3
+15,Article,Ai Chatter Hits Record On European Earnings Calls Across Sectors,0.9059126377105713,0.022706856951117516,0.07138050347566605,negative,2025-03-21,2025,3
+16,Article,Coreweave Ipo Is Said To Be Oversubscribed After First Day,0.012484893202781677,0.8650057911872864,0.12250932306051254,neutral,2025-03-21,2025,3
+17,Article,Elon Musk Asks Tesla Employees To Hang On To Stock Despite 40 Drop,0.06373324245214462,0.043927598744630814,0.8923391103744507,positive,2025-03-21,2025,3
+18,Article,How Ai Fake Nudes Turned Levittown Into Deepfake Battlefield Podcast,0.036713555455207825,0.056475017219781876,0.9068114757537842,positive,2025-03-21,2025,3
+19,Article,Meituan S Revenue Jumps 20 In A Boost For Global Expansion,0.9490618705749512,0.02089734934270382,0.030040841549634933,negative,2025-03-21,2025,3
+20,Article,Nvidia Death Cross Has Traders On High Alert As Momentum Withers,0.4538573920726776,0.4287455081939697,0.11739712953567505,neutral,2025-03-21,2025,3
+21,Article,Openai Study Finds Links Between Chatgpt Use And Loneliness,0.1700771450996399,0.01647895947098732,0.8134438395500183,positive,2025-03-21,2025,3
+22,Article,Tencent Upgrades Deepseek Style Reasoning Model In Ai Catch Up,0.3474102020263672,0.01042365375906229,0.6421661972999573,positive,2025-03-21,2025,3
+23,Article,Uae To Pledge 1 4 Trillion Us Investment After Trump Meeting,0.8089688420295715,0.009526188485324383,0.1815049946308136,negative,2025-03-21,2025,3
+24,Article,What Does Trump Want Understanding A New Type Of Us China Rivalry Podcast,0.05984509363770485,0.032755788415670395,0.9073991179466248,positive,2025-03-21,2025,3
+25,Article,Levittown Victim Of Deepfake Porn Hunts For Her Harasser Online,0.052903756499290466,0.5937108993530273,0.3533852994441986,neutral,2025-03-22,2025,3
+26,Article,Openai Meta Seek Alliance With India S Reliance Information,0.8019445538520813,0.007067510858178139,0.19098784029483795,negative,2025-03-22,2025,3
+27,Article,New Zealand Sleuths Track Harassers To A Site With Global Reach Podcast,0.03267474099993706,0.08769503235816956,0.8796302676200867,positive,2025-03-23,2025,3
+28,Article,Ai Chip Startup Furiosaai Rejects Meta S 800 Million Offer,0.03626072034239769,0.7699394226074219,0.19379986822605133,neutral,2025-03-24,2025,3
+29,Article,Ai Model Driving Top Ranked Fund Flashes A Warning On Ai Stocks,0.01961696520447731,0.8022340536117554,0.17814897000789642,neutral,2025-03-24,2025,3
+30,Article,Britain Needs Ai To Break Out Of Slow Growth Trap Bailey Says,0.5937113165855408,0.07880379259586334,0.3274848461151123,negative,2025-03-24,2025,3
+31,Article,Fermaca Courts Banks For 3 7 Billion Bet On Data Fertilizers,0.10775730013847351,0.052939075976610184,0.8393036127090454,positive,2025-03-24,2025,3
+32,Article,Google Wants To Transform Search With Generative Ai To Rival Chatgpt,0.3535420000553131,0.007638200651854277,0.6388197541236877,positive,2025-03-24,2025,3
+33,Article,Jack Ma Backed Ant Touts Ai Breakthrough Built On Chinese Chips,0.39914470911026,0.0626668855547905,0.5381884574890137,positive,2025-03-24,2025,3
+34,Article,Major Startup Acquisitions Surge To 55 Billion Crushing Records,0.8373839855194092,0.020010802894830704,0.14260515570640564,negative,2025-03-24,2025,3
+35,Article,Malaysia To Tighten Nvidia Chip Flows After Us Pressure Ft Says,0.430684357881546,0.49373748898506165,0.07557809352874756,neutral,2025-03-24,2025,3
+36,Article,Netflix S Hastings Gives 50 Million To Bowdoin For Ai Program,0.14050710201263428,0.010177836753427982,0.8493150472640991,positive,2025-03-24,2025,3
+37,Article,Nvidia Tapped By Strive Masiyiwa To Build First Ai Factory In Africa,0.7514631152153015,0.008001427166163921,0.24053546786308289,negative,2025-03-24,2025,3
+38,Article,Openai Expands Coo S Role As Altman Focuses More On Products,0.16599354147911072,0.009009265340864658,0.8249972462654114,positive,2025-03-24,2025,3
+39,Article,Uk Ai Startup Fyxer Gets Funds From Benioff Other Tech Bigwigs,0.2534024715423584,0.017048941925168037,0.7295485734939575,positive,2025-03-24,2025,3
+40,Article,Alibaba S Tsai Warns Of A Bubble In Ai Datacenter Buildout,0.017616834491491318,0.9528067708015442,0.02957642450928688,neutral,2025-03-25,2025,3
+41,Article,Altman Backed Oklo Sees Trump Cutting Red Tape For Nuclear Power,0.48516321182250977,0.19853174686431885,0.3163050413131714,neutral,2025-03-25,2025,3
+42,Article,Chatgpt Can Now Edit Photos Better And Create Charts For Work,0.14987918734550476,0.009611330926418304,0.8405094742774963,positive,2025-03-25,2025,3
+43,Article,China Floods The World With Ai Models After Deepseek S Success,0.1056566834449768,0.21923337876796722,0.6751099228858948,positive,2025-03-25,2025,3
+44,Article,China S Deepseek Unveils Latest Update In Race With Openai,0.18684139847755432,0.01618230901658535,0.7969763278961182,positive,2025-03-25,2025,3
+45,Article,Tech Chiefs Foreign Leaders Urge Trump To Rethink Ai Chip Curbs,0.2813485860824585,0.19704501330852509,0.5216064453125,positive,2025-03-25,2025,3
+46,Article,Tencent Backed Kuaishou Pledges Ai Efforts As Sales Growth Slows,0.06639739125967026,0.8338466286659241,0.09975595772266388,neutral,2025-03-25,2025,3
+47,Article,Alibaba Debuts Ai Model That Can Process Video Audio On Phones,0.2179003357887268,0.008274628780782223,0.7738249897956848,positive,2025-03-26,2025,3
+48,Article,Alibaba Teams Up With Bmw To Develop Ai For Cars In China,0.7403165698051453,0.00772334448993206,0.25196006894111633,negative,2025-03-26,2025,3
+49,Article,Apple Ceo Visits Deepseek S Hometown During China Ai Revival,0.05699068680405617,0.0373852476477623,0.9056240320205688,positive,2025-03-26,2025,3
+50,Article,Catastrophe Experts Tap Ai To Tackle Soaring Insurance Losses,0.21516089141368866,0.01790936291217804,0.7669296860694885,positive,2025-03-26,2025,3
+51,Article,China S Tech Stocks Need More Than Just Ai Hype To Extend Rally,0.4163718819618225,0.013192150741815567,0.5704360008239746,positive,2025-03-26,2025,3
+52,Article,French Tax Authorities Are Using Ai To Clamp Down On Tax Fraud,0.01798284612596035,0.7798948884010315,0.2021222710609436,neutral,2025-03-26,2025,3
+53,Article,Microsoft Abandons More Data Center Projects Td Cowen Says,0.02351381815969944,0.7028748989105225,0.27361124753952026,neutral,2025-03-26,2025,3
+54,Article,Openai Close To Finalizing Its 40 Billion Softbank Led Funding,0.19232453405857086,0.012228111736476421,0.7954473495483398,positive,2025-03-26,2025,3
+55,Article,Openai Expects Revenue Will Triple To 12 7 Billion This Year,0.9444247484207153,0.014372439123690128,0.0412028506398201,negative,2025-03-26,2025,3
+56,Article,Sensetime Loss Worse Than Expected As Ai Race Heats Up,0.026488544419407845,0.9582063555717468,0.015305071137845516,neutral,2025-03-26,2025,3
+57,Article,Britain S Data Centers And A Century Old Mill Have Better Backup Than Heathrow,0.6749325394630432,0.011926436796784401,0.3131411373615265,negative,2025-03-27,2025,3
+58,Article,Coreweave Is Said Planning To Cut Ipo Size To 1 5 Billion M8Rd0X7C,0.026883233338594437,0.7497958540916443,0.22332091629505157,neutral,2025-03-27,2025,3
+59,Article,House Revives Bid To Scrutinize Foreign Funding To Colleges,0.34514370560646057,0.0429203025996685,0.6119360327720642,positive,2025-03-27,2025,3
+60,Article,Hundreds Of Lloyds Bankers Head Back To School To Learn Ai,0.05198129266500473,0.10015618056058884,0.8478625416755676,positive,2025-03-27,2025,3
+61,Article,Labour Pledges To Fix Uk S Broken Defense Process For Startups,0.6604223251342773,0.01963338814675808,0.31994423270225525,negative,2025-03-27,2025,3
+62,Article,Meta S Asia Pacific Chief Quits After A Decade Long Growth Spurt,0.01796615496277809,0.8264888525009155,0.15554498136043549,neutral,2025-03-27,2025,3
+63,Article,Related Aims To Raise Up To 8 Billion For Ai Data Center Bet,0.5378174781799316,0.0077392770908772945,0.45444321632385254,negative,2025-03-27,2025,3
+64,Article,Video Why The Human Brain May Power The Next Tech Revolution,0.07049601525068283,0.02372494339942932,0.9057790040969849,positive,2025-03-27,2025,3
+65,Article,Confession Over Deepfakes Raises Question What S The Crime Podcast,0.04134891927242279,0.13851116597652435,0.8201399445533752,positive,2025-03-28,2025,3
+66,Article,Coreweave S Debut Dud Extends Ipo Malaise Instead Of Ending It,0.03331221267580986,0.8736981153488159,0.0929897353053093,neutral,2025-03-28,2025,3
+67,Article,Delta Thailand Becomes Asia S Worst Stock After 30 Billion Rout,0.015392201952636242,0.9514280557632446,0.033179767429828644,neutral,2025-03-28,2025,3
+68,Article,Musk Says That His Xai Startup Has Acquired X For 33 Billion,0.06272641569375992,0.010416167788207531,0.9268573522567749,positive,2025-03-28,2025,3
+69,Article,Softbank May Pledge 1 Trillion For Ai Effort In Us Nikkei Says,0.7256048321723938,0.013412568718194962,0.26098257303237915,negative,2025-03-28,2025,3
+70,Article,How Redditors Swarmed A Porn Harassment Site Podcast,0.03254465386271477,0.39450421929359436,0.572951078414917,positive,2025-03-29,2025,3
+71,Article,Cheap Fast Deepfake Apps Move Faster Than The Law Podcast,0.16500096023082733,0.012870020233094692,0.8221290111541748,positive,2025-03-30,2025,3
+72,Article,Chinese Stocks Power Ahead Of Emerging Peers Amid Ai Frenzy,0.5957622528076172,0.34810489416122437,0.05613278970122337,negative,2025-03-30,2025,3
+73,Article,Samsung S Ai Fridges Can Find Misplaced Phones Adjust Aircons,0.025515111163258553,0.5220500826835632,0.4524347484111786,neutral,2025-03-30,2025,3
+74,Article,Alphabet S Ai Drug Unit Raises 600 Million From Openai Backer,0.6932840347290039,0.008972103707492352,0.29774385690689087,negative,2025-03-31,2025,3
+75,Article,Brendan Iribe S Ai Voice Startup Sesame Is In Talks For Sequoia Backing,0.05906377732753754,0.014711164869368076,0.9262250065803528,positive,2025-03-31,2025,3
+76,Article,Chatbot Aggregator Wrtn Gets Funding In Latest Korea Ai Deal,0.3640390634536743,0.012598351575434208,0.6233624815940857,positive,2025-03-31,2025,3
+77,Article,China S Manus Turns Its Ai Agent Into A 39 Subscription,0.04573275148868561,0.028620339930057526,0.9256468415260315,positive,2025-03-31,2025,3
+78,Article,China S Zhipu Offers Free Ai Agent In Riposte To Deepseek Manus,0.14686676859855652,0.00855546910315752,0.8445777297019958,positive,2025-03-31,2025,3
+79,Article,Chipmaker Cerebras Says Us Signs Off On Uae Ties Ahead Of Ipo,0.7291936874389648,0.03575275093317032,0.23505347967147827,negative,2025-03-31,2025,3
+80,Article,Huawei Posts Surprise Loss After Us Sanctions Spur Tech Research,0.03499603271484375,0.9366969466209412,0.028307026252150536,neutral,2025-03-31,2025,3
+81,Article,Japan Earmarks Another 5 4 Billion For Chip Startup Rapidus,0.6292902827262878,0.012106530368328094,0.35860320925712585,negative,2025-03-31,2025,3
+82,Article,Microsoft Qia Backed Startup Builder Ai Hires Auditors To Probe Inflated Sales,0.0546761229634285,0.22104991972446442,0.7242739796638489,positive,2025-03-31,2025,3
+83,Article,Musk S Xai Deal Offers An Unexpected Win For X Investors,0.9423749446868896,0.013484608381986618,0.04414043202996254,negative,2025-03-31,2025,3
+84,Article,Openai Finalizes 40 Billion Funding At 300 Billion Valuation,0.07994397729635239,0.010983705520629883,0.9090722799301147,positive,2025-03-31,2025,3
+85,Article,Runway S New Ai Tool Challenges Openai S Sora With More Cohesive Videos,0.8641291260719299,0.007201329804956913,0.12866944074630737,negative,2025-03-31,2025,3
+86,Article,Sempra Explores Sale Of Mexican Gas Assets Minority Lng Stake,0.08307904005050659,0.010171886533498764,0.9067491292953491,positive,2025-03-31,2025,3
+87,Article,Alibaba Preparing For Flagship Ai Model Release As Soon As April,0.043813738971948624,0.01375607680529356,0.9424301981925964,positive,2025-01-04,2025,1
+88,Article,How Meta S Upcoming 1000 Smart Glasses With A Screen Will Work,0.06751558184623718,0.011813081800937653,0.920671284198761,positive,2025-01-04,2025,1
+89,Article,Japan S Rapidus Starts Test Production In Ai Chipmaking Gamble,0.26827195286750793,0.012502041645348072,0.719226062297821,positive,2025-01-04,2025,1
+90,Article,Lagarde Sees Danger That Ai Could Breed Inequality In Europe,0.020421987399458885,0.8992906212806702,0.0802873894572258,neutral,2025-01-04,2025,1
+91,Article,Meta S Head Of Ai Research To Leave Roiling Investment Push,0.02090539038181305,0.7958565950393677,0.18323799967765808,neutral,2025-01-04,2025,1
+92,Article,Softbank Seeks Record 16 5 Billion Loan For Ai Projects In Us,0.751439094543457,0.009107118472456932,0.23945379257202148,negative,2025-01-04,2025,1
+93,Article,Tinder Unveils Playful Ai Chatbots In Bid To Boost Engagement,0.755342960357666,0.015479969792068005,0.22917704284191132,negative,2025-01-04,2025,1
+94,Article,Ultragreen Ai Is Said To Mull Up To 300 Million Ipo In Singapore,0.04858610779047012,0.01827120967209339,0.9331426620483398,positive,2025-01-04,2025,1
+95,Article, Vibecoding Leader Replit In Talks For 3 Billion Valuation,0.13807152211666107,0.009619149379432201,0.8523094058036804,positive,2025-02-04,2025,2
+96,Article,Ai Beats Traditional Weather Models In Forecasting Wildfires,0.23459197580814362,0.009923003613948822,0.7554849982261658,positive,2025-02-04,2025,2
+97,Article,Ai Data Center Planned For Old Coal Plant Site In Pennsylvania,0.0553390271961689,0.01784500665962696,0.9268159866333008,positive,2025-02-04,2025,2
+98,Article,Amazon Submits Bid For Tiktok With Us Sale Deadline Approaching,0.10573606193065643,0.011488704942166805,0.8827752470970154,positive,2025-02-04,2025,2
+99,Article,Consulting Giant Bcg Hires 1 000 Staffers Amid Boom In Ai Work,0.7627016305923462,0.05573808029294014,0.18156032264232635,negative,2025-02-04,2025,2
+100,Article,Scale Ai Expects To More Than Double Sales To 2 Billion In 2025,0.8990356922149658,0.009869950823485851,0.09109438955783844,negative,2025-02-04,2025,2
+101,Article,Smbc Fujitsu To Partner On Ai Driven Forecasting Services,0.33265790343284607,0.0073081739246845245,0.6600339412689209,positive,2025-02-04,2025,2
+102,Article,What Is The Us Chips Act How Does Trump Want To Change It As He Eyes Tariffs,0.033129867166280746,0.03312090039253235,0.933749258518219,positive,2025-02-04,2025,2
+103,Article,Ai Video Startup Runway Valued At 3 Billion In Funding Round,0.28840887546539307,0.007748440373688936,0.7038426399230957,positive,2025-03-04,2025,3
+104,Article,Airtrunk Seeks 1 7 Billion Loan To Build Singapore Data Centers,0.7006687521934509,0.007543448358774185,0.29178786277770996,negative,2025-03-04,2025,3
+105,Article,Gv Lightspeed Funding Deal Lifts Redpanda To Unicorn Valuation,0.9234985113143921,0.014051592908799648,0.062449861317873,negative,2025-03-04,2025,3
+106,Article,Microsoft Pulls Back On Data Centers From Chicago To Jakarta,0.010057283565402031,0.9169530272483826,0.07298970222473145,neutral,2025-03-04,2025,3
+107,Article,Us Energy Chief Plans To Use Federal Land To Build Data Centers,0.1365152895450592,0.008260478265583515,0.8552242517471313,positive,2025-03-04,2025,3
+108,Article,Check Point Ceo Vows Calculated Risks To Take On Cyber Rivals,0.07006765902042389,0.07484611123800278,0.8550862073898315,positive,2025-04-04,2025,4
+109,Article,Execs Are Getting Specialized Business Degrees In The Swiss Alps,0.13762259483337402,0.014816110953688622,0.8475612998008728,positive,2025-04-04,2025,4
+110,Article,Fed S Barr Sees Banks Pushed To Adopt Ai Faster By Fintech Firms,0.689682126045227,0.05246927589178085,0.2578486204147339,negative,2025-04-04,2025,4
+111,Article,Gerko S Xtx Markets Mints 3 53 Billion On Global Trading Surge,0.09717074036598206,0.016583062708377838,0.8862461447715759,positive,2025-04-04,2025,4
+112,Article,Meta Wisconsin Data Center To Cost Nearly 1 Billion,0.1402624547481537,0.017438512295484543,0.8422990441322327,positive,2025-04-04,2025,4
+113,Article,Microsoft To Let Consumers Tailor Ai Assistant To Their Needs,0.1583821177482605,0.008514557965099812,0.8331032991409302,positive,2025-04-04,2025,4
+114,Article,Podcast Why This Is China S Year In Markets,0.12441890686750412,0.08115054666996002,0.7944305539131165,positive,2025-04-04,2025,4
+115,Article,Tesla S Head Of Software Engineering Is Said To Depart Ev Maker,0.02017754688858986,0.3465037941932678,0.6333186626434326,positive,2025-04-04,2025,4
+116,Article,Nvidia Partner Hon Hai S Sales Surge With Data Center Boom,0.9341111779212952,0.026708640158176422,0.0391802117228508,negative,2025-05-04,2025,5
+117,Article,Meta Announces Release Of New Llama 4 Ai Models,0.32864177227020264,0.01314705889672041,0.6582111716270447,positive,2025-06-04,2025,6
+118,Article,Cursor An Ai Coding Assistant Draws A Million Users Without Even Trying,0.035807304084300995,0.02349819242954254,0.9406944513320923,positive,2025-07-04,2025,7
+119,Article,Deepseek And Tsinghua Developing Self Improving Ai Models,0.7734723687171936,0.007837893441319466,0.2186897248029709,negative,2025-07-04,2025,7
+120,Article,Ex Goldman Banker Who Worked On Chips Program Will Run Ai Firm,0.03706899285316467,0.019969500601291656,0.9429615139961243,positive,2025-07-04,2025,7
+121,Article,Google Ai Search Shift Leaves Website Makers Feeling Betrayed,0.009288229048252106,0.9637289643287659,0.026982853189110756,neutral,2025-07-04,2025,7
+122,Article,Microsoft Fires Employees Who Protested During 50Th Anniversary,0.011958354152739048,0.934761643409729,0.05328001081943512,neutral,2025-07-04,2025,7
+123,Article,Nvidia Cassava S Ai Factory In Africa Tie Up To Cost 720 Million,0.27410954236984253,0.008213034830987453,0.7176774740219116,positive,2025-07-04,2025,7
+124,Article,Samsung Profit Beats Expectations On Solid Demand For New Galaxy,0.9401319026947021,0.031499799340963364,0.028368379920721054,negative,2025-07-04,2025,7
+125,Article,Vc Firm Signalfire Raises 1 Billion Will Let Ai Help Pick Investments,0.16291287541389465,0.009486550465226173,0.8276005387306213,positive,2025-07-04,2025,7
+126,Article,Alibaba Upgrades International Ai Tools With Latest Qwen Models,0.702407956123352,0.011104686185717583,0.2864873707294464,negative,2025-08-04,2025,8
+127,Article,Altman Backed Praxis Scouts Kyiv Athens For Tech Utopia Base,0.31802839040756226,0.009493790566921234,0.6724778413772583,positive,2025-08-04,2025,8
+128,Article,Fintech Entrepreneur Launches Ai Fueled Financial Assistant Hiro,0.1123187467455864,0.09914759546518326,0.7885336875915527,positive,2025-08-04,2025,8
+129,Article,Hackers Hit Czech Premier With Fake Post On Army Under Attack,0.015089143998920918,0.8944904804229736,0.09042040258646011,neutral,2025-08-04,2025,8
+130,Article,Helsing Europe S Most Valuable Defense Tech Company Is Facing Allegations From,0.01307232677936554,0.9436004757881165,0.04332722723484039,neutral,2025-08-04,2025,8
+131,Article,Ibm Launches New Mainframe In Bet That Some Data Stays Local,0.5727131366729736,0.021143227815628052,0.4061436653137207,negative,2025-08-04,2025,8
+132,Article,Toronto S Tailscale Hits 1 5 Billion Valuation With New Funding,0.8596799969673157,0.010153568349778652,0.1301664113998413,negative,2025-08-04,2025,8
+133,Article,Trump Order Seeks To Tap Coal Power In Quest To Dominate Ai,0.13310736417770386,0.013772992417216301,0.8531196713447571,positive,2025-08-04,2025,8
+134,Article,Anthropic To Offer 200 Monthly Claude Chatbot Subscription,0.07198228687047958,0.010306800715625286,0.9177109003067017,positive,2025-09-04,2025,9
+135,Article,Google To Help Developers Make Their Own Ai Agents In Cloud Push,0.16184090077877045,0.009254761971533298,0.8289043307304382,positive,2025-09-04,2025,9
+136,Article,Hon Hai Makes Case To Build Evs For Japan S Automobile Industry,0.28747987747192383,0.008339788764715195,0.7041802406311035,positive,2025-09-04,2025,9
+137,Article,Meta Whistleblower To Tell Congress That Company Aided China In Ai Race,0.08670411258935928,0.10063184797763824,0.8126640915870667,positive,2025-09-04,2025,9
+138,Article,Samsung Google Partner On Ballie Home Ai Robot With Video Projector After Delay,0.23903048038482666,0.010173002257943153,0.7507964968681335,positive,2025-09-04,2025,9
+139,Article,Top Malaysian Phone Firm Is Said To Seek Adviser For Edotco Sale,0.10500472038984299,0.011592000722885132,0.8834032416343689,positive,2025-09-04,2025,9
+140,Article,Uk Regulators Eye Wall Street S Use Of Ai On Trading Floors,0.01854546368122101,0.6838578581809998,0.29759669303894043,neutral,2025-09-04,2025,9
+141,Article,Us Government Employs Ai To Analyze Worker Personnel Files,0.028518186882138252,0.05247114598751068,0.9190106391906738,positive,2025-09-04,2025,9
+142,Article,Ai Chipmaking Emissions Surged Fourfold In 2024 Greenpeace Says,0.924087643623352,0.01264524832367897,0.06326712667942047,negative,2025-10-04,2025,10
+143,Article,Ai Data Center Growth Means More Coal And Gas Plants Iea Says,0.6931667327880859,0.010569600388407707,0.2962636649608612,negative,2025-10-04,2025,10
+144,Article,Canva Bets On New Creative Ai Offerings In Contest With Adobe,0.6781798005104065,0.01554723922163248,0.30627304315567017,negative,2025-10-04,2025,10
+145,Article,Elon Musk Taking Tesla To Saudi Arabia Puts Funding Secured Feud To Rest,0.4011756181716919,0.03980665281414986,0.5590177178382874,positive,2025-10-04,2025,10
+146,Article,Indian Startup Unveils System To Run Ai Without Advanced Chips,0.24037745594978333,0.01075795479118824,0.7488645911216736,positive,2025-10-04,2025,10
+147,Article,Nissan Taps Softbank Backed Startup Wayve For Ai Driving System,0.3127499222755432,0.009608706459403038,0.6776413917541504,positive,2025-10-04,2025,10
+148,Article,Ntt Throws Hat Into Ai Chip Race And Targets Drone Footage Tech,0.032786596566438675,0.16926880180835724,0.7979446053504944,positive,2025-10-04,2025,10
+149,Article,Openai S Altman Won T Rule Out Helping Pentagon On Ai Weapons,0.08410884439945221,0.023210374638438225,0.8926807641983032,positive,2025-10-04,2025,10
+150,Article,Singapore Man Accused Of Chip Fraud Wields Global Connections,0.04399397596716881,0.12222950905561447,0.8337765336036682,positive,2025-10-04,2025,10
+151,Article,Tsmc Sales Beat Estimates As Ai Demand Soars Ahead Of Us Tariffs,0.9461919665336609,0.02759135141968727,0.026216644793748856,negative,2025-10-04,2025,10
+152,Article,Alibaba S Jack Ma Wants Ai To Serve Not Lord Over Humans,0.060164038091897964,0.01817385107278824,0.9216620922088623,positive,2025-11-04,2025,11
+153,Article,Anduril Saronic Saildrone Aim To Bring Drones To The Ocean,0.2442755103111267,0.007284424267709255,0.7484400868415833,positive,2025-11-04,2025,11
+154,Article,Canada Has Answer To Energy Needs In Ai Race Ex Google Ceo Says,0.1550253927707672,0.011188820004463196,0.8337857723236084,positive,2025-11-04,2025,11
+155,Article,Ex Openai Staff Back Musk In Legal Fight To Block Restructuring,0.04930664971470833,0.8506642580032349,0.10002905130386353,neutral,2025-11-04,2025,11
+156,Article,Irish Watchdog To Probe Musk S X Over Data Use For Ai Tool Grok,0.06063985079526901,0.08847319334745407,0.850886881351471,positive,2025-11-04,2025,11
+157,Article,Jim Chanos On Who S Getting Caught Swimming Naked,0.03818925842642784,0.06146486476063728,0.9003458619117737,positive,2025-12-04,2025,12
+158,Article,Ai Stock Analytics Chatbot Bridgewise Expands Into Dubai,0.2967912256717682,0.009629794396460056,0.6935789585113525,positive,2025-04-14,2025,4
+159,Article,Apple To Analyze User Data On Devices To Bolster Ai Technology,0.8058835864067078,0.007415980566293001,0.1867004930973053,negative,2025-04-14,2025,4
+160,Article,Menlo Park Based Energy Startup Nabs 258 Million To Power Data Centers,0.276278018951416,0.007157604675740004,0.7165643572807312,positive,2025-04-14,2025,4
+161,Article,Nvidia Says It Will Build Up To 500 Billion Of Ai Gear In Us,0.5279296040534973,0.008852225728332996,0.463218092918396,negative,2025-04-14,2025,4
+162,Article,Profit Forecasting Chaos Sows Risk As Tech Analysts Wait And See,0.019773920997977257,0.9008651971817017,0.07936087250709534,neutral,2025-04-14,2025,4
+163,Article,Tariffs To Impact Millions Of Chinese Workers In Blow To Economy,0.0440312959253788,0.8338319063186646,0.12213675677776337,neutral,2025-04-14,2025,4
+164,Article,Ai To Prop Up Fossil Fuels And Slow Emissions Decline Bnef Says,0.6931234002113342,0.010230348445475101,0.2966461777687073,negative,2025-04-15,2025,4
+165,Article,Alibaba Backed Ai Startup Zhipu Targets Ipo As Soon As 2025,0.0718240961432457,0.01157207228243351,0.9166038632392883,positive,2025-04-15,2025,4
+166,Article,Anthropic Is Readying A Voice Assistant Feature To Rival Openai,0.1954188197851181,0.008388805203139782,0.7961923480033875,positive,2025-04-15,2025,4
+167,Article,Microsoft Msft Datacenter Pause In Ohio Came In Quick Pivot,0.13300468027591705,0.09358565509319305,0.7734096646308899,positive,2025-04-15,2025,4
+168,Article,Nvidia Says Us Has Imposed New China Restrictions On H20 Chips,0.0194573774933815,0.9081622958183289,0.07238027453422546,neutral,2025-04-15,2025,4
+169,Article,Taiwan Bidders Are Said To Be Circling Amd S Zt Server Assets,0.09694588929414749,0.02459455095231533,0.8784595727920532,positive,2025-04-15,2025,4
+170,Article,Trump Tech Aide Calls For Creative R D Push After Budget Cuts,0.755952000617981,0.030541429296135902,0.21350660920143127,negative,2025-04-15,2025,4
+171,Article,Tsmc Asml Outlooks To Reveal Depths Of Tariff Pain Ai Pullback,0.20782065391540527,0.5613349676132202,0.2308444082736969,neutral,2025-04-15,2025,4
+172,Article,Uk Approves Grid Queue Overhaul In Race To Clean Up Power System,0.45216047763824463,0.10471457242965698,0.4431248903274536,neutral,2025-04-15,2025,4
+173,Article,Us China Trade War Clears Path For Sodium Ion Batteries,0.15054349601268768,0.23379568755626678,0.6156607866287231,positive,2025-04-15,2025,4
+174,Article,Amd Sees 800 Million Charge From Us Export Controls On Ai Chips,0.4293164312839508,0.30663755536079407,0.26404595375061035,neutral,2025-04-16,2025,4
+175,Article,Chapter Ai Medicare Broker Raises 75 Million At 1 5 Billion Valuation,0.1679229587316513,0.02691984549164772,0.8051572442054749,positive,2025-04-16,2025,4
+176,Article,Ev Maker Xpeng Charts Steady Global Expansion Despite Tariff War,0.947748064994812,0.013731804676353931,0.03852008283138275,negative,2025-04-16,2025,4
+177,Article,Fresh Off Napster Buy Infinite Reality To Acquire Ai Startup For 500 Million,0.09235787391662598,0.012241528369486332,0.8954005837440491,positive,2025-04-16,2025,4
+178,Article,Openai Releases New Reasoning Models For Coding And Visual Tasks,0.13191284239292145,0.010190802626311779,0.8578963279724121,positive,2025-04-16,2025,4
+179,Article,Openai Said To Be In Talks To Buy Windsurf For About 3 Billion,0.09022755175828934,0.009588062763214111,0.9001844525337219,positive,2025-04-16,2025,4
+180,Article,Perplexity In Talks To Integrate Assistant Into Samsung Motorola Phones,0.10623807460069656,0.019567091017961502,0.874194860458374,positive,2025-04-16,2025,4
+181,Article,Us Push To Rival China S Humanoid Robots Undercut By Trump S Trade War,0.8642198443412781,0.0891183465719223,0.04666177183389664,negative,2025-04-16,2025,4
+182,Article,Fortress Edgefocus Commit 3 2 Billion For Sofi Personal Loans,0.08490235358476639,0.011536900885403156,0.9035606980323792,positive,2025-04-17,2025,4
+183,Article,Gas Pipeline Billionaire Kinder Dismisses Tariff Ai Concerns,0.06471160054206848,0.6374755501747131,0.2978127896785736,neutral,2025-04-17,2025,4
+184,Article,Google S Ai Overviews Echo Anti Abortion Messaging Report Finds,0.024434134364128113,0.14403128623962402,0.8315345644950867,positive,2025-04-17,2025,4
+185,Article,Nvidia Ceo Visits Beijing After Us Bars Ai Chip Sales To China,0.11678644269704819,0.05597345530986786,0.8272400498390198,positive,2025-04-17,2025,4
+186,Article,Popular Ai Ranking Website Chatbot Arena Is Becoming A Real Company,0.07337593287229538,0.018384335562586784,0.9082396626472473,positive,2025-04-17,2025,4
+187,Article,Tsmc S Profit Beat Estimates In Sign Of Pre Tariffs Order Rush,0.9421236515045166,0.03173152729868889,0.026144899427890778,negative,2025-04-17,2025,4
+188,Article,Uae Sees Progress On Ai Chips Access After 1 4 Trillion Pledge,0.9351614713668823,0.010570776648819447,0.05426781252026558,negative,2025-04-18,2025,4
+189,Article,Zuckerberg Dimon Are Among Top Sellers Ahead Of Tariff Stock Rout,0.2656046748161316,0.017122402787208557,0.7172728776931763,positive,2025-04-20,2025,4
+190,Article,Adani To Grow Data Center Investment By 10 Billion On Ai Demand,0.880400538444519,0.007185331545770168,0.11241410672664642,negative,2025-04-21,2025,4
+191,Article,Big Law Firms Caving To Trump Leaves Students Saddled With Debt Conflicted,0.011380293406546116,0.9528167247772217,0.03580303117632866,neutral,2025-04-21,2025,4
+192,Article,Google Paid Samsung Enormous Sums For Gemini Ai App Installs,0.46263009309768677,0.17828720808029175,0.3590826988220215,neutral,2025-04-21,2025,4
+193,Article,Nvidia Ceo Lobbies Japan For More Power Data Centers To Fuel Ai,0.16737312078475952,0.057706717401742935,0.7749201059341431,positive,2025-04-21,2025,4
+194,Article,Tsmc Warns Of Limits Of Ability To Keep Its Ai Chips From China,0.0295388363301754,0.8637391924858093,0.10672203451395035,neutral,2025-04-21,2025,4
+195,Article,Ai Floods Amazon With Strange Political Books Before Canadian Election,0.02833935245871544,0.24949005246162415,0.7221705913543701,positive,2025-04-22,2025,4
+196,Article,Chatgpt Chief Calls Search Crucial For Openai In Google Trial,0.1489192247390747,0.012526491656899452,0.838554322719574,positive,2025-04-22,2025,4
+197,Article,Google Vp Says Motorola Phones To Add Perplexity Microsoft Ai,0.0714668333530426,0.05877665802836418,0.8697564601898193,positive,2025-04-22,2025,4
+198,Article,Is Tesla In Trouble Why Tsla Stock Price And Sales Are Falling,0.03164634108543396,0.6613940000534058,0.3069596290588379,neutral,2025-04-22,2025,4
+199,Article,Openai Would Buy Google S Chrome Browser Chatgpt Chief Says,0.07746272534132004,0.009929530322551727,0.912607729434967,positive,2025-04-22,2025,4
+200,Article,Sam Altman To Step Down As Chairman Of Nuclear Startup Oklo,0.016071742400527,0.5251262187957764,0.45880207419395447,neutral,2025-04-22,2025,4
+201,Article,Sumitomo Sbi Holdings To Take Stakes In Vietnam S Fpt Ai Unit,0.03962893784046173,0.015889598056674004,0.9444814920425415,positive,2025-04-22,2025,4
+202,Article,Tesla Signals Caution Says It Will Revisit 2025 Growth Outlook,0.13669227063655853,0.03314536437392235,0.8301623463630676,positive,2025-04-22,2025,4
+203,Article,Uk Ai Startup Wayve Makes Japan Debut After Nissan Partnership,0.1580277532339096,0.0547405481338501,0.7872316837310791,positive,2025-04-22,2025,4
+204,Article,Aqr Bets On Machine Learning As Cliff Asness Becomes Ai Believer,0.09865440428256989,0.03836598992347717,0.8629795908927917,positive,2025-04-23,2025,4
+205,Article,Nvidia Supplier Sk Hynix S Earnings Beat Estimates On Ai Boom,0.9402603507041931,0.026401113718748093,0.03333849832415581,negative,2025-04-23,2025,4
+206,Article,Perplexity Executive Says Google Blocked Motorola S Use Of Ai Assistant,0.026327939704060555,0.7755511403083801,0.1981208771467209,neutral,2025-04-23,2025,4
+207,Article,Short Selling Of Sk Hynix Surges To Record On Trade Ai Concerns,0.8546960353851318,0.06267601996660233,0.08262795209884644,negative,2025-04-23,2025,4
+208,Article,Sk Hynix Likely Unseated Samsung As Dram Leader With Ai Boost,0.2097758799791336,0.03689954802393913,0.753324568271637,positive,2025-04-23,2025,4
+209,Article,Trump To Sign Executive Order To Bolster Ai Education Workforce,0.748420000076294,0.029079219326376915,0.2225007861852646,negative,2025-04-23,2025,4
+210,Article,Tsmc S Cutting Edge A14 Chip Tech To Start Production In 2028,0.4082408845424652,0.00856203492730856,0.5831969976425171,positive,2025-04-23,2025,4
+211,Article,Uk S New Child Safety Rules Set To Challenge Porn Posts On X,0.06325165182352066,0.08797410130500793,0.848774254322052,positive,2025-04-23,2025,4
+212,Article,Ai Takes On Cobol In Fight To Fix World S Aging Computer Code,0.09667947143316269,0.06481297314167023,0.8385075330734253,positive,2025-04-24,2025,4
+213,Article,Alphabet Earnings Beat Estimates On Google Search Advertising,0.8961353898048401,0.02837727963924408,0.07548731565475464,negative,2025-04-24,2025,4
+214,Article,Apple To Strip Secret Robotics Unit From Ai Chief Weeks After Moving Siri,0.021802006289362907,0.37143564224243164,0.6067623496055603,positive,2025-04-24,2025,4
+215,Article,Databricks To Hire Hundreds In India To Accelerate Ai Boom,0.7237731218338013,0.01227391604334116,0.26395294070243835,negative,2025-04-24,2025,4
+216,Article,Fortress Backs Dataminr With 100 Million Convertible Bond Deal,0.2569718062877655,0.012151146307587624,0.7308771014213562,positive,2025-04-24,2025,4
+217,Article,India It Firms Tap Ai To Fuel Sales Growth With Fewer New Staff,0.7526666522026062,0.01905975304543972,0.2282736897468567,negative,2025-04-24,2025,4
+218,Article,New Financials From Musk S X Debt Sale Show Changing Company,0.05265503749251366,0.07957786321640015,0.8677670955657959,positive,2025-04-24,2025,4
+219,Article,China S Baidu Upgrades Ernie Ai Models And Slashes Prices,0.14280039072036743,0.7066646218299866,0.15053491294384003,neutral,2025-04-25,2025,4
+220,Article,Chinese Ai Startup Manus Scores Funding At 500 Million Value,0.21949881315231323,0.011876354925334454,0.7686247825622559,positive,2025-04-25,2025,4
+221,Article,Microsoft Is Releasing Windows Recall Tool After Security Fixes,0.027424857020378113,0.2887463867664337,0.6838287711143494,positive,2025-04-25,2025,4
+222,Article,Microsoft To Contract Out More Software Selling In The Age Of Ai,0.521906852722168,0.017627304419875145,0.46046578884124756,negative,2025-04-25,2025,4
+223,Article,Reid Hoffman Says Tariffs Spending Cuts Could Hurt Us Ai Lead,0.02424158714711666,0.9490501880645752,0.02670820616185665,neutral,2025-04-25,2025,4
+224,Article,Trump Administration Pressures Europe To Reject Ai Rulebook,0.02757936529815197,0.7841681241989136,0.18825247883796692,neutral,2025-04-25,2025,4
+225,Article,Elon Musk S Xai Holdings Is In Discussions To Raise 20 Billion,0.10917853564023972,0.009219568222761154,0.8816019296646118,positive,2025-04-26,2025,4
+226,Article,Huawei Set To Test Powerful Ai Chip To Rival Nvidia S Wsj Says,0.8628032207489014,0.007479917723685503,0.12971679866313934,negative,2025-04-27,2025,4
+227,Article,Alibaba Rolls Out Latest Flagship Ai Model In Post Deepseek Race,0.26583731174468994,0.007628267630934715,0.7265344262123108,positive,2025-04-28,2025,4
+228,Article,Coreweave Rival Nscale Seeks Bytedance Deal And 2 7 Billion In Debt And Equity,0.2572050094604492,0.008342433720827103,0.734452486038208,positive,2025-04-28,2025,4
+229,Article,Deepfake Revenge Porn Bill Passed By Congress Goes To Trump,0.11419811099767685,0.022939706221222878,0.8628621697425842,positive,2025-04-28,2025,4
+230,Article,Openai Lets Users Go Shopping With Chatgpt,0.0617445707321167,0.011743171140551567,0.9265123009681702,positive,2025-04-28,2025,4
+231,Article,Private Equity Firms Target European Defense Industry Assets,0.06915447115898132,0.011246654205024242,0.9195988178253174,positive,2025-04-28,2025,4
+232,Article,Singapore Seeks Drug Concessions In Us Tariff Talks St Says,0.8723800778388977,0.01901097036898136,0.10860901325941086,negative,2025-04-28,2025,4
+233,Article,Ups In Talks With Startup Figure Ai To Deploy Humanoid Robots,0.4596477150917053,0.010414939373731613,0.5299373269081116,positive,2025-04-28,2025,4
+234,Article,Axel Springer Overhauls Supervisory Board As It Completes Split,0.020566852763295174,0.8429985642433167,0.13643454015254974,neutral,2025-04-29,2025,4
+235,Article,Doj Google Antitrust Case Wraps With Generative Ai In Spotlight,0.09363051503896713,0.5309736728668213,0.37539583444595337,neutral,2025-04-29,2025,4
+236,Article,Made In Usa Wheelbarrows Promoted By Trump Are Now Made In China,0.03691047802567482,0.016526155173778534,0.9465633034706116,positive,2025-04-29,2025,4
+237,Article,Mastercard Gives Ai Agents The Ability To Shop On Your Behalf,0.0794694796204567,0.010865123942494392,0.9096654057502747,positive,2025-04-29,2025,4
+238,Article,Meta Launches Standalone Ai App In Bid To Compete With Chatgpt,0.6948229670524597,0.011233326978981495,0.29394370317459106,negative,2025-04-29,2025,4
+239,Article,Microsoft Msft And Amazon Amzn Capex In Focus Amid Potential Ai Pullback,0.036531247198581696,0.8264977931976318,0.13697098195552826,neutral,2025-04-29,2025,4
+240,Article,Morningstar Billionaire Says Ai Finance Models Lag In Accuracy,0.05153413489460945,0.5569145679473877,0.39155134558677673,neutral,2025-04-29,2025,4
+241,Article,Prosus Ceo Sees Shakeup Coming For Europe S Delivery Apps,0.29954370856285095,0.2351629137992859,0.46529343724250793,neutral,2025-04-29,2025,4
+242,Article,Super Micro Plunges After Its Prelimary Results Miss Estimates,0.008769548498094082,0.9672403931617737,0.023990029469132423,neutral,2025-04-29,2025,4
+243,Article,Chinese Ai Stocks Advance After Xi Jinping S Incubator Visit,0.5099940896034241,0.1930709332227707,0.2969350218772888,negative,2025-04-30,2025,4
+244,Article,Cloud Startup Cast Ai Gets 108 Million In Softbank Led Round,0.29307153820991516,0.009760870598256588,0.6971676349639893,positive,2025-04-30,2025,4
+245,Article,Duolingo More Than Doubles Courses As Ai First Push Draws Heat,0.0912313312292099,0.022771872580051422,0.8859968185424805,positive,2025-04-30,2025,4
+246,Article,Google Hopes For Gemini Deal For Apple Ai This Year Ceo Pichai Says,0.4216950237751007,0.009243607521057129,0.5690613985061646,positive,2025-04-30,2025,4
+247,Article,Google Places Ads Inside Chatbot Conversations With Ai Startups,0.01934843882918358,0.042041629552841187,0.9386098980903625,positive,2025-04-30,2025,4
+248,Article,Grindr Pivots To Anthropic Amazon To Power Ai Wingman Feature,0.10139372199773788,0.01395838987082243,0.8846478462219238,positive,2025-04-30,2025,4
+249,Article,Meta Quarterly Revenue Beats Estimates On Advertising Stability,0.3780878484249115,0.07229121029376984,0.5496209263801575,positive,2025-04-30,2025,4
+250,Article,Microsoft Posts Strong Revenue Growth On Cloud Unit Expansion,0.9560455083847046,0.012849854305386543,0.031104685738682747,negative,2025-04-30,2025,4
+251,Article,Nvidia Ceo Says Trump Should Revise Rules For Ai Chip Exports,0.037429120391607285,0.14712472259998322,0.815446138381958,positive,2025-04-30,2025,4
+252,Article,Nvidia Gets Rare Sell Rating As Seaport Says Ai Fully Priced In,0.8445839285850525,0.011181440204381943,0.14423461258411407,negative,2025-04-30,2025,4
+253,Article,Openai Rolls Back Gpt 4O Update That Made Chatgpt Fawning Disingenuous,0.03288022801280022,0.8545809984207153,0.11253872513771057,neutral,2025-04-30,2025,4
+254,Article,Samsung S Chips Business Beats Estimates After Stockpiling Push,0.9303261637687683,0.020471690222620964,0.04920211806893349,negative,2025-04-30,2025,4
+255,Article,Taiwan S Economy Beats Estimates On Pre Tariff Export Rush,0.8732631802558899,0.0525946170091629,0.074142225086689,negative,2025-04-30,2025,4
+256,Article,Tech S Biggest Names Meet With Lawmakers For National Security Summit,0.06770233809947968,0.04084181413054466,0.8914558291435242,positive,2025-04-30,2025,4
+257,Article,Visa Ceo Says Ai Shopping To Push Advertising Payments To Adapt,0.9055806994438171,0.012488923035562038,0.08193031698465347,negative,2025-04-30,2025,4
+258,Article,Xiaomi Joins China Ai Game With Maiden Deepseek Like Model,0.21622948348522186,0.011798122897744179,0.7719724178314209,positive,2025-04-30,2025,4
+259,Article,Altman Backed Startup Rolls Out Eyeball Scanning Tech Across Us,0.11866861581802368,0.009885134175419807,0.8714462518692017,positive,2025-01-05,2025,1
+260,Article,Amazon Projects Profit That Misses Estimates On Trade Concerns,0.10585843771696091,0.8655827045440674,0.028558827936649323,neutral,2025-01-05,2025,1
+261,Article,Apple China Sales Miss Estimates Marring Latest Earnings Report,0.018745368346571922,0.9469502568244934,0.03430432826280594,neutral,2025-01-05,2025,1
+262,Article,Large Ai Projects Present 1 8 Trillion Pool For Private Credit,0.11597012728452682,0.012620956636965275,0.8714088797569275,positive,2025-01-05,2025,1
+263,Article,Lightspeed Is Latest Firm To Shift Away From Classic Vc Model,0.1017589420080185,0.07419481128454208,0.82404625415802,positive,2025-01-05,2025,1
+264,Article,Tesla Board In Spotlight After Cashing In 1 2 Billion With Musk,0.6919427514076233,0.08694012463092804,0.22111719846725464,negative,2025-01-05,2025,1
+265,Article,Uae Abu Dhabi S Adq Plots Next Act After Assets Double In Four Years,0.46421125531196594,0.06368227303028107,0.4721064269542694,neutral,2025-01-05,2025,1
+266,Article,Uncork Capital Raises 300 Million To Find The Next Poshmark Postmates,0.33550047874450684,0.010765844024717808,0.6537336111068726,positive,2025-01-05,2025,1
+267,Article,Xcel Ceo Says Ai Power Needs Raise Prospect Of New Large Nuclear,0.20811598002910614,0.2894638180732727,0.50242018699646,positive,2025-01-05,2025,1
+268,Article,Amazon Apple Earnings Show Tariffs Are Coming For Big Tech Too,0.3909699618816376,0.08005539327859879,0.5289746522903442,positive,2025-02-05,2025,2
+269,Article,Apple Anthropic Team Up To Build Ai Powered Vibe Coding Platform,0.3881458640098572,0.00828272383660078,0.6035714149475098,positive,2025-02-05,2025,2
+270,Article,Blue Owl Owned Stack Seeks 833 Million Loan For Asia Growth,0.21050907671451569,0.008770660497248173,0.7807202339172363,positive,2025-02-05,2025,2
+271,Article,How An Israeli Hostage Negotiator Outsmarts Ransomware Hackers,0.08226126432418823,0.05089656263589859,0.8668422102928162,positive,2025-02-05,2025,2
+272,Article,Klarna Founder S Vc Firm Sees Trump Energizing Europe On Climate,0.5652039051055908,0.009712247177958488,0.42508384585380554,negative,2025-02-05,2025,2
+273,Article,Openai Can T Fend Off Musk S Fraud Claims In Restructuring Suit,0.07237803936004639,0.7385479807853699,0.18907403945922852,neutral,2025-02-05,2025,2
+274,Article,Prosecutors May Widen Charges In Singapore Nvidia Fraud Case,0.039818041026592255,0.820925772190094,0.13925616443157196,neutral,2025-02-05,2025,2
+275,Article,Google Can Train Search Ai With Web Content Even After Opt Out,0.2609037756919861,0.007805103901773691,0.7312911152839661,positive,2025-03-05,2025,3
+276,Article,Uae Rolls Out Ai For Schoolkids In New Push For Sector Forefront,0.52818363904953,0.01935240626335144,0.4524639844894409,negative,2025-04-05,2025,4
+277,Article,Ceo Of Andreessen Horowitz Backed Ai Startup 11X Steps Down,0.09349288791418076,0.0473356731235981,0.859171450138092,positive,2025-05-05,2025,5
+278,Article,Fcc S Carr Calls For Spectrum Ai Leadership In China Race,0.27265664935112,0.01610185019671917,0.7112414836883545,positive,2025-05-05,2025,5
+279,Article,Goldman Sees Buy The Dip Opportunity In Ai After Big Tech Earns,0.6247296333312988,0.02237280085682869,0.3528974950313568,negative,2025-05-05,2025,5
+280,Article,Henry Blodget Business Insider Founder On Ai And Dot Coms,0.03525882959365845,0.046293724328279495,0.9184474945068359,positive,2025-05-05,2025,5
+281,Article,Microsoft Said To Be Key Holdout For Openai Restructuring Plan,0.1102130115032196,0.017227815464138985,0.8725591897964478,positive,2025-05-05,2025,5
+282,Article,Musk At Milken Says Ai Can Offset Losing Some Government Workers,0.9216526746749878,0.04096906632184982,0.03737828508019447,negative,2025-05-05,2025,5
+283,Article,Palantir Calls Ai Demand Ravenous Boosts Revenue Guidance,0.7992807626724243,0.06093869358301163,0.13978049159049988,negative,2025-05-05,2025,5
+284,Article,Servicenow Eyes 1 Billion Revenue For Ai Product By 2026,0.18596625328063965,0.008629541844129562,0.8054042458534241,positive,2025-05-05,2025,5
+285,Article,Amd Arm Offer Window Into Ai Landscape Ahead Of Nvidia Nvda Earnings,0.3610163927078247,0.011555255390703678,0.6274283528327942,positive,2025-06-05,2025,6
+286,Article,Amd Gives Strong Forecast In Sign It S Gaining Market Share,0.9461848139762878,0.013122156262397766,0.04069307819008827,negative,2025-06-05,2025,6
+287,Article,Blackrock Citi Ceos To Visit Saudi Arabia Along With Trump,0.1117057353258133,0.014859650284051895,0.8734346628189087,positive,2025-06-05,2025,6
+288,Article,China S Pony Ai Is Uber S Latest Robotaxi Partner In Middle East,0.24281316995620728,0.006684072315692902,0.7505027651786804,positive,2025-06-05,2025,6
+289,Article,Developing Nations Expect Ai Productivity Boost Soon Un Finds,0.9307395219802856,0.01515056099742651,0.05410991236567497,negative,2025-06-05,2025,6
+290,Article,General Catalyst Co Leads Ai Funding Deal Valuing Parloa At 1 Billion,0.6611716747283936,0.008098985999822617,0.33072933554649353,negative,2025-06-05,2025,6
+291,Article,Google Reserves Best Search Data For Gemini Not Rival Ai Apps,0.2220333367586136,0.00985823106020689,0.7681084275245667,positive,2025-06-05,2025,6
+292,Article,Microsoft Debuts Lower End Surface Devices To Push Ai Tools,0.2795000374317169,0.06904364377260208,0.651456356048584,positive,2025-06-05,2025,6
+293,Article,Mideast Titans Step Back From Ai Model Race As Us China Dominate,0.14802183210849762,0.10143011063337326,0.7505480051040649,positive,2025-06-05,2025,6
+294,Article,Musk S Lawyer Says Openai Restructuring Update Changes Nothing,0.03442290052771568,0.1767764836549759,0.7888005971908569,positive,2025-06-05,2025,6
+295,Article,Nvidia Ceo Says China Ai Market Is On Course To Hit 50 Billion,0.8862559199333191,0.03431130200624466,0.07943276315927505,negative,2025-06-05,2025,6
+296,Article,Openai Reaches Agreement To Buy Startup Windsurf For 3 Billion,0.7951400279998779,0.008446884341537952,0.19641312956809998,negative,2025-06-05,2025,6
+297,Article,Openai S For Profit Overhaul Is Far From Being A Done Deal,0.08400576561689377,0.09146944433450699,0.8245247602462769,positive,2025-06-05,2025,6
+298,Article,Softbank Backed Oaknorth Partners With Openai To Expand Ai Uses,0.800963282585144,0.006271448917686939,0.1927652359008789,negative,2025-06-05,2025,6
+299,Article,Apple Working To Move To Ai Search In Browser Amid Google Fallout,0.1977076232433319,0.01191782858222723,0.7903744578361511,positive,2025-07-05,2025,7
+300,Article,Behind The Us Deepfake Legislation That May Become Law Podcast,0.06629318743944168,0.01795690879225731,0.9157499074935913,positive,2025-07-05,2025,7
+301,Article,France S Mistral Releases Ai Model Tailored For Businesses,0.11962322890758514,0.010527446866035461,0.8698493838310242,positive,2025-07-05,2025,7
+302,Article,Legrand Saw Outstanding Data Center Growth Amid Ai Boom,0.9455889463424683,0.021360203623771667,0.033050816506147385,negative,2025-07-05,2025,7
+303,Article,Musk S Xai To Use Tesla Batteries At Memphis Supercomputer,0.14426596462726593,0.008452972397208214,0.8472810983657837,positive,2025-07-05,2025,7
+304,Article,Ntt Eyes 20 Billion Tender Offer For Data Unit In Ai Bid Nikkei,0.1546461433172226,0.01015332993119955,0.8352005481719971,positive,2025-07-05,2025,7
+305,Article,Openai Aims To Help More Countries Build Out Ai Infrastructure,0.6057116985321045,0.007848350331187248,0.3864399194717407,negative,2025-07-05,2025,7
+306,Article,South Korea S Han Vows To Create Ai Ministry To Catch Up In Race,0.43471094965934753,0.011342350393533707,0.5539467334747314,positive,2025-07-05,2025,7
+307,Article,Trump To Rescind Global Chip Curbs Amid Ai Restrictions Debate,0.27461421489715576,0.5317867398262024,0.19359910488128662,neutral,2025-07-05,2025,7
+308,Article,Apple Is Developing Specialized Chips For Glasses New Macs And Ai Servers,0.29321062564849854,0.007825199514627457,0.6989642381668091,positive,2025-08-05,2025,8
+309,Article,Canada To Build Small Nuclear Reactor In First For G7 Power,0.2258363962173462,0.008701954036951065,0.7654616832733154,positive,2025-08-05,2025,8
+310,Article,Klarna Turns From Ai To Real Person Customer Service,0.0659896582365036,0.016464926302433014,0.9175454378128052,positive,2025-08-05,2025,8
+311,Article,Maybe Ai Slop Is Killing The Internet After All,0.03526061773300171,0.28009292483329773,0.6846463680267334,positive,2025-08-05,2025,8
+312,Article,Meta Taps New Head Of Ai Lab After Staffer S Return From Google,0.06222716346383095,0.03176455572247505,0.9060083627700806,positive,2025-08-05,2025,8
+313,Article,Musk Hits Back At Openai S Claim He S On Quest To Harm Startup,0.13972148299217224,0.5344386100769043,0.32583990693092346,neutral,2025-08-05,2025,8
+314,Article,Openai Recruits Instacart Ceo Fidji Simo To Lead App Development,0.09220440685749054,0.009059635922312737,0.8987359404563904,positive,2025-08-05,2025,8
+315,Article,Openai Why Nonprofit Wants To Create A Public Benefit Corporation Or Pbc,0.04457422345876694,0.016292549669742584,0.9391331672668457,positive,2025-08-05,2025,8
+316,Article,Org Charts Of Ai Startups Are Built To Stay Small Flexible,0.040826041251420975,0.05629175901412964,0.9028822183609009,positive,2025-08-05,2025,8
+317,Article,Salesforce Kick Starts 500 Million Saudi Ai Push With New Hire,0.47969335317611694,0.017512282356619835,0.5027943849563599,positive,2025-08-05,2025,8
+318,Article,Tech Ai Company Chiefs Urge Senators To Tone Down Regulations,0.033598583191633224,0.6832671761512756,0.28313422203063965,neutral,2025-08-05,2025,8
+319,Article,Us Productivity Drops For First Time Since 2022 As Output Fell,0.013327808119356632,0.9684543013572693,0.018217768520116806,neutral,2025-08-05,2025,8
+320,Article,X Blocks Jailed Turkish Mayor S Page After Opposition Protests,0.0445319265127182,0.6375629305839539,0.3179051876068115,neutral,2025-08-05,2025,8
+321,Article, Genshin Impact Creator Dives Into Ai For Growth Beyond Games,0.2691774368286133,0.009708006866276264,0.7211145758628845,positive,2025-09-05,2025,9
+322,Article,Alphabet Shares Take 120 Billion Blow As Search Warnings Blare,0.02280270680785179,0.8062268495559692,0.17097048461437225,neutral,2025-09-05,2025,9
+323,Article,At Openai Fidji Simo To Bring Lessons From Instacart And Meta,0.24019725620746613,0.008884096518158913,0.7509186267852783,positive,2025-09-05,2025,9
+324,Article,Ex Northvolt Ceo Gets New Funds For Ai Startup In Manufacturing,0.34069859981536865,0.01536825392395258,0.6439331769943237,positive,2025-09-05,2025,9
+325,Article,Ex Palantir Adviser To Keep Spacex Openai Stakes In Trump Role,0.07431328296661377,0.01294917892664671,0.9127374887466431,positive,2025-09-05,2025,9
+326,Article,Extreme Heat Risks Summer Power Shortages Warns Largest Us Grid,0.02110430970788002,0.8580850958824158,0.12081058323383331,neutral,2025-09-05,2025,9
+327,Article,How The Google Antitrust Trial Is Already Changing Online Search,0.024569546803832054,0.1005634143948555,0.8748670220375061,positive,2025-09-05,2025,9
+328,Article,Tesla Supplier Panasonic To Slash 10 000 Jobs In Big Overhaul,0.010942946188151836,0.965765118598938,0.02329189144074917,neutral,2025-09-05,2025,9
+329,Article,Tsmc April Sales Surge After Us Tariffs Spur Device Rush Orders,0.8724391460418701,0.09682966768741608,0.030731206759810448,negative,2025-09-05,2025,9
+330,Article,Elton John Dua Lipa Urge Uk To Rethink Ai Copyright Plans,0.1557231992483139,0.11544819921255112,0.7288286089897156,positive,2025-10-05,2025,10
+331,Article,Us Inflation Starting To Stir As Trump Tariff Threat Looms,0.44034576416015625,0.3137563169002533,0.24589790403842926,neutral,2025-10-05,2025,10
+332,Article,Openai Microsoft In Talks To Reset High Stakes Partnership Ft,0.21721002459526062,0.01154735404998064,0.771242618560791,positive,2025-11-05,2025,11
+333,Article,Ai Drug Firm Metis Is Said Consider 200 Million Hong Kong Ipo,0.15682856738567352,0.010897298343479633,0.8322741985321045,positive,2025-12-05,2025,12
+334,Article,Ai Search Startup Perplexity Nears Funding At 14 Billion Value,0.13495758175849915,0.026687607169151306,0.838354766368866,positive,2025-12-05,2025,12
+335,Article,Amazon Backed Scale Ai Plans Middle East Expansion With New Saudi Arabia Office,0.20865298807621002,0.00765636470168829,0.7836906909942627,positive,2025-12-05,2025,12
+336,Article,Apple Plans Ai Powered Battery Management Mode For Devices In Ios 19,0.11009436100721359,0.009674392640590668,0.8802312016487122,positive,2025-12-05,2025,12
+337,Article,Golub Backed Saudi Firm Starts Ai Fund To Drive Us Mideast Ties,0.443528413772583,0.016753176227211952,0.5397183299064636,positive,2025-12-05,2025,12
+338,Article,Saudi Arabia Launches New Ai Firm Ahead Of Donald Trump S Visit,0.27962926030158997,0.012455664575099945,0.7079151272773743,positive,2025-12-05,2025,12
+339,Article,Softbank Stargate Venture With Openai Hits Snags On Tariff Fears,0.034936949610710144,0.9291329383850098,0.035930078476667404,neutral,2025-12-05,2025,12
+340,Article,State Ai Regulation Ban Tucked Into Republican Tax Fiscal Bill,0.08341261744499207,0.31841036677360535,0.5981770157814026,positive,2025-12-05,2025,12
+341,Article,Ai Boom Helps Score 12 Billion Deal For Little Known Ls Power,0.7334713339805603,0.013213000260293484,0.2533157467842102,negative,2025-05-13,2025,5
+342,Article,Bytes Ceo Says Microsoft Partners Will Be Key In Uk S Ai Push,0.2706967890262604,0.006744487211108208,0.7225586771965027,positive,2025-05-13,2025,5
+343,Article,Google Backs Saudi Ai Fund As Trump Mbs Tout New Investments,0.44969886541366577,0.01956644281744957,0.5307347178459167,positive,2025-05-13,2025,5
+344,Article,Intel Certifies Shell Lubricant For Cooling Ai Data Centers,0.1055445522069931,0.009307751432061195,0.8851476311683655,positive,2025-05-13,2025,5
+345,Article,Norway Wealth Fund S Use Of Ai Triggers Hiring Freeze Ceo Says,0.010315360501408577,0.9529196619987488,0.03676494210958481,neutral,2025-05-13,2025,5
+346,Article,Nvidia Amd Humain All The Ai Related Deals From Trump S Mideast Trip,0.07514331489801407,0.017743967473506927,0.9071126580238342,positive,2025-05-13,2025,5
+347,Article,Nvidia To Send Chips To Saudi S Humain For Ai Data Centers,0.11938504129648209,0.010858096182346344,0.869756817817688,positive,2025-05-13,2025,5
+348,Article,Openai Weighs Uae Data Center Deal As Trump Set To Visit,0.18018081784248352,0.01760762557387352,0.802211582660675,positive,2025-05-13,2025,5
+349,Article,Samsung Agrees To Acquire Germany S Flaktgroup For 1 5 Billion,0.1330142617225647,0.010245267301797867,0.8567404747009277,positive,2025-05-13,2025,5
+350,Article,Samsung In Talks To Buy Flaktgroup In 1 5 Billion Plus Deal,0.11660032719373703,0.009752927348017693,0.8736467957496643,positive,2025-05-13,2025,5
+351,Article,Saudi Arabia Amd Plan 10 Billion Ai Deployment Of Ai Gear,0.3861084580421448,0.010031970217823982,0.603859543800354,positive,2025-05-13,2025,5
+352,Article,Saudi King In Waiting Marks Ascent With Gilded Welcome For Trump,0.2818329632282257,0.02061699517071247,0.6975499987602234,positive,2025-05-13,2025,5
+353,Article,Softbank Backs Openai Reform Plan To Keep Nonprofit In Control,0.531216025352478,0.0472683310508728,0.421515554189682,negative,2025-05-13,2025,5
+354,Article,Softbank Profit Jumps Helped By Boost From Ai Resilience,0.9019030332565308,0.0558309368789196,0.04226605221629143,negative,2025-05-13,2025,5
+355,Article,Trump To Rewrite Ai Chip Curbs Reviled By Nvidia And Us Allies,0.17592652142047882,0.5493215322494507,0.2747519314289093,neutral,2025-05-13,2025,5
+356,Article,Us Firm Global Ai Secures Saudi Investment Worth Billions,0.8435647487640381,0.011150515638291836,0.1452847272157669,negative,2025-05-13,2025,5
+357,Article,Us To Boost Saudi Access To Ai Chips Even As China Issues Linger,0.9433152079582214,0.013794860802590847,0.042889922857284546,negative,2025-05-13,2025,5
+358,Article,Us Warns That Using Huawei Ai Chip Anywhere Breaks Its Rules,0.023700498044490814,0.7618460655212402,0.21445342898368835,neutral,2025-05-13,2025,5
+359,Article,About 89 Million Americans At Risk Of Summer Power Shortfall Regulator Says,0.01451934315264225,0.8094019889831543,0.1760786771774292,neutral,2025-05-14,2025,5
+360,Article,Ai Boom Has Generac Looking To Data Centers For Growth,0.22723425924777985,0.01741778664290905,0.7553480267524719,positive,2025-05-14,2025,5
+361,Article,Alibaba Sustains Ai Frenzy With Second Video Upgrade In Weeks,0.8725646734237671,0.10265623778104782,0.024779142811894417,negative,2025-05-14,2025,5
+362,Article,Atos Announces Reorganization Aiming To Restart Sales Growth,0.24768270552158356,0.08224008232355118,0.6700772047042847,positive,2025-05-14,2025,5
+363,Article,China S Baidu Plans Robotaxi Expansion To Europe And Turkey,0.2506285011768341,0.007501037325710058,0.7418704628944397,positive,2025-05-14,2025,5
+364,Article,Cisco Gives Positive Sales Forecast In Sign Ai Is Buoying Demand,0.9497928023338318,0.019651314243674278,0.030555929988622665,negative,2025-05-14,2025,5
+365,Article,Coreweave Says Ai S Cloud Demand Is Strong And Accelerating,0.9410668611526489,0.010528980754315853,0.04840405657887459,negative,2025-05-14,2025,5
+366,Article,Josh Kushner S Thrive Capital Gains 522 Million From Carvana Trade,0.2631818652153015,0.011402939446270466,0.7254151701927185,positive,2025-05-14,2025,5
+367,Article,Major Wyoming Data Center Plans First Organic Flow Battery For Ai,0.15193471312522888,0.009247032925486565,0.8388182520866394,positive,2025-05-14,2025,5
+368,Article,Microsoft Layoffs Hit Software Engineers As Industry Touts Ai Savings,0.010641084052622318,0.9539715647697449,0.03538728505373001,neutral,2025-05-14,2025,5
+369,Article,Musk S Grok Eager To Discuss White Genocide In South Africa,0.14956754446029663,0.01942526362836361,0.831007182598114,positive,2025-05-14,2025,5
+370,Article,Nvidia Partner Hon Hai Tops Profit Estimates As Sales Surge,0.8500696420669556,0.0689186081290245,0.08101166039705276,negative,2025-05-14,2025,5
+371,Article,Panasonic Ceo Says Battery Plans Align With Slower Ev Demand,0.1241569072008133,0.5598447322845459,0.315998375415802,neutral,2025-05-14,2025,5
+372,Article,Pony Ai Is Said To Confidentially File For Hong Kong Listing,0.01809832826256752,0.4250980019569397,0.5568036437034607,positive,2025-05-14,2025,5
+373,Article,Tencent S Revenue Climbs 13 After Gaming Gains Momentum,0.9327210783958435,0.0442451536655426,0.023033838719129562,negative,2025-05-14,2025,5
+374,Article,To Bring Manufacturing Back To The Us Copy China S Playbook,0.2146180123090744,0.011544356122612953,0.7738376259803772,positive,2025-05-14,2025,5
+375,Article,Why Is Battery Maker Eos Eose Up 720 Over The Past Year,0.7730976939201355,0.043728698045015335,0.18317359685897827,negative,2025-05-14,2025,5
+376,Article,Alibaba Misses Estimates Souring Hopes Of Consumer Revival,0.027582267299294472,0.9296404719352722,0.04277735948562622,neutral,2025-05-15,2025,5
+377,Article,China Accuses Us Of Unilateral Bullying On Huawei Ai Chips,0.012053857557475567,0.9273886680603027,0.06055750697851181,neutral,2025-05-15,2025,5
+378,Article,Chinese Startup Trials First Ai Doctor Clinic In Saudi Arabia,0.25343406200408936,0.013758445158600807,0.7328075170516968,positive,2025-05-15,2025,5
+379,Article,Eu Will Work On Setting Water Use Caps For Thirsty Data Centers,0.13943789899349213,0.018281182274222374,0.8422809839248657,positive,2025-05-15,2025,5
+380,Article,Five New Tools To Save You Time And Money On Summer Travel,0.10305580496788025,0.0152709586545825,0.881673276424408,positive,2025-05-15,2025,5
+381,Article,Goldman Sees Ai Investment Boosting Structured Finance Demand,0.906977653503418,0.008701854385435581,0.08432052284479141,negative,2025-05-15,2025,5
+382,Article,Iphone Supplier Tdk Readies Batteries Geared For Thin Ai Gadgets,0.1744627207517624,0.010885895229876041,0.814651370048523,positive,2025-05-15,2025,5
+383,Article,Jack Ma Backed Ant S Profit Fell 31 On Ai New Business Costs,0.007128448691219091,0.9757722020149231,0.017099402844905853,neutral,2025-05-15,2025,5
+384,Article,Jpmorgan S Global Markets Head Says Us Could Dodge A Recession,0.8837942481040955,0.051824767142534256,0.06438099592924118,negative,2025-05-15,2025,5
+385,Article,Meta Picks Southeast Asia Veteran To Head Asia Pacific Region,0.07097423076629639,0.018559472635388374,0.9104663133621216,positive,2025-05-15,2025,5
+386,Article,Meta Shares Slip On Report That It S Delaying Flagship Ai Model,0.010660573840141296,0.9568575024604797,0.032482024282217026,neutral,2025-05-15,2025,5
+387,Article,Microsoft Signs Major Carbon Removal Deal With Montag S Rubicon,0.8448999524116516,0.01723942719399929,0.13786064088344574,negative,2025-05-15,2025,5
+388,Article,Openai Expands Coreweave Tie Up With New 4 Billion Cloud Deal,0.7143641114234924,0.009666935540735722,0.27596884965896606,negative,2025-05-15,2025,5
+389,Article,Salesforce Offers Customers New Ways To Pay For Ai Tools,0.40223613381385803,0.009949364699423313,0.5878145098686218,positive,2025-05-15,2025,5
+390,Article,Senators Revive Bill To Break Big Tech S Grip On Pentagon Deals,0.24801217019557953,0.28141796588897705,0.4705698490142822,neutral,2025-05-15,2025,5
+391,Article,Trump S Rush To Cut Ai Deals In Saudi Arabia And Uae Opens Rift With China Hawks,0.026005350053310394,0.9453677535057068,0.02862699329853058,neutral,2025-05-15,2025,5
+392,Article,Trump Touts 200 Billion In Uae Deals In Wrapping Mideast Trip,0.14316652715206146,0.014681585133075714,0.842151939868927,positive,2025-05-15,2025,5
+393,Article,Vistra To Acquire Natural Gas Assets From Lotus For 1 9 Billion,0.07913824915885925,0.009591413661837578,0.9112703204154968,positive,2025-05-15,2025,5
+394,Article,Globant Suffers Record Intraday Drop As Tariffs Dent Earnings,0.02648959308862686,0.9591864347457886,0.014323975890874863,neutral,2025-05-16,2025,5
+395,Article,Gulf States Embrace Trump S New Vision Of Middle East,0.2919975221157074,0.00985165685415268,0.6981508731842041,positive,2025-05-16,2025,5
+396,Article,Musk S Xai Blames Rogue Tampering For White Genocide Glitches,0.010818715207278728,0.9311612248420715,0.05802011862397194,neutral,2025-05-16,2025,5
+397,Article,Openai Takes On Google Anthropic With New Ai Agent For Coders,0.15390491485595703,0.009116612374782562,0.8369784355163574,positive,2025-05-16,2025,5
+398,Article,Openai To Help Uae Develop One Of World S Biggest Data Centers,0.6348749399185181,0.0074789565987885,0.35764601826667786,negative,2025-05-16,2025,5
+399,Article,Tsmc Supplier Globalwafers To Hike Us Investment To 7 5 Billion,0.9244140386581421,0.012763641774654388,0.06282226741313934,negative,2025-05-16,2025,5
+400,Article,Nvidia Ceo Sees No Evidence Of Ai Chip Diversion Into China,0.0675179585814476,0.32747942209243774,0.6050025820732117,positive,2025-05-17,2025,5
+401,Article,Apple Intelligence Struggles To Keep Up With Chatgpt Ai Competitors,0.011490882374346256,0.9517989754676819,0.03671007975935936,neutral,2025-05-18,2025,5
+402,Article,Computex 2025 Beyond Nvidia Five Things To Know At Asia S Biggest Tech Show,0.0775185227394104,0.015767591074109077,0.9067139029502869,positive,2025-05-18,2025,5
+403,Article,Aramco Saudi Telecom Join Sequoia In Backing Us Based Graphiant,0.11740017682313919,0.009570536203682423,0.873029351234436,positive,2025-05-19,2025,5
+404,Article,Ark S Cathie Wood Says Trump S Tariff War May Free Up Markets,0.8531345725059509,0.060722675174474716,0.08614276349544525,negative,2025-05-19,2025,5
+405,Article,Google Gave Sites Little Choice In Using Data For Ai Search,0.02124636434018612,0.21368959546089172,0.7650641202926636,positive,2025-05-19,2025,5
+406,Article,Microsoft Is Bringing Elon Musk S Ai Models To Its Cloud,0.13945001363754272,0.008310488425195217,0.8522394895553589,positive,2025-05-19,2025,5
+407,Article,Mideast Chips Deals Imperil Us National Security Democrats Warn,0.025106366723775864,0.9248648285865784,0.05002877861261368,neutral,2025-05-19,2025,5
+408,Article,Mufg Bank To Use Startup Sakana S Ai Tech To Boost Operations,0.9064939618110657,0.008006779477000237,0.08549930900335312,negative,2025-05-19,2025,5
+409,Article,Nvidia Ceo Unveils New Tech To Keep Global Ai Expansion Going,0.5593666434288025,0.019600726664066315,0.421032577753067,negative,2025-05-19,2025,5
+410,Article,Nvidia Uae S Mgx Pledge To Build Europe S Largest Data Center,0.7539455890655518,0.006580747663974762,0.23947373032569885,negative,2025-05-19,2025,5
+411,Article,Pony Ai Earnings Put Investors On Alert For Robotaxi Expansion,0.5990949273109436,0.3383795917034149,0.06252554804086685,negative,2025-05-19,2025,5
+412,Article,Xiaomi Aims To Spend 7 Billion On Building Own Chip This Decade,0.34771183133125305,0.007045278325676918,0.6452428698539734,positive,2025-05-19,2025,5
+413,Article,Ai Pcs Still Year Or Two From Fulfilling Promise Asus Ceo Says,0.031091026961803436,0.9161049127578735,0.05280403420329094,neutral,2025-05-20,2025,5
+414,Article,Ai Startup Cohere Has Doubled Sales So Far This Year Ceo Says,0.9518320560455322,0.017010033130645752,0.031157996505498886,negative,2025-05-20,2025,5
+415,Article,Alphabet S Pichai Says Google Bringing Products To Market Faster,0.7854658365249634,0.00690366979688406,0.20763042569160461,negative,2025-05-20,2025,5
+416,Article,Apple To Open Ai Models To Developers Betting That It Will Spur New Apps,0.6419724822044373,0.008254019543528557,0.3497735261917114,negative,2025-05-20,2025,5
+417,Article,Bloomberg Retracts Story On Kalshi After Firm Rescinds Statement,0.02544347569346428,0.172991082072258,0.8015654683113098,positive,2025-05-20,2025,5
+418,Article,China S Pony Ai Expects Robotaxi Services To Scale Up This Year,0.7777534127235413,0.022688640281558037,0.19955788552761078,negative,2025-05-20,2025,5
+419,Article,Malaysia Downplays Huawei Deal As Us Aims To Curb China Ai Power,0.054452914744615555,0.8030768036842346,0.14247027039527893,neutral,2025-05-20,2025,5
+420,Article,Microsoft Backed Builder Ai To Enter Insolvency Proceedings,0.01722518354654312,0.7231433987617493,0.2596313953399658,neutral,2025-05-20,2025,5
+421,Article,Musk Says He S Committed To Being Tesla Ceo For Next Five Years,0.09532976150512695,0.009021790698170662,0.8956484794616699,positive,2025-05-20,2025,5
+422,Article,Nik Storonsky S Ai Venture Firm Raises 250 Million For Startups,0.8073499202728271,0.010344475507736206,0.18230561912059784,negative,2025-05-20,2025,5
+423,Article,Nvidia S Hopper Blackwell Ai Chips Are Market Leaders Can Intel Amd Compete,0.48746412992477417,0.010729581117630005,0.5018062591552734,positive,2025-05-20,2025,5
+424,Article,Baidu Reports Surprise Revenue Jump During China S Ai Battle,0.943999171257019,0.023925019428133965,0.032075781375169754,negative,2025-05-21,2025,5
+425,Article,Bank Startup Airwallex Valued At 6 2 Billion With New Funding,0.37495157122612,0.01048632524907589,0.6145620942115784,positive,2025-05-21,2025,5
+426,Article,Blackrock Adds To Ai Stocks Bet In 160 Billion Model Portfolios,0.20925240218639374,0.011839241720736027,0.778908371925354,positive,2025-05-21,2025,5
+427,Article,Coreweave Surges Past Analyst Targets As Citi Doubles Theirs,0.8887653350830078,0.05351630225777626,0.05771839991211891,negative,2025-05-21,2025,5
+428,Article,Eu Prepares Trade Proposal For Us To Steer Momentum Into Talks,0.6342706680297852,0.016721732914447784,0.34900757670402527,negative,2025-05-21,2025,5
+429,Article,Lmarena Goes From Academic Project To 600 Million Startup,0.1806580126285553,0.009765946306288242,0.8095760345458984,positive,2025-05-21,2025,5
+430,Article,Nvidia Ceo Urges Us To Lower Barriers To 50 Billion China Arena,0.5035965442657471,0.025136999785900116,0.471266508102417,negative,2025-05-21,2025,5
+431,Article,Openai To Buy Apple Veteran Jony Ive S Ai Device Startup In 6 5 Billion Deal,0.18369551002979279,0.008360769599676132,0.8079437017440796,positive,2025-05-21,2025,5
+432,Article,Palo Alto Tumbles To Lowest In A Year Following Earnings Report,0.009450964629650116,0.9694346189498901,0.02111443318426609,neutral,2025-05-21,2025,5
+433,Article,Snowflake Gives Strong Outlook With Focus On New Ai Tools,0.9072055816650391,0.009762000292539597,0.08303241431713104,negative,2025-05-21,2025,5
+434,Article,Uae Releases Falcon Arabic Ai Model To Outcompete Mideast Rivals,0.7725189328193665,0.00966539978981018,0.21781566739082336,negative,2025-05-21,2025,5
+435,Article,Us To Keep China Chip Curbs Spurning Nvidia S Call For Relief,0.8827118277549744,0.0389130525290966,0.0783752053976059,negative,2025-05-21,2025,5
+436,Article,Ai Startup Anthropic Releases More Powerful Opus Model After Delay,0.2694951891899109,0.009616758674383163,0.7208880186080933,positive,2025-05-22,2025,5
+437,Article,Ai Tools Are Ceo S New Fix For The Post Vacation Inbox Mess,0.0697958916425705,0.017765019088983536,0.9124390482902527,positive,2025-05-22,2025,5
+438,Article,Apple Plans Glasses For 2026 As Part Of Ai Push Nixes Watch With Camera,0.051599740982055664,0.016154468059539795,0.9322458505630493,positive,2025-05-22,2025,5
+439,Article,Carney Looks To Ai For Savings As Canada S Budget Pressures Mount,0.8480859994888306,0.028428608551621437,0.12348533421754837,negative,2025-05-22,2025,5
+440,Article,China Asks Dutch To Ease Chips Export Controls Minister Says,0.6412639021873474,0.09672587364912033,0.2620101571083069,negative,2025-05-22,2025,5
+441,Article,Computex 2025 Five Takeaways From Asia S Biggest Ai Tech Event,0.18042363226413727,0.02209734357893467,0.797478973865509,positive,2025-05-22,2025,5
+442,Article,Duolingo Cfo Says Ai Key To Expanding Beyond Language Learning,0.771213948726654,0.0070138475857675076,0.2217722237110138,negative,2025-05-22,2025,5
+443,Article,Eu Puts 40 Million In First Foray Into Dedicated Defense Fund,0.35186025500297546,0.01026258897036314,0.6378771662712097,positive,2025-05-22,2025,5
+444,Article,First Ai Generated Drugs May Reach Market By 2030 Insilico Ceo,0.19526085257530212,0.007122538983821869,0.7976166009902954,positive,2025-05-22,2025,5
+445,Article,Google Faces Antitrust Investigation Over Deal For Ai Fueled Chatbot Technology,0.013246210291981697,0.9182363748550415,0.06851737946271896,neutral,2025-05-22,2025,5
+446,Article,Jpmorgan Leads 7 1 Billion Loan For Blue Owl Tied Data Center,0.1230488196015358,0.010950613766908646,0.8660005927085876,positive,2025-05-22,2025,5
+447,Article,Lenovo Sales Beat Estimates Though Profit Sags From Pc Rivalry,0.8916389346122742,0.08707600831985474,0.02128499373793602,negative,2025-05-22,2025,5
+448,Article,Openai Announces Stargate Data Center Expansion In Abu Dhabi,0.18595537543296814,0.015137224458158016,0.7989073395729065,positive,2025-05-22,2025,5
+449,Article,Openai Eyes More Stargate Data Centers For Ai In Asia Pacific,0.06258013844490051,0.024395110085606575,0.9130247235298157,positive,2025-05-22,2025,5
+450,Article,Qatar S Wealth Fund Stays Active In China Despite Us Concerns,0.8393163681030273,0.0127492630854249,0.14793437719345093,negative,2025-05-22,2025,5
+451,Article,Workday Gives Lackluster Growth Outlook Despite New Ai Tools,0.014385301619768143,0.9560686945915222,0.029545925557613373,neutral,2025-05-22,2025,5
+452,Article,Xiaomi Billionaire Touts New Chinese Chip In Tech Showcase,0.6377339959144592,0.010858964174985886,0.35140708088874817,negative,2025-05-22,2025,5
+453,Article,A 20 000 Home Companion Robot From China To Debut This Year,0.2200782746076584,0.009007176384329796,0.7709145545959473,positive,2025-05-23,2025,5
+454,Article,Engineai Targets 1 Billion Valuation As Chinese Robots Heat Up,0.18018734455108643,0.020118314772844315,0.7996943593025208,positive,2025-05-23,2025,5
+455,Article,Podcast Ed Yardeni Says It S Not As Bad As You Think,0.10064709186553955,0.3050009310245514,0.5943520069122314,positive,2025-05-23,2025,5
+456,Article,Podcast Is A Pro Wrestling Mentality Steering The Us Economy,0.08496355265378952,0.021310944110155106,0.8937255144119263,positive,2025-05-23,2025,5
+457,Article,Tiger Backed Robinhood Rival Launches Diy Indexing With A Twist,0.15189139544963837,0.012237108312547207,0.8358714580535889,positive,2025-05-23,2025,5
+458,Article,Uae S Ai University Aims To Become Stanford Of The Gulf,0.4797050654888153,0.009049207903444767,0.5112456679344177,positive,2025-05-23,2025,5
+459,Article,Alibaba Chair Says Asian Firms Can Look For Growth Outside Of Us,0.7279138565063477,0.008307457901537418,0.2637786567211151,negative,2025-05-24,2025,5
+460,Article,Nvidia And Wallenberg Businesses Starting Ai Venture In Sweden,0.0989590585231781,0.010961530730128288,0.8900794386863708,positive,2025-05-24,2025,5
+461,Article,Nvidia Plans Cheaper Blackwell Ai Chip For China Reuters Says,0.18739433586597443,0.01097867637872696,0.801626980304718,positive,2025-05-24,2025,5
+462,Article,Meituan Achieves Solid Sales Growth On Global Expansion,0.9551296830177307,0.014813059009611607,0.030057230964303017,negative,2025-05-26,2025,5
+463,Article,Openai To Set Up Shop In South Korea To Spur Further Growth,0.7112099528312683,0.008381690829992294,0.2804083824157715,negative,2025-05-26,2025,5
+464,Article,Us Prosecutors Sought Builder Ai Data After Sales Overstated,0.02128252573311329,0.9216676354408264,0.057049863040447235,neutral,2025-05-26,2025,5
+465,Article,Kuaishou Sees Higher Spending On Ai Development Denting Margins,0.023125603795051575,0.9633978009223938,0.013476566411554813,neutral,2025-05-27,2025,5
+466,Article,Norway Wealth Fund Ceo Tells Staff They Must Use Ai,0.025757504627108574,0.2514607906341553,0.722781777381897,positive,2025-05-27,2025,5
+467,Article,Silicon Data Creates First Of Its Kind Index For Ai Chips,0.18989969789981842,0.011208121664822102,0.7988921403884888,positive,2025-05-27,2025,5
+468,Article,Uk Envoy Urges Trans Atlantic Tech Alliance Cites China Threat,0.1981421858072281,0.06890802830457687,0.7329498529434204,positive,2025-05-27,2025,5
+469,Article,Anthropic Appoints Netflix Co Founder Reed Hastings To Board,0.026185227558016777,0.07319345325231552,0.9006213545799255,positive,2025-05-28,2025,5
+470,Article,Baidu Backed Ai 3D Game Creator Seele Seeks New Funding,0.4881073832511902,0.009059756994247437,0.5028328895568848,positive,2025-05-28,2025,5
+471,Article,Canadian Telecom Bce To Build Large Network Of Ai Data Centers,0.7734431624412537,0.0058456845581531525,0.22071115672588348,negative,2025-05-28,2025,5
+472,Article,China S Honor Developing Humanoid Robots In 10 Billion Ai Plan,0.3613079786300659,0.010049491189420223,0.6286424994468689,positive,2025-05-28,2025,5
+473,Article,Deepseek Unveils Update To R1 Model As Ai Race Heats Up,0.19445639848709106,0.020140450447797775,0.7854031324386597,positive,2025-05-28,2025,5
+474,Article,Dutch Insurer Scraps Old Style Chat Bots Amid Uneven Ai Rollout,0.01601429097354412,0.9485185742378235,0.03546709939837456,neutral,2025-05-28,2025,5
+475,Article,How Can Parents Handle Deepfakes Ai Influence On Kids Levittown,0.0397196002304554,0.1960534155368805,0.7642269730567932,positive,2025-05-28,2025,5
+476,Article,Japan Backs Ai Chip Startup Edgecortix In Boost To Defense Tech,0.8619354963302612,0.028584010899066925,0.10948047786951065,negative,2025-05-28,2025,5
+477,Article,Job Applicant Interviews Conducted By Ai Offer Benefits Tech Glitches,0.02130935713648796,0.7452994585037231,0.2333911806344986,neutral,2025-05-28,2025,5
+478,Article,Mountainhead Review Hbo Movie Is Hilarious Angry Take On Tech Bros,0.04548202455043793,0.10674979537725449,0.8477681875228882,positive,2025-05-28,2025,5
+479,Article,Nvidia Gives Upbeat Forecast Even As China Slowdown Mars Growth,0.8623067736625671,0.04024331644177437,0.09744998067617416,negative,2025-05-28,2025,5
+480,Article,Renewable Firm Vena S Spinoff Eyes Green Data Centers In Asia,0.23708519339561462,0.02463216707110405,0.7382826209068298,positive,2025-05-28,2025,5
+481,Article,Salesforce Raises Annual Sales Outlook Suggesting Ai Payoff,0.057855963706970215,0.921212375164032,0.020931651815772057,neutral,2025-05-28,2025,5
+482,Article,Salesforce Says Ai Has Reduced Hiring Of Engineers And Customer Service Workers,0.012227531522512436,0.9627196788787842,0.02505275048315525,neutral,2025-05-28,2025,5
+483,Article,Telegram To Distribute Grok In 300 Million Xai Deal Durov Says,0.13052800297737122,0.008681860752403736,0.8607901334762573,positive,2025-05-28,2025,5
+484,Article,Deepseek Says Upgraded Model Reasons Better Hallucinates Less,0.8932997584342957,0.008440187200903893,0.0982600674033165,negative,2025-05-29,2025,5
+485,Article,Delaware Ag Seeking Bank To Advise On Openai Restructuring,0.11951567977666855,0.009589767083525658,0.8708945512771606,positive,2025-05-29,2025,5
+486,Article,Khosla Led Deal Values Data Startup Clickhouse At 6 35 Billion,0.05147017538547516,0.023682523518800735,0.9248472452163696,positive,2025-05-29,2025,5
+487,Article,Kuaishou Releases Faster And Better Video Generation Ai Tool,0.5433694124221802,0.008688145317137241,0.4479423761367798,negative,2025-05-29,2025,5
+488,Article,Microsoft Msft Shares Go From Laggard To Leader As Ai Growth Improves,0.5378043055534363,0.11175299435853958,0.35044264793395996,negative,2025-05-29,2025,5
+489,Article,New York Times Agrees To License Content To Amazon For Ai Use,0.46485868096351624,0.011415314860641956,0.5237260460853577,positive,2025-05-29,2025,5
+490,Article,Ntt Docomo Seeks To Buy Sbi S Net Bank To Stem Customer Flight,0.29468148946762085,0.012112070806324482,0.6932064890861511,positive,2025-05-29,2025,5
+491,Article,Nvidia Ceo Warns That Chinese Ai Rivals Have Become Formidable,0.008516080677509308,0.959753692150116,0.03173016756772995,neutral,2025-05-29,2025,5
+492,Article,Nvidia Faces Bipartisan Concern On China Research Facility Plans,0.011018269695341587,0.9600614309310913,0.02892031893134117,neutral,2025-05-29,2025,5
+493,Article,S P 500 Gains As Court Opposes Tariffs Nvidia Results Impress,0.1112494096159935,0.7482991814613342,0.14045138657093048,neutral,2025-05-29,2025,5
