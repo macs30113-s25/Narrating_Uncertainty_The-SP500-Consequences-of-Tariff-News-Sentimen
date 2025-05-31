@@ -29,7 +29,7 @@ Due to the scale and complexity of the problem, this project employs a multi-sta
 - Finally, forecasting is done using a deep learning model—**LSTM (Long Short-Term Memory)**—implemented in PyTorch and trained on the University of Chicago’s Midway High-Performance Computing (HPC) cluster. This architecture enables efficient modeling of sequential dependencies in financial time series data with high-dimensional inputs including sentiment and technical indicators.
 
 ### Summary of scalable computing components:
-### 🔁 Summary of Scalable Computing Components (by Subgroup)
+### Summary of Scalable Computing Components (by Subgroup)
 
 | Task                  | Bloomberg + Midway (Baihui Wang)                                 | Wall Street Journal + AWS (Charlotte Li)                            |
 |-----------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------|
