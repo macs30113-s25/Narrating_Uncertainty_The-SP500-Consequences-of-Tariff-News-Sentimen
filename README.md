@@ -26,10 +26,9 @@ Due to the scale and complexity of the problem, this project employs a multi-sta
 
 - To extend the scope of our study beyond current events and improve robustness, we integrate the **FNSPID dataset**, which contains over **15.7 million financial news articles** and **29.7 million stock price records** from 2019–2020. This allows us to perform historical backtesting on prior tariff shocks.
 
-- Finally, forecasting is done using a deep learning model—**LSTM (Long Short-Term Memory)**—implemented in PyTorch and trained on the University of Chicago’s Midway High-Performance Computing (HPC) cluster. This architecture enables efficient modeling of sequential dependencies in financial time series data with high-dimensional inputs including sentiment and technical indicators.
+- Finally, forecasting is done using a deep learning model—**LSTM (Long Short-Term Memory)**—implemented in PyTorch and trained on uChicago’s Midway High-Performance Computing cluster. This architecture enables efficient modeling of sequential dependencies in financial time series data with high-dimensional inputs including sentiment and technical indicators.
 
-### Summary of scalable computing components:
-### Summary of Scalable Computing Components (by Subgroup)
+### Summary of Scalable Computing Components:
 
 | Task                  | Bloomberg + Midway (Baihui Wang)                                 | Wall Street Journal + AWS (Charlotte Li)                            |
 |-----------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------|
@@ -38,3 +37,26 @@ Due to the scale and complexity of the problem, this project employs a multi-sta
 | Historical data       | FNSPID dataset: 15.7M news + 29.7M prices (2019–2020 full market span) | Tariff-topic WSJ articles: ~2000 in 2019 and ~1000 in 2020              |
 | Sequential modeling   | PyTorch LSTM trained on SageMaker and locally                     | PyTorch LSTM trained on SageMaker and locally                          |
 | Backtesting           | Bloomberg-based sentiment models tested on 2019–2020 tariff windows | WSJ-based models backtested on tariff shocks in 2019 and 2020           |
+
+
+## Results & Interpretation
+
+| Time Window | Context & Evaluation | Interpretation |
+|-------------|----------------------|----------------|
+| **Train: 2024/07 – 2025/05** | - Apr 2, 2025: U.S. launched multilateral tariff talks<br>- R²: 0.9285, RMSE: 65.08 | Model fits well under stable regimes but underreacts to sudden political shocks. Residuals spike around April events. |
+| **Backtest: 2019/05 – 2019/09** | - May 10: Tariff hike on $200B Chinese goods<br>- Aug 23: China retaliates<br>- R²: 0.8334, RMSE: 27.65 | Performs well when market movement is strongly tied to tariff-specific sentiment. Model captures directionality. |
+| **Backtest: 2020/01 – 2020/03** | - Jan 15: Phase One deal signed<br>- Feb–Mar: COVID-19 panic<br>- R²: 0.9024, RMSE: 107.60 | Mixed drivers (policy + pandemic). High fit but poor magnitude accuracy under extreme volatility. Sentiment partially eclipsed. |
+
+###  Summary Interpretation
+
+- **Best predictive performance** (in both direction and magnitude) was observed when:
+  - Market shocks were directly linked to **tariff announcements**.
+  - Sentiment coverage was **focused, policy-driven**, and temporally aligned with asset price movement.
+
+- **Model robustness declines** when:
+  - Narrative regimes **shift suddenly** (e.g., surprise policy reversals in April 2025).
+  - External shocks like **COVID-19** dominate market behavior, diluting the predictive power of tariff sentiment.
+
+- **Implications**:
+  - Event-specific sentiment features are highly predictive when the **event type is consistent and expected**.
+  - However, **single-theme sentiment models** (e.g., tariff-only) may underperform in **multi-causal or high-volatility environments** where cross-domain narratives interact.
