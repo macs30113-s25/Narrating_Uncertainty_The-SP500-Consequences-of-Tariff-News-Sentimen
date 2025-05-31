@@ -1,0 +1,18 @@
+{"time":"2025-05-30T13:22:12.404661-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/wangbaihui/final-project-bc/results/wandb/run-20250530_132212-ycuhcsyr/logs/debug-core.log"}
+{"time":"2025-05-30T13:22:12.570795-05:00","level":"INFO","msg":"created new stream","id":"ycuhcsyr"}
+{"time":"2025-05-30T13:22:12.570843-05:00","level":"INFO","msg":"stream: started","id":"ycuhcsyr"}
+{"time":"2025-05-30T13:22:12.570864-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"ycuhcsyr"}
+{"time":"2025-05-30T13:22:12.571087-05:00","level":"INFO","msg":"handler: started","stream_id":"ycuhcsyr"}
+{"time":"2025-05-30T13:22:12.571099-05:00","level":"INFO","msg":"sender: started","stream_id":"ycuhcsyr"}
+{"time":"2025-05-30T13:22:12.597889-05:00","level":"ERROR","msg":"HTTP error","status":400,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-05-30T13:22:12.598272-05:00","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 400: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"you may not log runs directly to your organization, please try using your team entity\",\"path\":[\"upsertBucket\"]}]}"}
+{"time":"2025-05-30T13:22:13.600389-05:00","level":"INFO","msg":"stream: closing","id":"ycuhcsyr"}
+{"time":"2025-05-30T13:22:13.640103-05:00","level":"ERROR","msg":"HTTP error","status":400,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-05-30T13:22:13.640166-05:00","level":"ERROR","msg":"sender: sendConfig:","error":"returned error 400: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"you may not log runs directly to your organization, please try using your team entity\",\"path\":[\"upsertBucket\"]}]}"}
+{"time":"2025-05-30T13:22:13.679857-05:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-05-30T13:22:13.680288-05:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"project baihuiw-university-of-chicago-org/stock-prediction not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-05-30T13:22:13.681385-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-30T13:22:13.681456-05:00","level":"INFO","msg":"sender: closed","stream_id":"ycuhcsyr"}
+{"time":"2025-05-30T13:22:13.681448-05:00","level":"INFO","msg":"handler: closed","stream_id":"ycuhcsyr"}
+{"time":"2025-05-30T13:22:13.681615-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ycuhcsyr"}
+{"time":"2025-05-30T13:22:13.681632-05:00","level":"INFO","msg":"stream: closed","id":"ycuhcsyr"}

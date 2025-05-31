@@ -1,0 +1,18 @@
+{"time":"2025-05-30T13:19:37.859361-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/wangbaihui/final-project-bc/results/wandb/run-20250530_131937-swr8brrq/logs/debug-core.log"}
+{"time":"2025-05-30T13:19:38.372578-05:00","level":"INFO","msg":"created new stream","id":"swr8brrq"}
+{"time":"2025-05-30T13:19:38.372627-05:00","level":"INFO","msg":"stream: started","id":"swr8brrq"}
+{"time":"2025-05-30T13:19:38.372655-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"swr8brrq"}
+{"time":"2025-05-30T13:19:38.372714-05:00","level":"INFO","msg":"handler: started","stream_id":"swr8brrq"}
+{"time":"2025-05-30T13:19:38.37277-05:00","level":"INFO","msg":"sender: started","stream_id":"swr8brrq"}
+{"time":"2025-05-30T13:19:38.403012-05:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-05-30T13:19:38.403096-05:00","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 404: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"entity your-username not found during upsertBucket\",\"path\":[\"upsertBucket\"]}]}"}
+{"time":"2025-05-30T13:19:39.40499-05:00","level":"INFO","msg":"stream: closing","id":"swr8brrq"}
+{"time":"2025-05-30T13:19:39.433116-05:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-05-30T13:19:39.433185-05:00","level":"ERROR","msg":"sender: sendConfig:","error":"returned error 404: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"entity your-username not found during upsertBucket\",\"path\":[\"upsertBucket\"]}]}"}
+{"time":"2025-05-30T13:19:39.480982-05:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-05-30T13:19:39.481122-05:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"entity your-username not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-05-30T13:19:39.481469-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-30T13:19:39.481528-05:00","level":"INFO","msg":"handler: closed","stream_id":"swr8brrq"}
+{"time":"2025-05-30T13:19:39.481545-05:00","level":"INFO","msg":"sender: closed","stream_id":"swr8brrq"}
+{"time":"2025-05-30T13:19:39.481554-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"swr8brrq"}
+{"time":"2025-05-30T13:19:39.48178-05:00","level":"INFO","msg":"stream: closed","id":"swr8brrq"}
