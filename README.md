@@ -14,7 +14,7 @@ To address this, we design a comparative framework that isolates the causal infl
 
 By controlling for time window and model architecture, and varying only the thematic scope of media input, we assess whether markets are more reactive to targeted uncertainty narratives than to ambient sentiment.
 
-## 🏗️ Scalable Architecture & Methodology
+##  Scalable Architecture & Methodology
 
 Due to the scale and complexity of the problem, this project employs a multi-stage pipeline that integrates scalable cloud computing infrastructure with deep learning methods for text and time series modeling.
 
