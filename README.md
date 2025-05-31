@@ -1,4 +1,4 @@
-#Narrating Uncertainty: The Financial Consequences of Policy-Specific Media Sentiment#
+# Narrating Uncertainty: The Financial Consequences of Policy-Specific Media Sentiment
 
 ##  Research Motivation & Overview
 
