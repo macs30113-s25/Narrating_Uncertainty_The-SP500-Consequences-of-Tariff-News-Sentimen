@@ -1,0 +1,6 @@
+Evaluation Results:
+MSE: 4236.0205
+RMSE: 65.0847
+MAE: 46.9422
+R² Score: 0.9285
+

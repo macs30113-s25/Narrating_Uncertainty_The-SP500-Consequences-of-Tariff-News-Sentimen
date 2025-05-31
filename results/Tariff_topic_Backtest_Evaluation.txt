@@ -1,0 +1,14 @@
+Evaluation on Tariff_topic_Backtest_201905-201909.csv:
+MSE: 764.2934
+RMSE: 27.6459
+MAE: 20.7599
+R² Score: 0.8334
+
+
+Evaluation on Tariff_topic_Backtest_202001-202003.csv:
+MSE: 11577.1331
+RMSE: 107.5971
+MAE: 71.6669
+R² Score: 0.9024
+
+
