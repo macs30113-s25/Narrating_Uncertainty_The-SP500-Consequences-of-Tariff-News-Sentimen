@@ -1,3 +1,5 @@
+#Narrating Uncertainty: The Financial Consequences of Policy-Specific Media Sentiment#
+
 ##  Research Motivation & Overview
 
 The economic consequences of political uncertainty have long been a focal point in political economy and financial economics. While classical models like the Efficient Market Hypothesis (EMH) suggest that prices fully reflect public information, newer theories highlight heterogeneity in investor behavior, attention allocation, and narrative amplification.
