@@ -106,3 +106,7 @@ Our architecture demonstrates how scalable computing tools can be used to bridge
 - AWS EC2, SageMaker, and Midway HPC provide the elastic capacity to execute deep learning models and NLP pipelines at scale.
 - The design is modular, extensible, and cloud-portable—enabling future integration with real-time news feeds, multi-topic sentiment tracking, or cross-market comparison.
 
+## Group Members
+
+- Charlotte Li
+- Baihui Wang
