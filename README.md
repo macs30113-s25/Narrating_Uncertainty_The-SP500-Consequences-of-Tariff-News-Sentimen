@@ -65,9 +65,9 @@ Due to the scale and complexity of the problem, this project employs a multi-sta
   - However, **single-theme sentiment models** (e.g., tariff-only) may underperform in **multi-causal or high-volatility environments** where cross-domain narratives interact.
  
 ###  Interpretation of Residual Patterns
+![Residual Plot 2024–2025](results/Tariff_topic_Train_Residual_plot.png)
 ![Residual Plot 2019](results/Tariff_topic_Backtest_201905-201909_Residual_plot.png)
 ![Residual Plot 2020](results/Tariff_topic_Backtest_202001-202003_Residual_plot.png)
-![Residual Plot 2024–2025](results/Tariff_topic_Train_Residual_plot.png)
 
 Across all three windows, the residual plots reflect how model performance is tightly coupled with the nature and clarity of the dominant market narratives.
 
